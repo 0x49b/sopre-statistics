@@ -1,0 +1,924 @@
+Wed Nov 24 13:30:29 2021 +0100,e524070,Pull request #689,SOPRE-31617 bianca employee transfer update data
+Tue Nov 23 12:19:41 2021 +0200,e524070,Changes
+Thu Nov 18 13:33:58 2021 +0200,e524070,Adjustment
+Thu Nov 18 12:04:07 2021 +0100,e532879,Pull request #685,Release/2022.r1.t2
+Thu Nov 18 12:45:04 2021 +0200,e524070,Adaptation of the methods
+Thu Nov 18 11:31:56 2021 +0100,e532879,Pull request #683,Changing model version to 3.7.100  for t2
+Thu Nov 18 11:30:41 2021 +0100,e532879,Pull request #682,Changing model version to 3.7.100  for t2
+Thu Nov 18 11:24:00 2021 +0100,e532879,Changing model version to 3.7.100  for t2
+Thu Nov 18 09:28:22 2021 +0200,e524070,Changes
+Wed Nov 17 20:03:52 2021 +0200,e524070,First changes
+Wed Nov 17 08:58:32 2021 +0100,e515795,Pull request #676,2022.r2.t1/feature/sopre 26423 helen cyclic roster ep cleanup
+Wed Nov 17 09:53:46 2021 +0200,e515795,Deleted one more attribute from ShiftCyclePlanEmployee
+Tue Nov 16 14:55:24 2021 +0100,e515795,Pull request #677,Added T2 translations
+Tue Nov 16 14:55:07 2021 +0100,e515795,Pull request #678,Added T2 translations
+Tue Nov 16 13:20:46 2021 +0200,e515795,Added T2 translations
+Tue Nov 16 11:34:01 2021 +0200,e515795,Branch adj
+Mon Nov 15 15:46:42 2021 +0100,e510372,Pull request #673,SOPRE-31204
+Mon Nov 15 16:28:37 2021 +0200,e515795,CyclicRosterDay deleted attributes
+Mon Nov 15 16:27:00 2021 +0200,e515795,Restored branch to resolve error
+Mon Nov 15 16:15:14 2021 +0200,e515795,CyclicRosterDay cleanup,deleted attributes
+Mon Nov 15 16:06:43 2021 +0200,e515795,Deleted responses
+Mon Nov 15 15:59:24 2021 +0200,e515795,UI Cleanup
+Mon Nov 15 15:08:59 2021 +0200,e515795,CyclicRosterLine cleanup
+Mon Nov 15 14:58:52 2021 +0200,e515795,ShiftCyclicPlanEmployee cleanup
+Mon Nov 15 14:20:49 2021 +0200,e515795,ShiftCyclePlan cleanup
+Mon Nov 15 12:59:19 2021 +0200,e510372,Merge branch 'develop'
+Mon Nov 15 11:39:13 2021 +0100,e513645,Pull request #668,SOPRE-30709 / 30579 kt cleanup crewdata stefan ep
+Thu Nov 11 14:56:21 2021 +0100,e510372,Pull request #663,SOPRE-30710
+Thu Nov 11 13:44:45 2021 +0100,e515795,Pull request #671,SOPRE-31594
+Tue Nov 9 16:36:46 2021 +0100,e515795,Pull request #670,SOPRE-31594
+Tue Nov 9 15:47:17 2021 +0200,e515795,SOPRE-31594
+Tue Nov 9 13:26:34 2021 +0200,e510372,imp
+Tue Nov 9 11:59:23 2021 +0100,e515795,Pull request #667,SOPRE-30711 2022.r2.t1/feature/sopre-30711-helen-kt-cleanup
+Mon Nov 8 15:40:05 2021 +0100,e510372,Pull request #665,SOPRE-31568
+Mon Nov 8 15:39:53 2021 +0100,e510372,Pull request #666,SOPRE-31568
+Mon Nov 8 16:22:02 2021 +0200,e510372,imp
+Mon Nov 8 08:31:48 2021 +0100,e510372,Pull request #661,SOPRE-31496
+Mon Nov 8 08:31:18 2021 +0100,e510372,Pull request #662,SOPRE-31496
+Fri Nov 5 15:17:47 2021 +0200,e510372,Merge branch 'develop'
+Fri Nov 5 09:20:15 2021 +0200,e510372,imp
+Thu Nov 4 12:59:50 2021 +0100,e510372,Pull request #659,SOPRE-31404
+Thu Nov 4 12:59:41 2021 +0100,e510372,Pull request #658,SOPRE-31404
+Thu Nov 4 10:44:14 2021 +0200,e510372,imp
+Wed Nov 3 18:32:16 2021 +0200,e513645,added a space in order to be able to push to remote
+Wed Nov 3 12:14:16 2021 +0100,e510372,Pull request #652,SOPRE-31043 -> SOPRE-31404
+Wed Nov 3 12:14:09 2021 +0100,e510372,Pull request #653,2021.r6.t1/feature/sopre 31043 dan v2
+Wed Nov 3 10:28:55 2021 +0200,e515795,Ep KT cleanup
+Tue Nov 2 12:50:58 2021 +0200,e513645,OutOfHomeRules related cleanup
+Mon Nov 1 16:39:58 2021 +0200,e510372,Merge branch 'develop'
+Fri Oct 29 14:09:24 2021 +0300,e510372,imp
+Fri Oct 29 09:41:25 2021 +0300,e510372,adj
+Thu Oct 28 14:53:18 2021 +0200,e532879,Pull request #650,Release 2022.01 T1 -> Change version to 3.7.0
+Thu Oct 28 14:58:36 2021 +0300,e532879,Release 2022.01 T1 -> Change version to 3.7.0
+Wed Oct 27 15:55:02 2021 +0300,e510372,adj
+Wed Oct 27 13:26:14 2021 +0200,e524070,Pull request #648,SOPRE-30647 bianca ct duration transfer
+Wed Oct 27 14:00:06 2021 +0300,e524070,Merge branch 'develop'
+Wed Oct 27 12:57:30 2021 +0200,e515795,Pull request #646,Added translation fix
+Wed Oct 27 12:57:10 2021 +0200,e524070,Pull request #621,SOPRE-30646 bianca ct duration
+Wed Oct 27 13:53:56 2021 +0300,e515795,Added translation fix
+Wed Oct 27 12:31:17 2021 +0200,e510372,Pull request #645,SOPRE-31127
+Wed Oct 27 12:52:51 2021 +0300,e510372,adj
+Wed Oct 27 12:50:02 2021 +0300,e510372,adj
+Wed Oct 27 12:46:01 2021 +0300,e510372,adj
+Wed Oct 27 10:15:12 2021 +0300,e510372,adj
+Tue Oct 26 16:08:09 2021 +0200,e525732,Pull request #641,SOPRE-27255
+Tue Oct 26 16:18:26 2021 +0300,e524070,Added comments
+Tue Oct 26 15:15:26 2021 +0200,e515795,Pull request #638,2022.r1.t1/feature/sopre 30597 translations t1 helen
+Tue Oct 26 16:08:15 2021 +0300,e515795,Translation default text changed
+Tue Oct 26 16:05:32 2021 +0300,e515795,Added translations
+Tue Oct 26 13:48:23 2021 +0300,e524070,Merge branch 'develop'
+Tue Oct 26 13:42:27 2021 +0300,e524070,Changes
+Tue Oct 26 12:54:03 2021 +0300,e524070,Added new attributes to be sent from EP to LE
+Tue Oct 26 12:45:37 2021 +0300,e510372,adj
+Tue Oct 26 11:31:13 2021 +0200,e510372,Pull request #634,SOPRE-30688
+Tue Oct 26 09:40:09 2021 +0300,e522885,Merge branch 'develop' CT,RT fix
+Mon Oct 25 17:00:13 2021 +0300,e513645,CrewType, LRRRestDay and LeaveType related cleanup
+Mon Oct 25 13:34:21 2021 +0300,e510372,Merge branch 'develop'
+Mon Oct 25 12:27:18 2021 +0300,e524070,Removing newly added attributes
+Mon Oct 25 12:14:10 2021 +0300,e524070,Merge branch '2022.r1.t1/feature/sopre-30646-bianca-ct-duration'
+Mon Oct 25 10:09:16 2021 +0300,e524070,Merge branch 'develop'
+Mon Oct 25 00:54:45 2021 +0300,e524070,Removed default values
+Mon Oct 25 00:47:00 2021 +0300,e524070,Latest changes
+Fri Oct 22 14:58:59 2021 +0200,e510372,Pull request #631,SOPRE-31127
+Fri Oct 22 10:56:49 2021 +0200,e510372,Pull request #632,SOPRE-31264
+Fri Oct 22 10:46:19 2021 +0300,e524070,Changes after EP code review
+Fri Oct 22 09:21:46 2021 +0300,e510372,Merge branch 'develop'
+Fri Oct 22 08:25:45 2021 +0300,e510372,Merge branch 'develop'
+Thu Oct 21 17:00:31 2021 +0300,e524070,Changes GetConstTextBalanceDayOK method
+Thu Oct 21 15:17:50 2021 +0200,e522885,Pull request #616,final implementation
+Thu Oct 21 15:16:58 2021 +0300,e510372,adj
+Thu Oct 21 13:46:16 2021 +0300,e510372,adj
+Thu Oct 21 10:22:03 2021 +0200,e525732,Pull request #620,SOPRE-27288
+Wed Oct 20 15:58:00 2021 +0300,e524070,Changes back to StartTimeBase
+Wed Oct 20 14:59:34 2021 +0300,e524070,Changes implementation after review
+Wed Oct 20 11:47:53 2021 +0300,e510372,imp
+Tue Oct 19 18:08:45 2021 +0300,e510372,adj
+Tue Oct 19 17:54:04 2021 +0300,e510372,imp
+Tue Oct 19 11:02:15 2021 +0300,e510372,imp
+Mon Oct 18 19:36:01 2021 +0300,e510372,imp
+Mon Oct 18 18:22:10 2021 +0300,e510372,imp
+Mon Oct 18 11:23:33 2021 +0300,e524070,Merge branch 'develop'
+Mon Oct 18 10:48:42 2021 +0300,e524070,Changes
+Mon Oct 18 10:34:23 2021 +0300,e525732,clean up
+Fri Oct 15 15:31:11 2021 +0300,e510372,imp
+Fri Oct 15 12:10:11 2021 +0300,e524070,Changes
+Fri Oct 15 11:35:30 2021 +0300,e524070,Merge branch 'develop'
+Fri Oct 15 11:15:42 2021 +0300,e510372,adjustment
+Fri Oct 15 11:09:51 2021 +0300,e524070,Merge branch '2022.r1.t1/feature/sopre-30646-bianca-ct-duration'
+Thu Oct 14 17:52:57 2021 +0300,e522885,final implementation
+Thu Oct 14 17:04:35 2021 +0300,e524070,Changes bug
+Thu Oct 14 16:58:04 2021 +0300,e510372,adj
+Thu Oct 14 16:49:37 2021 +0300,e510372,adj
+Thu Oct 14 15:24:17 2021 +0200,e525732,Pull request #604,SOPRE-30233
+Thu Oct 14 16:20:33 2021 +0300,e525732,adj
+Thu Oct 14 15:47:22 2021 +0300,e525732,adj
+Thu Oct 14 15:34:21 2021 +0300,e525732,added the issue tag
+Thu Oct 14 15:06:59 2021 +0300,e510372,adj
+Thu Oct 14 14:56:13 2021 +0300,e510372,adj
+Thu Oct 14 12:29:47 2021 +0300,e510372,imp
+Thu Oct 14 08:42:56 2021 +0300,e510372,adj
+Wed Oct 13 16:28:13 2021 +0300,e524070,Changes bugs
+Wed Oct 13 13:57:00 2021 +0300,e510372,adjustment
+Wed Oct 13 13:39:35 2021 +0300,e510372,imp
+Wed Oct 13 12:05:56 2021 +0300,e525732,Merge branch 'develop'
+Wed Oct 13 09:33:02 2021 +0200,e513645,Pull request #603,SOPRE-30657 adjustment
+Wed Oct 13 10:11:39 2021 +0300,e510372,adjustment
+Tue Oct 12 13:32:26 2021 +0200,e513645,Pull request #601,SOPRE-30657
+Tue Oct 12 13:35:20 2021 +0300,e510372,imp
+Tue Oct 12 12:05:59 2021 +0200,e513645,Pull request #598,SOPRE-30687
+Tue Oct 12 12:03:37 2021 +0200,e510372,_ROOT_Component_dlgGlobalParametersForDaemon.def edited online with Bitbucket
+Tue Oct 12 11:06:00 2021 +0200,e510372,Pull request #599,SOPRE-31106 cleanup daemon gp adjustments stefan
+Mon Oct 11 16:19:17 2021 +0200,ue86889,Pull request #594,broker change & XML mapping
+Mon Oct 11 13:11:07 2021 +0300,e510372,Merge branch 'develop'
+Fri Oct 8 17:26:07 2021 +0300,e513645,one more check added for safety
+Fri Oct 8 16:35:24 2021 +0300,e513645,Added data biding for the GPs
+Fri Oct 8 15:10:01 2021 +0300,e513645,Merge branch 'develop'
+Fri Oct 8 14:48:12 2021 +0300,e513645,Precondition added, with translation SM param daemon deleted Upgrade script added Defaults added
+Fri Oct 8 12:29:20 2021 +0300,e524070,Changes
+Fri Oct 8 12:18:21 2021 +0300,e524070,Merge branch 'develop'
+Fri Oct 8 12:10:44 2021 +0300,e524070,Added new attributes
+Fri Oct 8 11:22:16 2021 +0300,e513645,Added new GP attributes, set values in dialog, adjusted the cleanup method
+Thu Oct 7 17:22:09 2021 +0300,e510372,imp
+Thu Oct 7 15:03:27 2021 +0300,e510372,add conection params for sopip_eap
+Thu Oct 7 15:01:32 2021 +0300,e524070,Changes CT duration constraint implementation
+Thu Oct 7 10:51:17 2021 +0300,e525732,adj
+Wed Oct 6 16:28:50 2021 +0300,e524070,Changes
+Wed Oct 6 11:44:33 2021 +0200,e513645,Pull request #548,SOPRE-27286 roxana constraint removal
+Wed Oct 6 11:43:25 2021 +0200,e513645,Pull request #588,SOPRE-30682
+Wed Oct 6 12:42:18 2021 +0300,e524070,Changes
+Wed Oct 6 12:40:53 2021 +0300,e524070,Modified back UI files
+Wed Oct 6 12:32:35 2021 +0300,e524070,Changed back audit trail method
+Wed Oct 6 11:32:08 2021 +0200,e513645,Pull request #589,SOPRE-30828 2022.r1.t1/feature/sopre-30828-helen-work-offer-default-values
+Wed Oct 6 12:29:15 2021 +0300,e524070,Merge branch 'develop'
+Tue Oct 5 17:31:21 2021 +0300,e510372,Merge branch 'develop'
+Tue Oct 5 17:21:35 2021 +0300,e510372,imp
+Tue Oct 5 17:17:34 2021 +0300,e510372,imp
+Tue Oct 5 17:12:08 2021 +0300,e510372,adj
+Tue Oct 5 16:53:13 2021 +0300,e510372,imp
+Tue Oct 5 16:41:24 2021 +0300,e510372,imp
+Tue Oct 5 16:27:59 2021 +0300,e510372,adj
+Tue Oct 5 16:16:59 2021 +0300,e510372,adj
+Tue Oct 5 16:12:09 2021 +0300,e510372,adj
+Tue Oct 5 16:01:01 2021 +0300,e510372,adj
+Tue Oct 5 15:55:21 2021 +0300,e510372,adj
+Tue Oct 5 15:48:30 2021 +0300,e510372,adj
+Tue Oct 5 15:41:02 2021 +0300,e510372,adj
+Tue Oct 5 15:32:09 2021 +0300,e510372,adj
+Tue Oct 5 15:12:02 2021 +0300,e525732,leave day hours fix
+Tue Oct 5 13:09:45 2021 +0200,e513645,Pull request #565,SOPRE-31043
+Tue Oct 5 13:40:39 2021 +0300,e510372,Merge branch 'develop'
+Tue Oct 5 13:33:38 2021 +0300,e510372,imp
+Tue Oct 5 13:05:57 2021 +0300,e515795,SOPRE-30828
+Mon Oct 4 14:52:08 2021 +0200,e510372,Pull request #569,SOPRE-30655 clean-refresh-count-stefan
+Mon Oct 4 15:39:33 2021 +0300,e510372,imp
+Mon Oct 4 13:17:44 2021 +0300,e522885,deleted attribute SchedulePlanShift::MinDurationRestPeriod
+Fri Oct 1 17:23:09 2021 +0300,e510372,imp
+Fri Oct 1 09:42:46 2021 +0200,e513645,Pull request #567,SOPRE-30674 2022.r1.t1/feature/sopre-30674-helen-rt-constraint-le-transfer-from-ep
+Fri Oct 1 10:37:19 2021 +0300,e513645,Merge branch 'develop'
+Fri Oct 1 08:58:20 2021 +0200,e513645,Pull request #562,SOPRE-30656
+Thu Sep 30 15:22:53 2021 +0300,e501566,broker change & XML mapping
+Thu Sep 30 12:56:20 2021 +0300,e513645,Merge branch 'develop'
+Thu Sep 30 12:52:49 2021 +0300,e513645,Merge branch 'develop'
+Thu Sep 30 10:53:34 2021 +0300,e510372,Merge branch 'develop'
+Thu Sep 30 10:42:39 2021 +0300,e525732,EP-LE tansfer
+Thu Sep 30 09:58:08 2021 +0300,e510372,adj
+Wed Sep 29 16:03:55 2021 +0300,e510372,adj
+Wed Sep 29 14:25:52 2021 +0300,e510372,Merge branch 'develop'
+Wed Sep 29 14:14:05 2021 +0300,e510372,adj
+Wed Sep 29 11:45:47 2021 +0200,ue86889,Pull request #553,2021.r6.t1/feature/sopre 30584 evelin
+Wed Sep 29 11:38:55 2021 +0200,e513645,Pull request #494,SOPRE-27253 roxana azg azgv constraint
+Wed Sep 29 12:28:02 2021 +0300,e510372,adj
+Wed Sep 29 11:57:49 2021 +0300,e510372,adj
+Tue Sep 28 18:52:21 2021 +0300,e510372,adj
+Tue Sep 28 14:54:10 2021 +0300,e510372,adj
+Tue Sep 28 14:50:41 2021 +0300,e510372,adj
+Tue Sep 28 13:10:03 2021 +0300,e515795,Added attributes which needs to be transfered to LE via XML
+Tue Sep 28 12:43:10 2021 +0300,e510372,add broker
+Tue Sep 28 12:38:53 2021 +0300,e513645,Implemented, still with RefreshComment
+Tue Sep 28 10:20:36 2021 +0200,e515795,Pull request #549,SOPRE-30669 edp creation limitation
+Tue Sep 28 11:07:42 2021 +0300,e510372,adj
+Tue Sep 28 11:05:36 2021 +0300,e510372,adj
+Tue Sep 28 11:01:52 2021 +0300,e510372,adj
+Tue Sep 28 11:00:18 2021 +0300,e524070,New attribute EmployeeDayPlan
+Mon Sep 27 17:17:15 2021 +0300,e510372,imp
+Mon Sep 27 13:52:53 2021 +0200,e513645,Pull request #552,2022.r1.t1/feature/sopre-30671-helen-rt-constraint-ep
+Mon Sep 27 14:50:41 2021 +0300,e515795,changed default value in table function
+Mon Sep 27 13:29:31 2021 +0200,e513645,Pull request #545,SOPRE-30671 helen rt constraint ep
+Mon Sep 27 14:26:19 2021 +0300,e515795,added comment to the new table function
+Mon Sep 27 13:02:53 2021 +0300,e510372,adj
+Mon Sep 27 11:37:12 2021 +0200,e513645,Method_GetCreateYearPlan#683.qbl edited online with Bitbucket
+Mon Sep 27 11:24:34 2021 +0200,e513645,Pull request #535,SOPRE-30755
+Mon Sep 27 11:22:23 2021 +0200,e510372,_ROOT_Component_dlgGlobalParametersForDaemon.def edited online with Bitbucket
+Mon Sep 27 12:19:56 2021 +0300,e510372,adj
+Mon Sep 27 12:00:45 2021 +0300,e510372,imp
+Mon Sep 27 10:45:48 2021 +0300,e513645,bug fix
+Mon Sep 27 10:40:01 2021 +0300,e501566,minor adjustments
+Mon Sep 27 10:14:50 2021 +0300,e501566,some adjustments -for consistency
+Mon Sep 27 09:32:03 2021 +0300,e515795,Added comments
+Sun Sep 26 01:15:40 2021 +0300,e522885,deleted attribute WorkingUnitPosition::StandardRestForPrecondition
+Fri Sep 24 15:14:15 2021 +0300,e522885,properties DEV commit
+Fri Sep 24 13:50:14 2021 +0300,e513645,Added and used new GP
+Fri Sep 24 12:05:54 2021 +0200,e510533,Pull request #541,commited changes made by the system to properties files
+Fri Sep 24 12:03:06 2021 +0300,e510372,Imp
+Fri Sep 24 10:52:47 2021 +0300,e513645,commited changes made by the system to properties files
+Thu Sep 23 17:40:21 2021 +0300,e522885,imp
+Thu Sep 23 16:07:43 2021 +0300,e515795,changing last check,added the wrong attribute with the last commit
+Thu Sep 23 16:06:00 2021 +0300,e513645,implementation
+Thu Sep 23 16:02:31 2021 +0300,e515795,Adding check of leave days length
+Thu Sep 23 15:50:36 2021 +0300,e515795,Not triggering the constraint on leave days
+Thu Sep 23 14:12:39 2021 +0200,e510372,Pull request #534,2022.r1.t1/feature/sopre 26445 helen employee management cleanup
+Thu Sep 23 13:56:24 2021 +0300,e524070,Added new column in LeaveTypeLaborRules KT
+Thu Sep 23 10:14:55 2021 +0300,e510372,Merge branch 'develop'
+Thu Sep 23 09:29:11 2021 +0300,e510372,adj
+Wed Sep 22 17:36:12 2021 +0300,e515795,EmployeePartTimePeriod cleanup,deleted Designer comments
+Wed Sep 22 17:06:07 2021 +0300,e501566,code clean
+Wed Sep 22 16:57:26 2021 +0300,e501566,fix ifexpr
+Wed Sep 22 16:47:14 2021 +0300,e501566,ifexpr
+Wed Sep 22 16:40:06 2021 +0300,e501566,fix days with no shifts
+Wed Sep 22 16:34:57 2021 +0300,e501566,fix
+Wed Sep 22 16:31:22 2021 +0300,e501566,extend constr
+Wed Sep 22 16:25:19 2021 +0300,e501566,fix
+Wed Sep 22 16:21:03 2021 +0300,e501566,debug
+Wed Sep 22 16:13:29 2021 +0300,e501566,debug
+Wed Sep 22 15:43:07 2021 +0300,e501566,fix
+Wed Sep 22 15:37:02 2021 +0300,e501566,constraint fix
+Wed Sep 22 15:12:53 2021 +0300,e515795,MedicalLimitationPeriod cleanup,removed comment from designer
+Wed Sep 22 15:09:12 2021 +0300,e501566,constraint correction
+Wed Sep 22 10:30:29 2021 +0300,e510372,imp
+Tue Sep 21 12:03:17 2021 +0200,e513645,Pull request #508,SOPRE-30654
+Tue Sep 21 12:57:32 2021 +0300,e515795,Restructured constraint
+Tue Sep 21 11:51:39 2021 +0300,e510372,adj
+Tue Sep 21 11:40:33 2021 +0300,e515795,Added new attribute to count special leave days since rest day
+Tue Sep 21 11:27:50 2021 +0300,e501566,take in consideration the ovverruling attribute
+Tue Sep 21 10:56:40 2021 +0300,e510372,adj
+Tue Sep 21 08:57:13 2021 +0300,e510372,adj
+Mon Sep 20 16:37:42 2021 +0300,e515795,adjusted calc
+Mon Sep 20 16:22:20 2021 +0300,e522885,Merge branch '2021.r6.t1/feature/sopre-27253-roxana-azg-azgv-constraint' partial implementation
+Mon Sep 20 15:16:04 2021 +0300,e501566,debug
+Mon Sep 20 14:11:40 2021 +0300,e515795,Adjusted calc function
+Mon Sep 20 13:10:50 2021 +0300,accdansbb,Merge branch '2021.r6.t1/feature/sopre-30654-dan' of https://code.sbb.ch/scm/pz_quintiq/sopre-employeeplanner into 2021.r6.t1/feature/sopre-30654-dan
+Mon Sep 20 13:10:09 2021 +0300,e510372,Merge branch 'develop'
+Mon Sep 20 13:09:52 2021 +0300,e515795,added table function again
+Mon Sep 20 13:05:46 2021 +0300,e515795,deleted table function
+Mon Sep 20 13:03:51 2021 +0300,e515795,Recreating table function
+Mon Sep 20 13:03:22 2021 +0300,e501566,fix precondition
+Mon Sep 20 12:52:24 2021 +0300,e515795,Added new table function
+Mon Sep 20 09:13:14 2021 +0200,e513645,Pull request #487,SOPRE-19937
+Fri Sep 17 17:14:36 2021 +0300,e515795,added match rule
+Fri Sep 17 15:16:50 2021 +0300,e515795,Deleted matching rule
+Fri Sep 17 14:58:27 2021 +0300,e501566,commit implementation
+Fri Sep 17 14:00:11 2021 +0300,e515795,SOPRE-30671
+Fri Sep 17 09:06:34 2021 +0200,e510372,Libraries edited online with Bitbucket
+Fri Sep 17 09:05:52 2021 +0200,e510372,Libraries edited online with Bitbucket
+Fri Sep 17 09:20:58 2021 +0300,e515795,Changed the default text of the translation
+Thu Sep 16 14:37:29 2021 +0200,e501566,Pull request #500,2021.r6.t1/feature/sopre 30581 flexitime constraint attila
+Thu Sep 16 15:05:20 2021 +0300,e510372,adj
+Thu Sep 16 13:36:30 2021 +0300,e510372,imp
+Thu Sep 16 11:21:47 2021 +0300,e515795,Added IsRestDayGapCheckRequired column to LeaveTypeLaborRulesKT
+Thu Sep 16 11:14:47 2021 +0300,e515795,In KT LeaveTypeLaborRules changed the Department column to PlanningGroup Adjusted EmployeeDayPlan,CalcIsRestSundayValid (comparing the KT column to WorkingUnit:PlanningGroup)
+Wed Sep 15 18:11:43 2021 +0300,e510372,imp
+Wed Sep 15 17:59:17 2021 +0300,e510372,imp
+Wed Sep 15 13:40:39 2021 +0300,ue86889,Add description to new attribute
+Wed Sep 15 10:57:43 2021 +0200,e510372,Pull request #480,SOPRE-24543 ep xml objects cleanup Stefan,for Release 06
+Tue Sep 14 22:39:00 2021 +0300,ue86889,Change FlexitimeAccountKT and change constraint  and translation
+Tue Sep 14 17:08:25 2021 +0300,e510372,imp
+Tue Sep 14 16:45:20 2021 +0300,e510372,imp
+Tue Sep 14 16:38:01 2021 +0300,e515795,EmployeeAllowedShiftTime cleaned up
+Thu Sep 9 14:47:49 2021 +0200,ue86888,Pull request #496,release 2021.r5.t2 changed version to 3.6.100.0
+Thu Sep 9 14:57:10 2021 +0300,e510533,release 2021.r5.t2 changed version to 3.6.100.0
+Wed Sep 8 15:54:50 2021 +0300,e522885,Merge branch 'develop'
+Wed Sep 8 15:36:18 2021 +0300,e522885,attribute description removal
+Wed Sep 8 13:46:42 2021 +0200,e513785,Pull request #489,SOPRE-30507
+Tue Sep 7 17:30:50 2021 +0300,e522885,last changes
+Tue Sep 7 13:49:45 2021 +0200,e513785,Pull request #492,I imported the translations
+Tue Sep 7 13:58:36 2021 +0300,e506794,I imported the translations
+Fri Sep 3 14:55:58 2021 +0300,e506794,changed the owner
+Thu Sep 2 11:11:10 2021 +0300,e510372,imp
+Thu Sep 2 10:20:19 2021 +0300,e510372,imp
+Thu Sep 2 10:14:47 2021 +0300,e510372,imp
+Wed Sep 1 17:45:15 2021 +0300,e510372,imp p1
+Tue Aug 31 10:55:30 2021 +0300,e522885,adjustment
+Tue Aug 31 09:27:52 2021 +0300,e522885,adjusted EmployeeDayPlan::CalcNrOfWorkFreeDaysSinceLastDayWithShiftOrReserve
+Wed Aug 25 10:50:26 2021 +0200,e513645,metadata.properties edited online with Bitbucket
+Mon Aug 23 16:56:42 2021 +0200,e513645,metadata.properties edited online with Bitbucket
+Mon Aug 23 11:56:06 2021 +0300,e513645,Deletion
+Fri Aug 20 17:29:11 2021 +0300,e522885,final changes
+Thu Aug 19 18:11:56 2021 +0300,e522885,adjustments
+Thu Aug 19 15:27:03 2021 +0200,e506794,Pull request #477,release/2021.r5.t1 changed the version to 3.6.0.0
+Thu Aug 19 15:14:37 2021 +0300,e510533,release/2021.r5.t1 changed the version to 3.6.0.0
+Wed Aug 18 13:59:17 2021 +0200,e510372,Pull request #476,Translation v2
+Wed Aug 18 13:42:56 2021 +0300,e515795,Translation v2
+Wed Aug 18 13:21:09 2021 +0300,e515795,Merge branch 'develop'
+Tue Aug 17 15:27:52 2021 +0200,e510372,Pull request #471,2021.r5.t1/feature/sopre 30341 helen new attributes sm
+Tue Aug 17 15:06:40 2021 +0200,e501566,Pull request #473,Translations r5 t1
+Tue Aug 17 15:39:02 2021 +0300,e515795,Using EmployeeStatus object instead of IMP in CalcAllStatusesPeriods
+Tue Aug 17 15:02:57 2021 +0300,e515795,Translations r5 t1
+Tue Aug 17 12:11:41 2021 +0300,e515795,Added guard
+Tue Aug 17 09:36:19 2021 +0300,e515795,SOPRE-30341
+Mon Aug 16 17:34:50 2021 +0300,e522885,added comments
+Mon Aug 16 17:16:24 2021 +0300,e522885,IsShorterRestShift
+Mon Aug 16 17:08:35 2021 +0300,e522885,added default values
+Mon Aug 16 16:42:48 2021 +0300,e522885,kt attributes and table function
+Mon Aug 16 16:32:54 2021 +0300,e522885,added attribute description,to be deleted
+Mon Aug 16 13:37:51 2021 +0200,e510372,Pull request #462,SOPRE-30203 Stefan sap cleanup temp objects
+Mon Aug 16 08:45:17 2021 +0200,e513645,Pull request #463,corrected translation
+Mon Aug 16 09:31:04 2021 +0300,e522885,corrected translation
+Sun Aug 15 19:28:02 2021 +0300,e522885,comments
+Sun Aug 15 16:19:07 2021 +0300,e522885,comments, adjustments
+Sun Aug 15 01:25:49 2021 +0300,e522885,rest shift calculation
+Sat Aug 14 22:42:47 2021 +0300,e522885,partial implementation
+Fri Aug 13 17:01:22 2021 +0300,e513645,Added keep attribute
+Fri Aug 13 11:59:45 2021 +0300,e513645,added the cleanup to the noInterfaceManager method
+Fri Aug 13 10:32:26 2021 +0300,e513645,menu deleted
+Fri Aug 13 09:05:46 2021 +0200,e513645,Pull request #455,translation
+Thu Aug 12 19:34:47 2021 +0300,e522885,translation
+Thu Aug 12 17:24:20 2021 +0300,e513645,Added clean-up method in the SAP import
+Tue Aug 10 09:12:33 2021 +0200,e513645,Pull request #452,SOPRE-30218
+Mon Aug 9 14:48:15 2021 +0300,e510372,Merge branch 'develop'
+Mon Aug 9 09:26:15 2021 +0200,e510372,Pull request #450,SOPRE-27157
+Fri Aug 6 14:48:25 2021 +0300,e513645,more menus deleted
+Fri Aug 6 13:36:06 2021 +0300,e513645,Deleted some missed UI things
+Fri Aug 6 12:25:36 2021 +0200,e513645,Pull request #447,SOPRE-29389 2021.r5.t1/feature/sopre 29388 helen average shift length constraint
+Fri Aug 6 11:58:08 2021 +0300,e515795,Merge branch 'develop'
+Fri Aug 6 10:36:16 2021 +0200,e513645,Pull request #449,SOPRE-30181
+Thu Aug 5 17:16:54 2021 +0300,e510372,imp
+Thu Aug 5 15:00:59 2021 +0300,e526230,xml configuration
+Thu Aug 5 14:57:05 2021 +0300,e526230,new attributes created + calculation of them
+Thu Aug 5 13:51:06 2021 +0300,e515795,Added comments and updated translation text
+Thu Aug 5 11:11:08 2021 +0200,e510372,Pull request #445,SOPRE-27157 stefan sap qualifications cleanup
+Wed Aug 4 13:12:12 2021 +0200,e515795,Pull request #440,SOPRE-29528
+Wed Aug 4 10:17:39 2021 +0300,e510372,Merge branch 'develop'
+Wed Aug 4 09:55:34 2021 +0300,stefanTudurean,Merge branch '2021.r5.t1/feature/sopre-27157-stefan-sap-qualifications-cleanup' of https://code.sbb.ch/scm/pz_quintiq/sopre-employeeplanner into 2021.r5.t1/feature/sopre-27157-stefan-sap-qualifications-cleanup
+Wed Aug 4 09:54:51 2021 +0300,e513645,UI cleanup
+Tue Aug 3 17:48:50 2021 +0200,e513645,ConfigTemplates.properties edited online with Bitbucket
+Tue Aug 3 18:42:39 2021 +0300,e513645,more unused elements deleted
+Tue Aug 3 18:27:29 2021 +0300,e513645,Deleted more unused methods
+Tue Aug 3 18:23:09 2021 +0300,e513645,Deleted a method
+Tue Aug 3 18:13:26 2021 +0300,e513645,Renamed a method
+Tue Aug 3 17:42:40 2021 +0300,e513645,Merge branch 'develop'
+Tue Aug 3 17:37:31 2021 +0300,e513645,Hidden menus deleted
+Tue Aug 3 17:35:45 2021 +0300,e513645,Deleted unused jobs, menu and dialog
+Tue Aug 3 17:23:43 2021 +0300,e513645,Some more cleanup
+Tue Aug 3 16:44:42 2021 +0300,e513645,Renamed a method
+Tue Aug 3 16:42:14 2021 +0300,e513645,deleted 1 method
+Tue Aug 3 16:29:54 2021 +0300,e513645:,renamed that horrible 'Get', removed SAP qualification transfer from refreshSAPEmployeeJob
+Tue Aug 3 16:21:09 2021 +0300,e510372,imp
+Mon Aug 2 08:57:47 2021 +0200,e506794,Pull request #434,adjustment of the forall expression
+Fri Jul 30 14:59:03 2021 +0300,e510372,test
+Fri Jul 30 13:01:15 2021 +0300,e513645,Implemented
+Fri Jul 30 10:43:10 2021 +0300,e526230,adjustment of the forall expression
+Thu Jul 29 16:47:25 2021 +0200,e506794,Pull request #419,SOPRE-29449
+Thu Jul 29 17:39:45 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29444-calculation-rest-sunday-for-month-maria'
+Thu Jul 29 17:38:10 2021 +0300,e526230,adjustment
+Thu Jul 29 13:55:56 2021 +0200,e501566,Pull request #418,2021.r5.t1/feature/sopre 23811 flextime forecast matyas
+Thu Jul 29 13:38:06 2021 +0200,e513645,Pull request #431,SOPRE-29042 Helen work offer time limitation
+Thu Jul 29 13:06:04 2021 +0300,e515795,Added comment
+Thu Jul 29 12:03:22 2021 +0300,e515795,Added precon
+Thu Jul 29 10:46:18 2021 +0200,e510372,Pull request #417,SOPRE-27137,Clean-up old publishing process EP-SM to EP
+Thu Jul 29 11:45:43 2021 +0300,e515795,Adding precon to work offer dialog
+Thu Jul 29 10:35:51 2021 +0200,e510372,Pull request #422,SOPRE-27138 Skill cleanup from Publish changes now
+Thu Jul 29 11:04:26 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29444-calculation-rest-sunday-for-month-maria'
+Wed Jul 28 15:06:28 2021 +0300,e515795,Bugfix
+Wed Jul 28 12:35:13 2021 +0300,e526230,adjustments
+Wed Jul 28 12:27:00 2021 +0300,e526230,remove IsLongTermFromEP
+Wed Jul 28 11:50:34 2021 +0300,e513645,implemented
+Wed Jul 28 11:39:11 2021 +0300,e525732,Merge branch '2021.r4.t1/feature/sopre-23811-flexitime-forecast-sopre-28699-proof-of-concept-matyas'
+Wed Jul 28 10:48:34 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29444-calculation-rest-sunday-for-month-maria'
+Wed Jul 28 10:19:49 2021 +0300,e515795,Using firstDay instead firstShift,if the first shift is longer, we need the shift length for all day
+Wed Jul 28 09:06:09 2021 +0200,e510372,Pull request #406,SOPRE-30025 New attribute exported to SW Employee Assignment
+Wed Jul 28 10:02:28 2021 +0300,e515795,Fixing the bug with two shifts on the first day,checking if they are longer than the KT value instead checking which is longer The first solution is not working well because if both shifts are longer than the KT value, but the second one is longer, the first shift is not considered
+Wed Jul 28 09:08:30 2021 +0300,e515795,Additional check during the transfer
+Tue Jul 27 18:05:10 2021 +0300,e526230,adding mapping
+Tue Jul 27 18:03:15 2021 +0300,e526230,remove mapping
+Tue Jul 27 17:57:48 2021 +0300,e526230,changes
+Tue Jul 27 17:51:19 2021 +0300,e526230,changed
+Tue Jul 27 17:48:34 2021 +0300,e526230,adding pks
+Tue Jul 27 17:40:44 2021 +0300,e526230,mapping new broker column
+Tue Jul 27 16:52:54 2021 +0300,e526230,adding new attribute to be sent to AP
+Tue Jul 27 13:24:07 2021 +0300,e515795,Added check for transfer attribute,reserve day or day with shift
+Tue Jul 27 12:55:05 2021 +0300,e515795,Adjusted attributes which need to be transfered for LE constraint
+Tue Jul 27 10:40:53 2021 +0200,e510372,Pull request #408,SORPE-27136 Clean-up old publishing process EP to AP-LE (EP part)
+Mon Jul 26 15:27:40 2021 +0200,e506794,Pull request #409,change default text
+Mon Jul 26 15:50:38 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29446-constraint-min-number-rest-sundays-for-month-maria'
+Mon Jul 26 15:27:06 2021 +0300,e526230,change default text
+Mon Jul 26 12:36:18 2021 +0300,e515795,Including reserve days in calc and adjusting attribute name
+Fri Jul 23 16:03:03 2021 +0300,e526230,remove adjustments
+Fri Jul 23 14:31:37 2021 +0300,e513645,Implemented
+Fri Jul 23 14:25:35 2021 +0300,e522011:,SM-EP Cleanup
+Fri Jul 23 12:29:36 2021 +0200,e513645,Pull request #397,SOPRE-29397 Dan EP Audit Trail to only update valid, relevant entries
+Fri Jul 23 10:12:49 2021 +0200,e510372,Pull request #401,SOPRE-27156 Skills cleanup from transfer
+Fri Jul 23 11:02:16 2021 +0300,e513645,Merge branch 'develop'
+Fri Jul 23 10:29:37 2021 +0300,e526230,adjustments for LeaveTypesForDay
+Fri Jul 23 09:06:56 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29444-calculation-rest-sunday-for-month-maria'
+Thu Jul 22 16:20:40 2021 +0200,ue86889,Pull request #402,2021.r5.t1/feature/sopre 25219 evelin
+Thu Jul 22 15:58:19 2021 +0200,e506794,Pull request #400,2021.r5.t1/feature/26599 rest sundays/29444 calculation rest sunday for month maria
+Thu Jul 22 15:07:53 2021 +0300,e526230,changes,IsRestSundayForMonth
+Thu Jul 22 14:12:42 2021 +0300,e501566,changes in logic
+Thu Jul 22 14:02:11 2021 +0300,e510372,Merge branch 'develop'
+Thu Jul 22 13:09:53 2021 +0300,e515795,added guard
+Thu Jul 22 09:22:39 2021 +0300,e522011:,EP-LE publishing cleanup
+Thu Jul 22 09:19:04 2021 +0300,e515795,SOPRE-29389 LE implementation
+Thu Jul 22 09:03:25 2021 +0300,e526230,remove comment
+Thu Jul 22 09:02:34 2021 +0300,e526230,add check for all sundays in vacation
+Wed Jul 21 18:00:12 2021 +0300,e510372,Final imp
+Wed Jul 21 16:24:22 2021 +0200,e513645,Pull request #388,SOPRE-26450,EP Cleanup,Editor/Designer,unused/hidden functionalities, menus, forms and other
+Wed Jul 21 14:46:50 2021 +0300,e526230,adjustments
+Wed Jul 21 13:20:56 2021 +0300,e513645,Merge branch 'develop'
+Wed Jul 21 13:16:07 2021 +0300,e513645,Removed EmployeeRouteKnowledge from transfer
+Wed Jul 21 13:03:32 2021 +0300,e513645,Deleted AcceptTransferJob
+Wed Jul 21 12:54:55 2021 +0300,e513645,re-added EmployeeSAPQualification
+Wed Jul 21 10:51:45 2021 +0200,e506794,Pull request #386,SOPRE-29446
+Wed Jul 21 11:44:59 2021 +0300,e513645,Removed the Employee Skill update from Employee update
+Wed Jul 21 09:39:06 2021 +0200,e506794,Pull request #376,2021.r5.t1/feature/26599 rest sundays/29444 calculation rest sunday for month maria
+Tue Jul 20 16:40:28 2021 +0300,e526230,adjustment,monthlong vacation
+Tue Jul 20 16:22:50 2021 +0300,e513645,the renaming in the Designer
+Tue Jul 20 14:50:26 2021 +0200,ue86889,Pull request #383,sector feature removal
+Tue Jul 20 15:47:22 2021 +0300,e513645,More method renaming so we can use the search
+Tue Jul 20 14:51:40 2021 +0300,e513645,Cleanedup some comments to make the methods readable
+Tue Jul 20 14:45:20 2021 +0300,e513645,Renamed one of the RefreshData methods to be more identifiable
+Tue Jul 20 14:31:35 2021 +0300,e513645,Renamed the Update method to be searchable. Deleted unused method that used it
+Tue Jul 20 14:03:51 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29444-calculation-rest-sunday-for-month-maria'
+Tue Jul 20 13:25:41 2021 +0300,e526230,adjustments
+Tue Jul 20 11:08:52 2021 +0300,e526230,adjustments
+Tue Jul 20 11:07:17 2021 +0300,e526230,adjustments according to review
+Tue Jul 20 10:01:35 2021 +0300,e510372,adjustment
+Mon Jul 19 15:29:49 2021 +0300,e526230,adjustment
+Mon Jul 19 14:45:05 2021 +0300,e522885,sector feature removal
+Mon Jul 19 12:41:05 2021 +0200,e513645,Pull request #377,SOPRE-4554 helen phone number formatting
+Mon Jul 19 13:38:11 2021 +0300,e515795,Comments
+Mon Jul 19 13:31:19 2021 +0300,e526230,adjust the logic for displaying the constraint
+Mon Jul 19 12:46:34 2021 +0300,e501566,minor correction
+Mon Jul 19 11:24:58 2021 +0300,e515795,Final update
+Mon Jul 19 05:42:01 2021 +0300,e501566,clear devscript content
+Mon Jul 19 05:32:29 2021 +0300,e501566,devscript for data correction
+Sun Jul 18 22:15:10 2021 +0300,e501566,devscript for data correction
+Sun Jul 18 22:09:25 2021 +0300,e501566,Devscript for data correction
+Fri Jul 16 15:31:50 2021 +0200,e513645,Pull request #367,SOPRE-29402 Dan AuditTrail cleanup
+Fri Jul 16 16:13:19 2021 +0300,e526230,adjustments
+Fri Jul 16 13:57:22 2021 +0300,e510372,imp p2
+Thu Jul 15 17:50:42 2021 +0300,e510372,Imp p1
+Thu Jul 15 16:23:17 2021 +0200,e513645,Pull request #365,SOPRE-26424 EP Cleanup,Annual Leave Planner
+Thu Jul 15 17:13:20 2021 +0300,e526230,adjustments
+Thu Jul 15 13:11:57 2021 +0200,e513645,Pull request #334,SOPRE-29388 helen average shift length constraint
+Thu Jul 15 13:59:14 2021 +0300,e510372,Merge branch 'develop'
+Thu Jul 15 13:17:21 2021 +0300,e515795,Update after review
+Thu Jul 15 12:44:58 2021 +0300,e510372,Adjustment
+Thu Jul 15 12:41:37 2021 +0300,e510372,imp p9
+Thu Jul 15 09:51:07 2021 +0300,e526230,adjustments
+Wed Jul 14 16:43:15 2021 +0300,e526230,adjustments to not validate IsRestSundayForYear
+Wed Jul 14 15:49:25 2021 +0300,e515795,adj
+Wed Jul 14 15:44:10 2021 +0300,e515795,adj
+Wed Jul 14 15:35:41 2021 +0300,e515795,adj
+Wed Jul 14 15:24:45 2021 +0300,e526230,fix for KBC case
+Wed Jul 14 15:21:14 2021 +0300,e515795,removed DataBinding, modified Init method
+Wed Jul 14 15:04:11 2021 +0300,e515795,debug
+Wed Jul 14 13:45:34 2021 +0200,e513645,Pull request #351,SOPRE-29042
+Wed Jul 14 13:58:28 2021 +0300,e522011:,Deletion of dlgRepresentations_local
+Wed Jul 14 13:30:50 2021 +0300,e515795,formatting
+Wed Jul 14 12:33:58 2021 +0300,e501566,fix
+Wed Jul 14 12:10:07 2021 +0300,e515795,debug
+Wed Jul 14 10:51:15 2021 +0300,e526230,changes
+Wed Jul 14 10:47:16 2021 +0300,e526230,editing
+Wed Jul 14 10:11:25 2021 +0300,e526230,replacing in methods
+Wed Jul 14 09:20:57 2021 +0300,e526230,adjustments IsRestSundayForMonth
+Wed Jul 14 08:31:00 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29443-redesign-rest-sunday-in-year-attribute-maria'
+Wed Jul 14 08:30:57 2021 +0300,e515795,ajdustment
+Tue Jul 13 16:34:12 2021 +0300,e510372,imp p8
+Tue Jul 13 14:18:14 2021 +0300,e501566,implementation to update only the updated ones
+Tue Jul 13 14:12:20 2021 +0300,e515795,SOPRE-4554
+Tue Jul 13 12:49:23 2021 +0200,ue86889,Pull request #340,implementation 1st Skills 3 clean-up US
+Tue Jul 13 12:48:46 2021 +0200,ue86889,Pull request #304,clean up attributes RouteKnowledge::IsManual, RouteKnowledgeSkillRoute::SoftDeleted
+Tue Jul 13 10:15:49 2021 +0200,e501566,Pull request #281,Add new user group and implement form authorization for EP SM,Route Knowledge management form
+Tue Jul 13 09:33:15 2021 +0300,e526230,adjusting the IsRestSundayForYear attribute
+Mon Jul 12 17:12:03 2021 +0300,e522011,Deletion of:,frmShiftPatternPreferences,frmForbiddenStartRanges,frmStaffingReqGeneration,frmStandardAnalysisOnDatasetLoader,frmShiftTypes
+Mon Jul 12 16:58:46 2021 +0300,e522011,Cleanup on menuForms
+Mon Jul 12 15:52:43 2021 +0200,e506794,Pull request #330,new kt added LeaveTypeLaborRules
+Mon Jul 12 15:59:38 2021 +0300,e510372,Imp p7
+Mon Jul 12 15:54:55 2021 +0300,e526230,rest sunday for month calculation
+Mon Jul 12 15:05:22 2021 +0300,e522885,implementation 1st Skills 3 clean-up US
+Mon Jul 12 15:00:39 2021 +0300,e522011,Deletion of dlgManageWorkingUnitTest
+Mon Jul 12 14:58:53 2021 +0300,e522011,Cleanup on menuFile and menuEdit
+Mon Jul 12 13:28:11 2021 +0300,e510372,Imp p6
+Mon Jul 12 11:51:08 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29445-design-kt-leave-type-labor-rules-maria'
+Mon Jul 12 11:44:47 2021 +0300,e526230,new kt column
+Mon Jul 12 11:43:25 2021 +0300,e526230:,new attribute
+Mon Jul 12 10:35:15 2021 +0300,e510372,Imp p6
+Mon Jul 12 09:30:18 2021 +0300,e526230,Merge branch '2021.r5.t1/feature/26599-rest-sundays/29443-redesign-rest-sunday-in-year-attribute-maria'
+Mon Jul 12 09:23:31 2021 +0300,e510372,imp p5
+Mon Jul 12 08:54:47 2021 +0300,e515795,Renamed table function
+Mon Jul 12 08:50:43 2021 +0300,e510372,Imp p4
+Mon Jul 12 08:46:59 2021 +0300,e515795,Added comments
+Mon Jul 12 08:11:38 2021 +0300,e526230,remove kt
+Fri Jul 9 18:34:41 2021 +0300,e510372,Imp p3
+Fri Jul 9 15:51:11 2021 +0300,e526230,new kt added LeaveTypeLaborRules
+Fri Jul 9 14:12:39 2021 +0200,e515795,Pull request #322,Implementation SOPRE-29428
+Fri Jul 9 14:53:31 2021 +0300,e510372,Merge branch 'develop'
+Fri Jul 9 14:50:42 2021 +0300,e510372,Adjustment
+Fri Jul 9 14:46:41 2021 +0300,e510372,Imp p2
+Fri Jul 9 11:59:29 2021 +0300,e515795,Adjusted matching rule KT LaborRulesPlanningGroup
+Fri Jul 9 11:52:39 2021 +0300,e515795,Modified matching rule
+Fri Jul 9 11:42:16 2021 +0300,e526230,change matching rule
+Fri Jul 9 10:33:33 2021 +0200,ue86888,Pull request #326,2021.r4.t3 changed version to 3.5.200
+Fri Jul 9 09:44:33 2021 +0300,e510372,Imp p1
+Fri Jul 9 09:42:19 2021 +0300,e515795,Added Matching rules to the KT LaborRulesPlanningGroup
+Fri Jul 9 09:40:53 2021 +0300,e510533,2021.r4.t3 changed version to 3.5.200
+Thu Jul 8 15:44:21 2021 +0300,e515795,Removed attribute from GP, it was created with this implementatation, but then we decided to work with KTs
+Thu Jul 8 15:37:31 2021 +0300,e515795,Moved attributes which are used  for KT values  to SchedulePlanWorkingUnitPositionDay
+Wed Jul 7 17:37:48 2021 +0300,e510372,Implementation SOPRE-29428
+Wed Jul 7 17:26:04 2021 +0300,e526230,new kt added
+Wed Jul 7 16:39:41 2021 +0300,e515795,Added corrections to cover corner cases when multiple shift are assigned to a day
+Wed Jul 7 15:24:01 2021 +0300,e501566,debug and small adjustment
+Wed Jul 7 12:44:22 2021 +0300,e515795,Added a new KT Added NumberOfAssignedShifts
+Wed Jul 7 08:36:12 2021 +0300,e526230,remove attribute IsRestSunday and replace it with IsRestSundayForYear
+Tue Jul 6 13:52:35 2021 +0300,e501566,fix the update
+Mon Jul 5 16:37:02 2021 +0300,e526230:,new attribute,isRestSundayPerYear
+Mon Jul 5 10:47:42 2021 +0300,e515795,Added the check for te shift ength on the first day
+Mon Jul 5 09:52:41 2021 +0300,e515795,Adjusted translation
+Mon Jul 5 08:31:36 2021 +0300,e515795,SOPRE-29388 azg constraint
+Sun Jul 4 21:57:00 2021 +0300,e501566,implementation od MutationUser, MutationDate
+Fri Jul 2 16:34:45 2021 +0300,e522011:,Cleanup on frmEmployee
+Thu Jul 1 17:23:52 2021 +0300,e522011:,Cleanup on frmShiftList,Deletion of dlgOfferShiftToMarketPlace
+Thu Jul 1 13:25:59 2021 +0200,ue86888,Pull request #306,release 2021.r4.t2 changed version to 3.5.100.0
+Thu Jul 1 14:19:44 2021 +0300,e510533,release 2021.r4.t2 changed version to 3.5.100.0
+Thu Jul 1 12:12:20 2021 +0300,e522011:,frmSchedulePlanRosterGC,GanttChartShiftScheduling
+Thu Jul 1 09:27:15 2021 +0200,e501566,Pull request #305,Code refactoring
+Thu Jul 1 09:46:57 2021 +0300,e525732,clean-up
+Wed Jun 30 17:39:28 2021 +0300,e522011:,Cleanup on frmSchedulePlanShift,Deletion of dlgPublishSchedulePlan
+Tue Jun 29 13:22:30 2021 +0200,e522011,Pull request #303,Translations t2 ep
+Tue Jun 29 13:59:02 2021 +0300,e515795,Translations t2 ep
+Tue Jun 29 10:48:14 2021 +0300,e525732,Code refactoring
+Mon Jun 28 15:29:11 2021 +0300,e522885,clean up attributes RouteKnowledge::IsManual, RouteKnowledgeSkillRoute::SoftDeleted
+Mon Jun 28 07:32:04 2021 +0200,ue86889,Pull request #293,2021.r5.t1/feature/sopre 25186 roxana skills3 employeeskill skillroute assignment restriction
+Fri Jun 25 09:15:40 2021 +0300,e522885,final
+Thu Jun 24 18:18:00 2021 +0300,e522885,c
+Thu Jun 24 17:51:36 2021 +0300,e522885,fixed filter
+Thu Jun 17 12:47:30 2021 +0300,ue86889,Add new user group and implement form authorization for EP SM,Route Knowledge management form
+Thu Jun 17 07:13:26 2021 +0200,ue86889,Pull request #277,Monitoring changes
+Wed Jun 16 10:59:37 2021 +0300,e525732,deletion of the info statements
+Mon Jun 14 21:32:59 2021 +0300,e522011:,Deletion of unused menus
+Mon Jun 14 14:46:04 2021 +0300,e522885,Monitoring changes
+Mon Jun 14 13:53:06 2021 +0300,e525732,adjustment
+Mon Jun 14 13:37:31 2021 +0300,e525732,more debug
+Mon Jun 14 13:06:05 2021 +0300,e525732,..
+Mon Jun 14 13:05:20 2021 +0300,e525732,.
+Mon Jun 14 11:40:09 2021 +0300,e525732,debug
+Fri Jun 11 16:51:40 2021 +0300,e525732,.
+Fri Jun 11 15:48:22 2021 +0300,e525732,adj
+Fri Jun 11 15:26:44 2021 +0300,e525732,debug
+Fri Jun 11 14:59:58 2021 +0300,e525732,adjustment
+Fri Jun 11 14:56:35 2021 +0300,e525732,debug
+Fri Jun 11 13:29:34 2021 +0300,e525732,debug
+Thu Jun 10 17:56:20 2021 +0300,e522011:,Deletion of unused methods that needed some small modifications
+Thu Jun 10 15:30:04 2021 +0300,e522011:,Deletion of unused methods
+Thu Jun 10 15:25:31 2021 +0300,e515795,SOPRE-29042
+Thu Jun 10 13:35:30 2021 +0200,ue86888,Pull request #264,release/2021.r4.t1,changed version to 3.5.0.0
+Thu Jun 10 14:27:39 2021 +0300,e510533,release/2021.r4.t1,changed version to 3.5.0.0
+Thu Jun 10 13:34:14 2021 +0300,e522011:,Deletion of unused methods from AnnualLeaveDay,Deletion of dlgWaitlist
+Wed Jun 9 08:38:03 2021 +0200,e501566,Pull request #256,2021.r4.t1/feature/sopre 28854 matyas leave request edit dialog seconds
+Tue Jun 8 19:53:49 2021 +0200,ue86889,Pull request #263,disabled EP Designer route knowledge functionalities
+Tue Jun 8 17:19:05 2021 +0300,e522011,Deletion of dlgLeaveHistory
+Tue Jun 8 17:15:24 2021 +0300,e522011:,Deletion of disabled responses from custom draw component
+Tue Jun 8 17:09:36 2021 +0300,e522011,Deleted designer elements,	• MenuShowWaitilistOnSlot 	• MenuLegend 	• MenuShowLeaveHistory 	• MenuToggleWeekAsVacation 	•MenuToggleWeekAsNonVacation
+Tue Jun 8 15:54:05 2021 +0300,e522011:,MenuEdit,MenuDuplicate,dlgEditVacation
+Tue Jun 8 12:18:13 2021 +0200,e513645,Pull request #261,2021.r4.t1/feature/sopre 28732 helen crewdiagram suffix
+Tue Jun 8 12:51:39 2021 +0300,e522885,disabled EP Designer route knowledge functionalities
+Tue Jun 8 11:28:57 2021 +0200,ue86889,Pull request #260,2021.r4.t1/feature/sopre 19561 27104 roxana skills3 us9 employeerouteknowledge le publish
+Mon Jun 7 16:54:24 2021 +0300,e522011,Code cleanup on,	• AnnualLeaveDay 	• AnnualLeaveMonth 	• AnnualLeavePlan 	• AnnualLeavePlanEmployee 	• AnnualLeavePlanEmployeeCounter 	• AnnualLeavePlanLeaveTypeCategory 	• AnnualLeavePlanLeaveTypeCategoryAnnualLeaveDay 	• AnnualLeavePlanLeaveTypeCategoryAnnualLeaveMonth 	• AnnualLeavePlanLeaveTypeCategoryAnnualLeaveWeek 	• AnnualLeaveSlotRequest 	• AnnualLeaveWeek
+Mon Jun 7 15:43:28 2021 +0300,e515795,Comment
+Mon Jun 7 14:51:32 2021 +0300,e515795,SOPRE-28732 implementation
+Fri Jun 4 15:23:34 2021 +0200,e522011,Pull request #235,2021.r4.t1/feature/sopre 26418 stefan wup and ass cleanup
+Fri Jun 4 15:05:48 2021 +0200,e513645,_ROOT_Component_ApplicationEPAdmin.def edited online with Bitbucket
+Fri Jun 4 14:48:36 2021 +0200,e515795,Pull request #250,SOPRE-28789 Sopre web employee assignment export 2 extra attributes
+Fri Jun 4 15:48:32 2021 +0300,e525732,Matyi, pay more attention to the simple details as well....adjustments
+Fri Jun 4 15:32:33 2021 +0300,e525732,adjustment
+Fri Jun 4 15:04:34 2021 +0300,e525732,.
+Fri Jun 4 14:52:37 2021 +0300,e525732,debug
+Fri Jun 4 13:18:53 2021 +0200,e513645,Pull request #249,SOPRE-26422,EP Cleanup,Employee Details
+Thu Jun 3 21:52:35 2021 +0300,e525732,add seconds to the StartTime and EndTime attributes of the EmplReqLeave
+Thu Jun 3 09:31:48 2021 +0300,e522885,a
+Thu Jun 3 08:06:33 2021 +0300,e522885,final
+Thu Jun 3 07:23:45 2021 +0300,e522885,Merge branch '2021.r4.t1/feature/sopre-19561-23470-roxana-skills3-us8-employeerouteknowledge-ep-publish'
+Wed Jun 2 17:12:03 2021 +0200,e513645,Pull request #246,2021.r4.t1/feature/sopre 28828 dan
+Wed Jun 2 16:46:14 2021 +0300,e510372,Merge branch 'develop'
+Wed Jun 2 16:41:17 2021 +0300,e510372,Merge branch 'develop'
+Wed Jun 2 16:02:20 2021 +0300,e525732,Change format of the "Edit single or multi day leave request" dialogs DurationSelector components,h:m -> h:m:s
+Wed Jun 2 10:57:50 2021 +0300,e525732,comment adjustment
+Wed Jun 2 09:16:23 2021 +0200,ue86889,Pull request #232,2021.r4.t1/feature/sopre 19561 23470 roxana skills3 us8 employeerouteknowledge ep publish
+Wed Jun 2 09:59:57 2021 +0300,e522885,3rd review adjustments
+Mon May 31 19:07:40 2021 +0300,e522885,adjustments after Dan's review
+Mon May 31 12:53:06 2021 +0300,e522885,comments
+Mon May 31 11:35:37 2021 +0300,e522885,removed sequence setting
+Mon May 31 10:49:27 2021 +0300,e522885,MoveLast
+Mon May 31 09:29:21 2021 +0300,e522885,added setting of Employee::HasRouteKnowledgeChanges when EmployeeLocationRoute is created, deleted
+Sun May 30 18:15:07 2021 +0300,e522885,changes to RouteKnowledge import
+Fri May 28 22:47:12 2021 +0300,e522885,adj
+Fri May 28 14:02:58 2021 +0300,e522011:,Undoing some changes
+Fri May 28 10:44:02 2021 +0300,e522885,s
+Fri May 28 09:14:54 2021 +0300,e525732,ajdustment
+Thu May 27 14:57:49 2021 +0200,e513645,Pull request #234,2021.r4.t1/feature/sopre 28828 dan,reset EDIParamter2
+Thu May 27 14:49:24 2021 +0200,e513645,XMLObjectBase_Assignment_Assignment.qbl edited online with Bitbucket
+Thu May 27 14:47:14 2021 +0200,e513645,Attribute_DepotName.qbl edited online with Bitbucket
+Thu May 27 15:45:27 2021 +0300,e513645,re-added the depot name because of AP
+Thu May 27 14:56:05 2021 +0300,e522011:,Deleted attributes and their calculations
+Thu May 27 11:50:13 2021 +0300,e510372,Merge branch 'develop'
+Wed May 26 17:17:53 2021 +0300,e522011:,AnnualLeavePlanEmployee
+Wed May 26 16:24:25 2021 +0300,e522011:,SchedulePlanEmployee,ShiftCyclePlanEmployee
+Wed May 26 15:46:46 2021 +0300,e522011:,Deletion of unused attributes
+Wed May 26 14:19:20 2021 +0200,e513645,Pull request #231,SOPRE-28828-SPS Export,Fix bug
+Wed May 26 13:19:14 2021 +0300,e522011:,Deletion of methods
+Wed May 26 12:10:43 2021 +0300,e510372,implementation
+Tue May 25 18:10:51 2021 +0300,e522885,ELR null
+Tue May 25 18:03:56 2021 +0300,e522885,null RouteKnowledgeSkillRoute
+Tue May 25 17:31:21 2021 +0300,e522885,guard SkillRoute.LocationCodeKey
+Tue May 25 16:19:54 2021 +0300,e522885,m
+Tue May 25 15:59:30 2021 +0300,e525732,UpdateCounterInformation adjustment
+Tue May 25 14:18:40 2021 +0300,e522885,removed Ticino filter
+Tue May 25 12:09:27 2021 +0300,e513645,implemented
+Tue May 25 09:58:26 2021 +0300,e525732,temporary correction
+Mon May 24 16:53:16 2021 +0300,e522011:,Functions
+Mon May 24 15:42:02 2021 +0300,e522011:,Static methods
+Mon May 24 15:39:31 2021 +0300,e513645,3 unused methods cleanup
+Mon May 24 15:11:34 2021 +0300,e513645,Some more cleanup
+Mon May 24 15:05:52 2021 +0300,e522011:,Methods
+Mon May 24 09:43:54 2021 +0200,e513645,_ROOT_Component_ApplicationSOPREEmployeePlanner.def edited online with Bitbucket
+Mon May 24 10:38:55 2021 +0300,e513645,Working Unit Groups deleted
+Sat May 22 18:39:36 2021 +0300,e522885,adj
+Fri May 21 16:55:52 2021 +0300,e522885,adj
+Fri May 21 16:13:24 2021 +0300,e522885,Merge branch '2021.r4.t1/feature/sopre-19561-25220-roxana-skills3-us7-employeerouteknowledge-change-new-attribute-2'
+Fri May 21 15:58:50 2021 +0300,e522885,comments
+Fri May 21 14:08:09 2021 +0300,e513645,More cleanup
+Fri May 21 12:21:30 2021 +0300,e513645,More cleanup
+Fri May 21 10:25:47 2021 +0300,e513645,deleted a relation
+Fri May 21 10:16:40 2021 +0300,e513645,Designer errors fixed afer develop merge
+Fri May 21 09:08:11 2021 +0300,e513645,Merge branch 'develop'
+Thu May 20 19:10:11 2021 +0300,e513645,IsTrainerQualified  +related code deleted
+Thu May 20 17:35:36 2021 +0300,e513645,Some comments in the code explicitly say that the funtionality there is not used by SBB, now the question is why the code was left undeleted...
+Thu May 20 17:14:40 2021 +0300,e513645,More cleaning
+Thu May 20 16:15:11 2021 +0300,e513645,No more unused  ID attribute
+Thu May 20 15:18:56 2021 +0300,e513645,RegularHours per week deleted
+Thu May 20 14:16:28 2021 +0200,e513645,Pull request #221,Added a new broker argument on the Load_SOPIP_SOPRE_SOPREWeb.
+Thu May 20 15:12:56 2021 +0300,e513645,Part 1, many changes
+Thu May 20 12:43:38 2021 +0300,e510372,Added a new broker argument on the Load_SOPIP_SOPRE_SOPREWeb.
+Thu May 20 09:23:02 2021 +0300,e522885,EP_ZF_Ticino
+Thu May 20 07:18:40 2021 +0200,ue86889,Pull request #212,2021.r4.t1/feature/sopre 19561 25220 roxana skills3 us7 employeerouteknowledge change new attribute 2
+Wed May 19 16:56:28 2021 +0300,e522885,fix
+Wed May 19 15:01:29 2021 +0300,e522885,add
+Wed May 19 14:15:07 2021 +0300,e522885,main implementation
+Tue May 18 16:20:50 2021 +0300,e525732,Merge branch 'develop'
+Tue May 18 16:17:34 2021 +0300,e525732,test
+Tue May 18 12:07:54 2021 +0300,e522885,adjustments after review
+Tue May 18 09:03:10 2021 +0200,e506794,Pull request #214,2021.r4.t1/feature/sopre-27046-stefan-cd-type-clean
+Tue May 18 09:16:53 2021 +0300,e522885,partial
+Mon May 17 16:31:50 2021 +0300,e525732,adjustments
+Fri May 14 16:04:58 2021 +0200,e513645,Pull request #208,SOPRE-26425,EP Cleanup,Employee requests
+Thu May 13 16:18:27 2021 +0300,e522885,a
+Thu May 13 15:34:48 2021 +0300,e525732,Merge branch 'develop'
+Thu May 13 15:32:53 2021 +0300,e525732,Proof of concept, 	- Use a new date attribute in the calculation of the EmployeeDayPlan::EmployeeCounterLeaveFlextime declarative relation  	- If the mandant is SBB => the value should be the first day of the current month of the flextime account  	- Else => the value should be the EmployeeCounterLeave.LastUpdatedDate attribute
+Thu May 13 14:54:30 2021 +0300,e522885,ad
+Thu May 13 14:49:52 2021 +0300,e522885,adj
+Thu May 13 14:17:42 2021 +0300,e522885,clean up
+Wed May 12 17:31:32 2021 +0300,e513645,Deleted EP side attributes and fixed Editor errors
+Wed May 12 12:21:42 2021 +0300,e522885,adj
+Wed May 12 09:54:06 2021 +0200,e513645,Pull request #204,implementation
+Wed May 12 09:56:28 2021 +0300,e510372,Merge branch 'develop'
+Wed May 12 09:30:44 2021 +0300,e510372,implementation
+Wed May 12 09:14:09 2021 +0300,e522885,changed names
+Tue May 11 18:51:22 2021 +0300,e522885,adjusted RequiresSkillsPublishAfterEmpTransfer attribute
+Tue May 11 15:52:00 2021 +0200,e522011,Pull request #203,2021.r4.t1/feature/sopre 26427 helen cleanup counter
+Tue May 11 16:02:06 2021 +0300,e522011,-Implementation
+Tue May 11 13:51:00 2021 +0300,e522885,added IsFromSAP in EmployeeSkill update
+Tue May 11 12:14:27 2021 +0300,e522885,adjustment
+Mon May 10 01:32:44 2021 +0300,e522885,2nd commit
+Mon May 10 00:13:58 2021 +0300,e522885,Merge branch 'develop'
+Fri May 7 12:30:37 2021 +0300,e522011:,Implementation
+Thu May 6 17:31:10 2021 +0300,e522011:,Implementation
+Wed May 5 09:57:04 2021 +0300,e522011:,EmployeeRequest,Approve
+Thu Apr 29 10:15:05 2021 +0300,e513645,2 more things
+Thu Apr 29 09:02:45 2021 +0300,e515795,Cleaned up EmployeeCounterLeave type Deleting unused attributes
+Thu Apr 29 08:32:18 2021 +0300,e515795,Cleaned up on EmployeeeCounterLeave type methods and constraints
+Thu Apr 29 08:14:53 2021 +0300,e515795,Cleaned up EmployeeCounterOvertime type Deleted attributes,EmployeeCounterOvertime,Called EmployeeCounterOvertime,Planned EmployeeCounterOvertime,Refused EmployeeCounterOvertime,Scheduled EmployeeCounterOvertime Volunteered EmployeeCounterOvertime VolunteeredHours EmployeeCounterOvertime WorkedPlusRefused EmployeeCounterOvertime,Worked EmployeeCounterOvertime,TotalR
+Thu Apr 29 07:56:07 2021 +0300,e515795,Deleted unused translation Translations::EmployeeCounterAbsence_Precondition_IsWorkingDay Cleaned up EmployeeCounterShiftType Deleted attribute EmployeeCounterShiftType,PlannedShifts
+Wed Apr 28 15:59:22 2021 +0300,e515795,Cleaned up EmployeeCounterAbsence type Deleted Attributes,AmountUsed, StartingBalanceAmountUsed Deleted CalcFonction CalcAmountUsed Deleted precon Precondition_IsWorkingDay
+Wed Apr 28 15:48:50 2021 +0300,e515795,Deleted  unesed methods from EmployeeCounter,EditStartingBalance, GetCounterDetails Deleted attribute EmployeeCounter HasStartingBalanceAmountUsed Deleted  unesed methods from EmployeeCounterAbsence,EditStartingBalance, GetCounterDetails Deleted  unesed method from EmployeeCounterLeave, GetCounterDetails
+Tue Apr 27 15:02:35 2021 +0300,e515795,Deleted relation EmployeeCounter,Next/Prev
+Tue Apr 27 12:48:29 2021 +0300,e515795,Deleted attribute EmployeeCounter,ReferenceWorkingHoursPercentage and removed the setting of the attribute from EmployeeCounterLeave:CreatePaidLeave (no usege except this setting)
+Fri Apr 23 11:20:01 2021 +0300,e513645,Initial commit, mostly comment cleaning/adjustments
+Thu Apr 22 13:49:46 2021 +0200,ue86888,Pull request #194,release 2021.r3.t2 changed version to 3.4.100.0
+Thu Apr 22 14:45:09 2021 +0300,e510533,release 2021.r3.t2 changed version to 3.4.100.0
+Tue Apr 20 15:43:25 2021 +0200,e513645,Pull request #190,2021.r3.t2/feature/sopre 27982 helen skill status column fix
+Tue Apr 20 15:09:40 2021 +0300,e515795,Restructure
+Tue Apr 20 13:26:44 2021 +0200,e513645,Pull request #192,Added translations
+Tue Apr 20 14:14:47 2021 +0300,e515795,Added translations
+Tue Apr 20 11:50:34 2021 +0300,e515795,Comment
+Tue Apr 20 11:44:01 2021 +0300,e515795,comments
+Mon Apr 19 16:16:33 2021 +0300,e515795,No assignments
+Mon Apr 19 14:29:32 2021 +0300,e515795,remove filter
+Mon Apr 19 11:05:08 2021 +0300,e515795,Added calc function to attribute HasAssignmnets
+Mon Apr 19 08:28:04 2021 +0300,e515795,Implementation
+Thu Apr 15 15:29:34 2021 +0200,e501566,Pull request #184,SOPRE-27643,Wishes,Setting planner comment,EP
+Tue Apr 13 16:44:00 2021 +0200,e513645,Pull request #185,2021.r3.t2/feature/sopre 27983 helen kt adaption
+Fri Apr 9 09:45:30 2021 +0200,e501566,Pull request #183,added guards
+Fri Apr 9 07:24:20 2021 +0300,e514509,added guards
+Thu Apr 8 19:24:35 2021 +0300,e522011:,Denied erlg reason and audit trail fix
+Thu Apr 8 14:00:27 2021 +0200,ue86889,Pull request #170,2021.r3.t1/feature/sopre 26804 matyas deamon cleanup
+Thu Apr 8 14:46:53 2021 +0300,e522011:,Concatenating the new reason with the old one, so it is at the beginning of the string
+Thu Apr 8 10:19:04 2021 +0200,e510372,Pull request #175,2021.r3.t2/feature/sopre-27894-helen-publishing-for-regular-users
+Thu Apr 8 11:13:41 2021 +0300,e515795,KT rule extended
+Thu Apr 8 11:08:08 2021 +0300,e515795,Rename
+Wed Apr 7 18:29:14 2021 +0300,e515795,KT rule changed
+Wed Apr 7 18:23:50 2021 +0300,e515795,KT rule changes
+Wed Apr 7 18:17:28 2021 +0300,e515795,Added new column to ImportWeekDay KT
+Wed Apr 7 15:22:50 2021 +0300,e522011:,Setting the reason for the initial request (New, Open, In Progress)
+Wed Apr 7 14:25:21 2021 +0300,e515795,Changed the path of the folder where the EDTs are created
+Wed Apr 7 13:46:26 2021 +0300,e515795,Imp
+Wed Apr 7 12:43:44 2021 +0300,e522011:,Implementation in the EmployeeRequestLeave::AssignStateToRequest method
+Tue Apr 6 19:05:04 2021 +0300,e525732,adjustments
+Tue Apr 6 18:19:47 2021 +0300,e525732,separate runsteps for the different types of objects
+Sat Apr 3 17:13:06 2021 +0300,e522885,1st version enhanced US-7
+Thu Apr 1 13:11:15 2021 +0300,e522885,adapted check of same inserted ValidFrom and ValidTo
+Wed Mar 31 15:26:47 2021 +0200,ue86888,Pull request #165,release 2021.r3.t1 version 3.4.0
+Wed Mar 31 16:22:59 2021 +0300,e510533,release 2021.r3.t1 version 3.4.0
+Tue Mar 30 17:14:31 2021 +0200,e501566,Pull request #162,SOPRE-27619,Wishes,EP,Storing planer comment when creating different leave types
+Tue Mar 30 15:00:19 2021 +0200,e506794,Pull request #164,Translation correction
+Tue Mar 30 14:59:42 2021 +0200,ue86889,Pull request #161,counters deleted
+Tue Mar 30 15:14:12 2021 +0300,e515795,Translation correction
+Mon Mar 29 18:05:40 2021 +0200,ue86889,Pull request #118,2021.r3.t1/feature/sopre 26804 matyas deamon cleanup
+Mon Mar 29 16:12:31 2021 +0200,e513645,Pull request #159,Added translations
+Mon Mar 29 17:07:10 2021 +0300,e515795,Added translations
+Mon Mar 29 15:19:46 2021 +0200,e513645,Pull request #158,SOPRE-26338,Wishes,Setting planner comment,EP
+Mon Mar 29 16:15:43 2021 +0300,e522011:,update
+Mon Mar 29 16:05:37 2021 +0300,e525732,counters deleted
+Mon Mar 29 14:59:53 2021 +0200,e513645,Pull request #155,SOPRE-26338,Wishes,Solving problem caused by conflict solving
+Mon Mar 29 15:06:41 2021 +0300,e522011:,Solving problem caused by conflict solving
+Mon Mar 29 12:08:43 2021 +0200,e513645,Pull request #152,SOPRE-26338,Wishes,Setting planner comment,EP
+Mon Mar 29 08:57:26 2021 +0200,e513645,Pull request #140,SOPRE-26447,EP Cleanup,DevScript menus restructuring
+Mon Mar 29 09:48:41 2021 +0300,e522011:,Renaming elementes to keep consistency between the dialogs
+Mon Mar 29 09:42:48 2021 +0300,e522011:,Changed EditorOldNotes to EditorNotes on dlgEmployeeRequestApproveDenyLeaveGroup to keep consistency
+Mon Mar 29 08:30:56 2021 +0200,e501566,Pull request #132,2021.r3.t1/feature/multidaywishes/sopre 27145 liviu
+Mon Mar 29 08:51:03 2021 +0300,e514509,Merge branch 'develop'
+Mon Mar 29 07:35:00 2021 +0300,e522011:,Changed the naming of EditorNotes to EditorReason on dlgEmployeeRequestApproveDeny
+Fri Mar 26 17:18:51 2021 +0200,e514509,added seconds to dialog approve deny cancel
+Fri Mar 26 15:56:43 2021 +0200,e522011:,Deletion of FormDevscript and DevscriptObject
+Fri Mar 26 15:50:15 2021 +0200,e522011:,Deletion of unused devscripts
+Fri Mar 26 12:03:18 2021 +0200,e522011:,Handling the overwriting problem
+Fri Mar 26 09:44:59 2021 +0200,e522011:,Size and reason setting change
+Thu Mar 25 18:32:07 2021 +0200,e522011:,Comment typo correction
+Thu Mar 25 18:22:58 2021 +0200,e522011:,Data binding fix
+Thu Mar 25 18:20:17 2021 +0200,e522011:,Fixing comment typo
+Thu Mar 25 18:15:04 2021 +0200,e522011:,Disabling the newly added components during the initialization of the dialogs
+Thu Mar 25 17:56:11 2021 +0200,e522011:,Implementation update
+Wed Mar 24 19:08:52 2021 +0200,e522011:,Changed the data binding of the Editors from Notes to Reason
+Wed Mar 24 14:44:02 2021 +0100,e513645,Pull request #141,2021.r3.t1/feature/sopre 26289 helen attribute fix long term v2
+Wed Mar 24 14:45:33 2021 +0200,e515795,Rework
+Wed Mar 24 13:48:12 2021 +0200,e522011:,Typo correction
+Wed Mar 24 13:37:07 2021 +0200,e522011:,EmployeeRequestShiftExchange
+Wed Mar 24 11:57:01 2021 +0100,e501566,Pull request #131,store comment in notes for wishes from sopreWeb
+Tue Mar 23 09:13:47 2021 +0200,e515795,Deleting attributes from GP
+Mon Mar 22 19:53:42 2021 +0200,e522011:,EmployeeRequestShiftChange
+Mon Mar 22 19:33:59 2021 +0200,e522011:,EmployeeRequestWorkOffer
+Mon Mar 22 19:28:14 2021 +0200,e522011:,EmployeeRequestOther
+Mon Mar 22 18:00:13 2021 +0200,e522011:,IM,Creation of new DevScript menus with their corresponding responses and methods
+Mon Mar 22 17:51:22 2021 +0200,e522011:,IM,Deletion of the unused devscript methods
+Mon Mar 22 17:50:34 2021 +0200,e522011:,IM,Deletion of unused devscript menus with their responses
+Mon Mar 22 17:38:33 2021 +0200,e522011:,SM,Creation of new DevScript menus with their corresponding responses
+Mon Mar 22 16:57:40 2021 +0200,e515795,New attribute on WU
+Mon Mar 22 15:43:36 2021 +0200,e515795,Implementation and comments
+Mon Mar 22 14:50:43 2021 +0200,e515795,Moved attributes to WorkingUnit from GlobalParameters
+Mon Mar 22 13:21:36 2021 +0100,e513645,Pull request #126,2021.r3.t1/feature/sopre 26465 helen skill publishing during sap run and sm sync
+Mon Mar 22 14:04:18 2021 +0200,e522011:,SM,Deletion of the unused devscript methods
+Mon Mar 22 13:40:20 2021 +0200,e522011:,SM,Deletion of unused devscript menus with their responses
+Fri Mar 19 09:34:02 2021 +0100,e506794,Pull request #129,SOPRE-27513-Hotfix for correctly updating the TimeLastModified
+Thu Mar 18 15:33:49 2021 +0200,e522011:,EP,Creation of new DevScript menus with their corresponding responses and methods
+Thu Mar 18 15:12:39 2021 +0200,e522011:,EP,Deletion of the unused devscript methods
+Thu Mar 18 14:56:33 2021 +0200,e514509,store comment in notes for wishes from sopreWeb
+Thu Mar 18 13:36:34 2021 +0200,e522011:,Deletion of unused devscript menus with their responses
+Thu Mar 18 12:50:09 2021 +0200,e513645,Updated the Update
+Thu Mar 18 12:08:06 2021 +0200,e515795,format 2
+Thu Mar 18 12:05:46 2021 +0200,e515795,Formatting
+Tue Mar 16 22:09:23 2021 +0200,e522885,Skills 3 US-7 dialog adjustment
+Tue Mar 16 14:38:14 2021 +0200,e522885,implementation US-7
+Tue Mar 16 12:25:51 2021 +0200,e515795,Refactor,the publishing porcess is running precon should apear only when the run is created
+Mon Mar 15 12:15:57 2021 +0200,e525732,added a new argument,callstack
+Mon Mar 15 10:24:33 2021 +0200,e525732,adjustments after review
+Mon Mar 15 08:24:13 2021 +0100,e501566,Pull request #95,2021.r3.t1/feature/multidaywishes/sopre 25246 ep liviu
+Mon Mar 15 08:08:41 2021 +0200,e514509,deleted commented code
+Fri Mar 12 13:30:24 2021 +0200,e525732,prepared for review
+Fri Mar 12 10:52:30 2021 +0200,e525732,..
+Fri Mar 12 09:06:47 2021 +0200,e525732,.
+Fri Mar 12 08:51:56 2021 +0200,e525732,additional adjustements for test
+Fri Mar 12 08:45:08 2021 +0200,e525732,SM test
+Thu Mar 11 17:35:45 2021 +0100,e513645,Pull request #96,SOPRE-26338,Wishes,Setting planner comment,EP
+Thu Mar 11 16:35:18 2021 +0100,e501566,Pull request #105,SOPRE-26337,Wishes,Anpassung Transfer Notes / Reason nach SOPRE Web
+Thu Mar 11 15:13:09 2021 +0100,e506794,Pull request #109,SOPRE-26288 Constraint calculation adjustment
+Thu Mar 11 15:10:47 2021 +0200,e522885,implementation US-7,attribute Employee::HasRouteKnowledgeChanges
+Thu Mar 11 14:45:19 2021 +0200,e513645,adjusted the condition nesting
+Thu Mar 11 08:39:38 2021 +0200,e515795,Precondition restructure
+Thu Mar 11 08:22:35 2021 +0200,e515795,Allow the publishing when counter synch is finished
+Wed Mar 10 16:52:55 2021 +0200,e525732,Daemon cleanup for SM
+Wed Mar 10 15:19:29 2021 +0200,e515795,refactor
+Wed Mar 10 14:31:27 2021 +0200,e522011:,Modified notes to reason in the SOPRE-25552 implementation
+Wed Mar 10 14:15:59 2021 +0200,e522011,Merge branch 'develop'
+Wed Mar 10 13:30:03 2021 +0200,e515795,Adding translations to the run monitoring
+Wed Mar 10 11:27:28 2021 +0200,e514509,Merge branch 'develop'
+Tue Mar 9 19:44:08 2021 +0200,e515795,Initial implementation
+Tue Mar 9 16:23:33 2021 +0200,e525732,adjustments
+Tue Mar 9 15:59:16 2021 +0200,e525732,debug
+Tue Mar 9 14:35:02 2021 +0100,e513645,Pull request #99,added missing column
+Tue Mar 9 15:23:45 2021 +0200,e514509,added missing column
+Tue Mar 9 13:31:58 2021 +0200,e525732,for unit test
+Tue Mar 9 11:23:00 2021 +0200,e525732,prepared for unit test
+Mon Mar 8 15:24:07 2021 +0200,e514509,call audit from empday
+Mon Mar 8 15:17:02 2021 +0200,e514509,remove debug
+Fri Mar 5 16:54:07 2021 +0200,e525732,new daemon for data cleanup on EP and SM
+Thu Mar 4 16:02:42 2021 +0100,e513645,Pull request #80,SOPRE-26754,Counter creation with improved performance
+Thu Mar 4 16:57:53 2021 +0200,e522011:,Updating comments
+Thu Mar 4 13:44:53 2021 +0100,e513645,Pull request #93,2021.r3.t1/feature/sopre-18765-helen-latest-end-before-vacation
+Thu Mar 4 10:13:11 2021 +0100,e506794,Pull request #84,2021.r3.t1/feature/sopre 26460 helen employee active period
+Wed Mar 3 13:04:20 2021 +0100,e513645,Pull request #90,changed method Employee::LoadInternalEmployeeName()
+Wed Mar 3 12:06:01 2021 +0100,e513645,Pull request #60,2021.r3.t1/feature/multidaywishes/sopre 25552 liviu
+Wed Mar 3 12:28:42 2021 +0200,e515795,changed default text
+Wed Mar 3 12:13:48 2021 +0200,e515795,Test display
+Wed Mar 3 10:47:42 2021 +0100,e513645,Pull request #66,SOPRE,25563
+Wed Mar 3 07:20:12 2021 +0100,ue86889,Pull request #38,2021.r3.t1/feature/sopre 19561 25183 roxana skills3 us6 employeerouteknowledge deleting
+Wed Mar 3 07:16:11 2021 +0100,ue86889,Pull request #37,implementation Skills 3 US-5
+Tue Mar 2 14:27:55 2021 +0200,e522885,Merge branch '2021.r3.t1/feature/sopre-19561-23469-roxana-skills3-us5-employeerouteknowledge-editing'
+Tue Mar 2 14:15:24 2021 +0200,e522885,cleaned up method EmployeeRouteKnowledge::DeleteEmployeeRouetKnowledge
+Tue Mar 2 13:03:59 2021 +0200,e522885,last adjustments
+Tue Mar 2 12:03:53 2021 +0200,e515795,SOPRE-18765
+Tue Mar 2 09:23:04 2021 +0200,e515795,Multiple assignment
+Tue Mar 2 08:43:23 2021 +0200,e515795,Added comments
+Mon Mar 1 21:49:51 2021 +0200,e522885,implementation adjustments to test
+Mon Mar 1 20:43:24 2021 +0200,e522885,changed method Employee::LoadInternalEmployeeName()
+Mon Mar 1 15:56:37 2021 +0100,e506794,Pull request #64,2021.r3.t1/feature/sopre 24657 helen translate reservedays
+Mon Mar 1 14:03:00 2021 +0100,e506794,Pull request #32,2021.r3.t1/feature/sopre 13617 ep stefan
+Mon Mar 1 13:16:01 2021 +0200,e513645,Added guards EP
+Mon Mar 1 09:21:51 2021 +0100,e513645,Pull request #63,2021.r3.t1/feature/sopre 25625 helen publishing button ep
+Fri Feb 26 14:10:19 2021 +0200,e522011:,Renaming desginer elements
+Fri Feb 26 14:08:01 2021 +0200,e522011:,Renaming the elements
+Thu Feb 25 11:26:20 2021 +0200,e515795,Formatting
+Thu Feb 25 08:43:55 2021 +0200,e515795,Designer refactor
+Thu Feb 25 08:13:26 2021 +0200,e515795,Refactor
+Wed Feb 24 20:37:50 2021 +0200,e515795,Format
+Wed Feb 24 20:31:40 2021 +0200,e515795,refactor
+Wed Feb 24 20:25:58 2021 +0200,e515795,debug
+Wed Feb 24 20:16:45 2021 +0200,e515795,Test
+Wed Feb 24 19:43:00 2021 +0200,e515795,debug
+Wed Feb 24 19:24:44 2021 +0200,e515795,test
+Wed Feb 24 18:51:02 2021 +0200,e515795,SOPRE-26460 dialog changes
+Wed Feb 24 09:16:39 2021 +0200,e522011:,Implementation update
+Tue Feb 23 12:30:54 2021 +0100,e513645,Pull request #28,2021.r3.t1/feature/sopre 25655 dan v1
+Fri Feb 19 11:49:40 2021 +0200,e514509,debug statements
+Fri Feb 19 10:49:26 2021 +0200,e510372,adj
+Fri Feb 19 10:45:20 2021 +0200,e510372,imp
+Thu Feb 18 15:56:23 2021 +0200,e514509,Merge branch 'develop'
+Thu Feb 18 15:52:51 2021 +0200,e514509,small changes
+Thu Feb 18 15:51:22 2021 +0200,e514509,changed comments
+Thu Feb 18 13:38:53 2021 +0100,ue86888,Pull request #56,release 2021.r2.t2 changed version to 3.3.100.0
+Thu Feb 18 14:25:49 2021 +0200,e510533,release 2021.r2.t2 changed version to 3.3.100.0
+Thu Feb 18 11:53:09 2021 +0200,e522011:,Updating the SchiftExchange dialog
+Tue Feb 16 15:19:38 2021 +0200,e522011:,Implementation
+Tue Feb 16 13:05:12 2021 +0100,e501566,Pull request #47,t2 translations
+Tue Feb 16 13:52:34 2021 +0200,e515795,t2 translations
+Mon Feb 15 10:52:59 2021 +0200,e515795,Deleted unused precon
+Fri Feb 12 15:47:45 2021 +0100,e513645,Pull request #30,2021.r2.t2/feature/sopre 26432 helen skillmanagement during daemonrun
+Fri Feb 12 16:29:03 2021 +0200,e515795,Refactor after the qa review
+Fri Feb 12 15:45:30 2021 +0200,e515795,SOPRE-26462
+Fri Feb 12 13:28:42 2021 +0200,e515795,Replace Type to ReserveDayTypeGerman in CalcAssignmentEP
+Thu Feb 11 11:14:59 2021 +0100,e501566,Pull request #36,2021.r2.t2/feature/multidaywishes/sopre 25552 remove liviu
+Thu Feb 11 11:45:18 2021 +0200,e514509,deleted method
+Thu Feb 11 11:43:51 2021 +0200,e514509,removed 25552
+Thu Feb 11 09:07:46 2021 +0100,e501566,Pull request #31,Implementation for 25552
+Thu Feb 11 09:23:12 2021 +0200,e514509,fix after review
+Wed Feb 10 15:28:54 2021 +0200,e522885,dialog adjustment
+Wed Feb 10 15:03:05 2021 +0200,e522885,adjustment delete employeerouteknwoledge dialog
+Wed Feb 10 14:02:56 2021 +0200,e514509,removed part with the changed day
+Mon Feb 8 14:06:09 2021 +0200,e515795,Added comments
+Mon Feb 8 11:49:36 2021 +0200,e510372,imp
+Mon Feb 8 10:24:02 2021 +0200,e515795,SOPRE-26432 covering corner cases
+Fri Feb 5 18:57:15 2021 +0200,e522885,Merge branch '2021.r3.t1/feature/sopre-19561-23469-roxana-skills3-us5-employeerouteknowledge-editing'
+Fri Feb 5 15:00:39 2021 +0200,e522885,partial implementation US-6
+Fri Feb 5 11:26:47 2021 +0200,e510372,imp is anyoverlap
+Thu Feb 4 18:57:52 2021 +0200,e522011:,Implementation
+Thu Feb 4 18:23:18 2021 +0200,e515795,Fix null error
+Thu Feb 4 17:40:21 2021 +0200,e515795,SOPRE-26432
+Thu Feb 4 14:47:51 2021 +0200,e522885,implementation Skills 3 US-5
+Thu Feb 4 11:13:08 2021 +0200,e510372,imp
+Thu Feb 4 11:01:33 2021 +0200,e510372,imp
+Thu Feb 4 10:38:30 2021 +0200,e510372,imp
+Thu Feb 4 08:58:23 2021 +0200,e514509,ported
+Wed Feb 3 18:05:04 2021 +0200,e510372,imp
+Wed Feb 3 09:37:58 2021 +0200,e522011:,Added IsReserveDayBeforeLeaveApproval to the condition, so the empDay is set back to its original state after a wish is changed from being Approved ( eg. Cancelled or Set to in progress )
+Tue Feb 2 13:18:44 2021 +0200,e515795,SOPRE-24657 implementation for the new version
+Mon Feb 1 12:45:33 2021 +0100,e513645,Pull request #4,imp
+Sun Jan 31 13:11:32 2021 +0200,e513645,Porting part 2
+Sun Jan 31 12:54:30 2021 +0200,e513645,Adjust after porting
+Fri Jan 29 09:06:49 2021 +0200,e522011:,Fix for Scenario 1,Comments
+Thu Jan 28 18:02:52 2021 +0200,e513645,Ported 607 to 609
+Thu Jan 28 14:18:35 2021 +0200,e522011:,Implementation of Scenario 3, 4 and 5
+Thu Jan 28 12:50:29 2021 +0200,e513645,Implemented
+Thu Jan 28 09:36:16 2021 +0200,e522011:,Implementation of Scenario 1 and Scenario 2
+Thu Jan 28 09:21:34 2021 +0200,e510372,imp
+Wed Jan 27 15:56:13 2021 +0100,ue86888,Pull request #1,version,3.3.0.0
+Wed Jan 27 15:36:59 2021 +0100,e510533,version,3.3.0.0 SOPRE_DB
+Tue Jan 26 19:18:42 2021 +0100,e510533,initial commit
