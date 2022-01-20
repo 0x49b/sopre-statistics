@@ -1,0 +1,108 @@
+Commits aus unseren Repos. Jede Zeile ist ein Commit. Wenn es keine Leerzeile dazwischen hat,
+ dann kamen die Commits kurz nacheinenader, was zum Teil schöne Stories gibt. Eventuell die User Nummern entfernen
+ für die veröffentlichung ;-)
+================================================================================================================
+
+e509243: Sonar does not like java8-projects anymore
+
+e539619: hopefully final commit ^^
+
+e509243: Try something else
+e509243: Try something else
+e509243: Move to asterix again
+e509243: Back to obelix
+
+e509243: ??
+
+e509243: Revert++
+
+e509243: ROSYF-105 Even nicer.
+
+e509243: Try without Point
+e509243: Revert
+
+e509243: Fix++
+
+e509243: Don't be superstitious
+
+e509243: No https on aws since OTC does not know the AWS-certificates...
+
+e513645: the other way around
+
+e506794: I made the method remote again
+e506794: I added the comment
+e506794: I adjusted the method
+
+e526230: adding the fix
+e526230: hotfix reverted
+
+e506794: I added the logic for setting these 2 attributes
+e506794: I adjusted also on Designer
+
+e506794: .
+
+e513645: More VCM bugs..
+
+e525732: Notes -> Reason
+
+e513645: The switcharoo again
+
+e513645: Switch the order in the dialog method because false 0 and true 1 initially assumed different
+
+e513645: Looks buggy
+
+e513645: Really Quintiq?...
+
+e513645: Renamed from xxxTime to xxxDuration
+
+e513645: noticed a missing not
+
+e513645: Questions to be answered
+
+e525732: migrate the old implementation in the new version of the Quintiq
+e526230: adding back the implementation from the old quintiq version
+
+e513645: Others may update
+
+e513645: added a space in order to be able to push to remote
+
+e513645: Updated the Update
+
+ue67532: Revert naming -> it made more sense before
+
+ue67532: Allow user to zoom in the app
+ue67532: Dont allow user to zoom in the app
+
+================================================================================================================
+
+Made Up Commit Messages. Wie gewünscht ein bisschen Kreativität meinerseits
+
+u123456: AAAAAAAAAAAAAAAAAAAAAAAAA
+
+u123456: Facepalm for myself ...
+
+u123456: Fix the Fix for a Fix
+
+u123456: lots of changes after a lot of time
+
+u123456: We Had To Use Dark Magic To Make This Work
+
+u123456: Copy-paste to fix previous copy-paste
+
+u123456: For the sake of my sanity, just ignore this…
+
+u123456: Removing unecessary stuff
+
+u123456: Too lazy to write descriptive message
+
+u123456: Undoing last commit
+
+u123456: \ oo /
+
+u123456: Added some QtQ Spice to it
+
+u123456: Added some shifts so it shifts
+
+u123456: Get shifty
+
+u123456: Please Quinitq have mercy

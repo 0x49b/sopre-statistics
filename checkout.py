@@ -1,6 +1,9 @@
+import subprocess
+
 from git import Repo
 import os
 import json
+import subprocess
 
 if __name__ == "__main__":
 
@@ -20,11 +23,14 @@ if __name__ == "__main__":
 
                 for v in values:
                     project = v['project']
+
+                    # git -c "http.extraHeader=Authorization: Bearer $ACCESS_TOKEN" clone https://yourbitbucketserver/...
                     rpath = "https://code.sbb.ch/scm/%s/%s.git" % (project['key'].lower(), v['slug'])
                     print("Cloning: %s" % rpath)
 
                     try:
                         Repo.clone_from(rpath, os.path.join(os.getcwd(), 'clone', v['slug']))
+
                     except Exception as e:
                         print("cannot get repo %s" % e)
 
@@ -34,8 +40,8 @@ if __name__ == "__main__":
                         'git log --pretty=format:"%ad - %an: %s" --after="2021-01-01" --until="2021-12-31" > /c/devsbb/workspace/sopre-statistics/csv/git-log-'+v['slug']+'.csv\n')
                     c.write("\n")
 
-                    c.write("perl -i -pe \"s/ - /,/g;\" /c/devsbb/workspace/sopre-statistics/git-log-"+v['slug']+".csv\n")
-                    c.write("perl -i -pe \"s/: /,/g;\" /c/devsbb/workspace/sopre-statistics/git-log-"+v['slug']+".csv\n")
+                    c.write("perl -i -pe \"s/ - /,/g;\" /c/devsbb/workspace/sopre-statistics/csv/git-log-"+v['slug']+".csv\n")
+                    c.write("perl -i -pe \"s/: /,/g;\" /c/devsbb/workspace/sopre-statistics/csv/git-log-"+v['slug']+".csv\n")
 
                     c.write("\n\n")
 

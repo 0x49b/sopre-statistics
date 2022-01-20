@@ -1,6 +1,6 @@
 # cosing=utf8
 
-
+# SOPRE
 # ROSY
 # SOPIP
 # SOPREWeb
@@ -39,7 +39,25 @@ names_of_c = [
     (('e514983',), 'Constantea Ramona'),
     (('e528110',), 'Villvock Martin'),
     (('e522011',), 'Varga Attila'),
-    (('e514509',), 'Huluta Liviu')
+    (('e514509',), 'Huluta Liviu'),
+    (('e509243',), 'Verstoep Arjan'),
+    (('u235086', 'Manuel BrÃ¶chin',), 'Bröchin Manuel'),
+    (('u225426',), 'Schiegg Reto'),
+    (('u229160',), 'Ramseier Reto'),
+    (('e539619',), 'Schäfer Christoph'),
+    (('u234798',), 'Schüpbach Kaspar'),
+    (('u210393',), 'Esser Michael'),
+    (('u232806', 'Yves Bandi',), 'Bandi Yves'),
+    (('e535114',), 'Bossi Valentin'),
+    (('u228304', 'Lukas Spirig',), 'Spirig Lukas'),
+    (('u204068',), 'Peier Jeremias'),
+    (('e531025', 'Anas Syed',), 'Syed Anas'),
+    (('NT-SBB1\\e513441',), 'Bajkowski Mariusz'),
+    (('e516596',), 'Bedo David'),
+    (('ue67532', 'daniel.vogt2@sbb.ch',), 'Vogt Daniel'),
+    (('u230616',), 'De Filippo Claudio Antonio'),
+    (('u233266',), 'Stalder Yves'),
+    (('u226003', 'automerge', 'ue82373', 'jenkins',), 'UNKNOWN_OR_SYSTEM'),
 ]
 
 
@@ -68,6 +86,7 @@ def commits_for_contributor():
 
         contributor_commit.append((cu, commits))
         commits = 0
+    print(contributor_commit)
 
 
 def consolidate():
@@ -80,6 +99,7 @@ def consolidate():
 
         commits_to_names.append((n[1], commits))
     commits_to_names.sort(key=lambda y: y[1])
+    print(commits_to_names)
 
 
 def write_csv():
@@ -143,34 +163,25 @@ def hang_on():
                  fontsize=10, fontweight='bold',
                  color='grey')
 
-    ax.set_title('Commits in 2021 AP & EP',
+    ax.set_title('Commits in 2021 for SOPRE, ROSY, SOPIP, SOPREWeb, CERES',
                  loc='center', )
-    plt.savefig('commits_ap_and_ep.png')
-    # plt.show()
+    plt.savefig('commits_2021.png')
+    plt.show()
 
 
-def words_will_not_stop_me():
+def words_will_not_stop_me(filename):
     messages = ""
 
-    with open("git-log-ap.csv", mode='r') as file:
+    with open(filename, mode='r') as file:
         csv_file = csv.reader(file)
-        for lines in csv_file:
-            for s in lines[1:]:
-                messages = messages + s + " "
+        with open(os.path.join(os.getcwd(), 'messages.txt'), 'a') as f:
+            for lines in csv_file:
+                f.write("%s\n" % lines)
+                for s in lines[1:]:
+                    messages = messages + s + "|"
+            f.close()
         file.close()
 
-    with open("git-log-ep.csv", mode='r') as file:
-        csv_file = csv.reader(file)
-        for lines in csv_file:
-            for s in lines[1:]:
-                messages = messages + s + " "
-        file.close()
-
-    print(messages)
-
-    msg = messages.split()
-
-    print(msg)
 
 
 if __name__ == "__main__":
@@ -185,4 +196,6 @@ if __name__ == "__main__":
     consolidate()
     write_csv()
     hang_on()
-    words_will_not_stop_me()
+
+    for cf in csvfiles:
+        words_will_not_stop_me(os.path.join(os.getcwd(), "csv", cf))
