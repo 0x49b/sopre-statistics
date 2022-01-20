@@ -1,0 +1,2047 @@
+{
+  "size": 33,
+  "limit": 999,
+  "isLastPage": true,
+  "values": [
+    {
+      "slug": "adm-backend",
+      "id": 9545,
+      "name": "adm-backend",
+      "hierarchyId": "d7cabb9ef0b399788e2e",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/adm-backend.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/adm-backend.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/adm-backend/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "auth-server",
+      "id": 7701,
+      "name": "auth-server",
+      "hierarchyId": "9c77b2aa128b05faba24",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/auth-server.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/auth-server.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/auth-server/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "batch",
+      "id": 2503,
+      "name": "batch",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/batch.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/batch.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/batch/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "business",
+      "id": 7700,
+      "name": "business",
+      "hierarchyId": "1eb865cc533ecc5d79d9",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/business.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/business.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/business/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cloud-parent",
+      "id": 9248,
+      "name": "cloud-parent",
+      "hierarchyId": "278976d9338f0019ee7d",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/cloud-parent.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/cloud-parent.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/cloud-parent/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "commons",
+      "id": 9104,
+      "name": "commons",
+      "hierarchyId": "207b0ce0dbe35d38778e",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/commons.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/commons.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/commons/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "core",
+      "id": 7051,
+      "name": "core",
+      "hierarchyId": "f4b6cc4e4d5998036032",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/core.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/core.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/core/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "legacy",
+      "id": 7699,
+      "name": "legacy",
+      "hierarchyId": "c182eac68d40f20340e0",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/legacy.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/legacy.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/legacy/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "localization-service",
+      "id": 38979,
+      "name": "localization-service",
+      "description": "Service providing train localization data from within Rosy database.",
+      "hierarchyId": "bfb74d0402cdcb73eaba",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/localization-service.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/localization-service.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/localization-service/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-apim-config",
+      "id": 48341,
+      "name": "rosy-apim-config",
+      "description": "Configurations for the Rosy API",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-apim-config.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-apim-config.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-apim-config/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-apim-gateway",
+      "id": 48342,
+      "name": "rosy-apim-gateway",
+      "description": "Gateway for the Rosy API",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-apim-gateway.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-apim-gateway.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-apim-gateway/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-carloc-apim-config",
+      "id": 49540,
+      "name": "rosy-carloc-apim-config",
+      "description": "Configurations for the Carloc2Rosy API",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-carloc-apim-config.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-carloc-apim-config.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-carloc-apim-config/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-cloud-dependencies",
+      "id": 6716,
+      "name": "rosy-cloud-dependencies",
+      "hierarchyId": "bc41f78c25a9811c960c",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-cloud-dependencies.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-cloud-dependencies.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-cloud-dependencies/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-flow-carlocapi",
+      "id": 49530,
+      "name": "rosy-flow-carlocapi",
+      "description": "Rosy Flow für die GPS/Carlock Plattform über API-Management",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-flow-carlocapi.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-flow-carlocapi.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-flow-carlocapi/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-flow-ceres",
+      "id": 51176,
+      "name": "rosy-flow-ceres",
+      "description": "Flow of Rosy-Kompositions to Ceres",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-flow-ceres.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-flow-ceres/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-flow-common",
+      "id": 47485,
+      "name": "rosy-flow-common",
+      "description": "Reusable Rosy Flow components",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-flow-common.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-flow-common.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-flow-common/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-flow-fzpf",
+      "id": 47515,
+      "name": "rosy-flow-fzpf",
+      "description": "Rosy Flow für die Fahrzeugplattform",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-flow-fzpf.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-flow-fzpf.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-flow-fzpf/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-flow-gems",
+      "id": 47518,
+      "name": "rosy-flow-gems",
+      "description": "Rosy Flow für die GEMS Plattform",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-flow-gems.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-flow-gems.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-flow-gems/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-flow-gps",
+      "id": 48099,
+      "name": "rosy-flow-gps",
+      "description": "Rosy Flow für die GPS/Carlock Plattform",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-flow-gps.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-flow-gps.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-flow-gps/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-flow-zke",
+      "id": 48169,
+      "name": "rosy-flow-zke",
+      "description": "Rosy Flow für die ZKE Plattform",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-flow-zke.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-flow-zke.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-flow-zke/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-frontend",
+      "id": 30416,
+      "name": "rosy-frontend",
+      "description": "Angular Frontend for Rosy.",
+      "hierarchyId": "3eebfaff0d1f241b83e8",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-frontend.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-frontend.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-frontend/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-lexconnector",
+      "id": 15838,
+      "name": "rosy-lexconnector",
+      "hierarchyId": "e82a15a293a82af9f9e9",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-lexconnector.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-lexconnector.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-lexconnector/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-queueaccess",
+      "id": 49947,
+      "name": "rosy-queueaccess",
+      "description": "Enables posting to the Rosy-RabbitMQ from outside",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-queueaccess.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-queueaccess.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-queueaccess/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-replicator",
+      "id": 49973,
+      "name": "rosy-replicator",
+      "description": "Replicates data from a RabbitMQ via a rosy-queueaccess to another RabbitMQ on another environment",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-replicator.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-replicator.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-replicator/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-sbb2sncf",
+      "id": 22651,
+      "name": "rosy-sbb2sncf",
+      "hierarchyId": "daa3482df521231fe7b8",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-sbb2sncf.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-sbb2sncf/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-sncf2sbb",
+      "id": 22636,
+      "name": "rosy-sncf2sbb",
+      "hierarchyId": "788b802dd5a7a42a9a36",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-sncf2sbb.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-sncf2sbb.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-sncf2sbb/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-sncf2sbb-apim-gateway",
+      "id": 32254,
+      "name": "rosy-sncf2sbb-apim-gateway",
+      "description": "This repository shows how to use the API Management Gateway in your Openshift Project",
+      "hierarchyId": "738965105a3a5b32485e",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "origin": {
+        "slug": "aitg-apim-gateway",
+        "id": 27833,
+        "name": "aitg-apim-gateway",
+        "description": "This repository shows how to use the API Management Gateway in your Openshift Project",
+        "hierarchyId": "738965105a3a5b32485e",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": false,
+        "project": {
+          "key": "KD_ESTA_BLUEPRINTS",
+          "id": 2722,
+          "name": "ESTA Blueprints",
+          "description": "Beispiel Projekt mit Templates für die Anwendung von ESTA",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_ESTA_BLUEPRINTS"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_esta_blueprints/aitg-apim-gateway.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_esta_blueprints/aitg-apim-gateway.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_ESTA_BLUEPRINTS/repos/aitg-apim-gateway/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-sncf2sbb-apim-gateway.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-sncf2sbb-apim-gateway.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-sncf2sbb-apim-gateway/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-sncf2sbb-config",
+      "id": 24417,
+      "name": "rosy-sncf2sbb-config",
+      "hierarchyId": "3195258448d8fa2f5836",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-sncf2sbb-config.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-sncf2sbb-config.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-sncf2sbb-config/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-zke-importer",
+      "id": 40750,
+      "name": "rosy-zke-importer",
+      "description": "Imports ZKE-Data into a Rosy database by offering an URL that one can post xml to.",
+      "hierarchyId": "5f63c9da200450d4a82b",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-zke-importer.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-zke-importer.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-zke-importer/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "rosy-zke-xml-importer",
+      "id": 40975,
+      "name": "rosy-zke-xml-importer",
+      "description": "Imports ZKE-Data into a Rosy database by xml.",
+      "hierarchyId": "a5b79b5e084dbc0643b9",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/rosy-zke-xml-importer.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/rosy-zke-xml-importer.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/rosy-zke-xml-importer/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ui-backend",
+      "id": 7702,
+      "name": "ui-backend",
+      "hierarchyId": "37fafe53537a0f5fa205",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/ui-backend.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/ui-backend.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/ui-backend/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ui-deploy",
+      "id": 5438,
+      "name": "ui-deploy",
+      "hierarchyId": "136db1bce550f58b5008",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/ui-deploy.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/ui-deploy.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_ROSY/repos/ui-deploy/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ui-frontend",
+      "id": 7703,
+      "name": "ui-frontend",
+      "hierarchyId": "8b9adf25315deca8d1c9",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": false,
+      "project": {
+        "key": "PZ_ROSY",
+        "id": 1428,
+        "name": "Rosy",
+        "description": "Git-Projekt für die Neuausrichtung von ROSY nach dem Domain Driven Design (DDD). Die fachlichen Komponenten von ROSY werden in unabhängige Module zerlegt und in jeweils eigenen Repositories gehalten.",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_ROSY"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_rosy/ui-frontend.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_rosy/ui-frontend.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "ˆhref": "https://code.sbb.ch/projects/PZ_ROSY/repos/ui-frontend/browse"
+          }
+        ]
+      }
+    }
+  ],
+  "start": 0
+}

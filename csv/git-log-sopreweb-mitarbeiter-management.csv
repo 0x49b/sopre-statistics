@@ -1,0 +1,24 @@
+Mon Dec 6 11:43:48 2021 +0100,e516596,Pull request #36,feature/SOPRE-31635-sopreweb-spring-security-update
+Tue Nov 30 10:39:47 2021 +0100,e516596,DB(SOPRE-31635)  DONE, ,removed spring boots admin and its dependencies
+Mon Nov 22 12:50:07 2021 +0100,e516596,DB(SOPRE-31635)  DONE, ,updated the spring-starter-parent to v2.5.6 (okt.2021 release)     -> automatically updates the spring-starter security to v2.5.6        -> includes spring security v5.5.3 (both web and config)  ,updated the Jackson and common.io libraries  ,refactored the controllers @AuthenticationPrincipal class  ,removed the unnecessary endpoint configs as they were set the default values
+Wed Oct 27 10:43:05 2021 +0200,ue67532,Pull request #34,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Aug 30 16:16:47 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Mon Jul 5 17:23:27 2021 +0200,ue67532,Pull request #31,feature/SOPRE-28637-sopreweb-db-mitarbeiter-mitarbeitermanagement-exceptions-teilweise-falsch
+Mon Jul 5 16:53:44 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-28637,Refactor sql query so that we only check if the employee has tours while he's valid (valid dataset)
+Tue Apr 6 09:04:09 2021 +0200,ue67532,Pull request #29,feature/SOPRE-27305-sopreweb-thu-nummer-datenbank
+Tue Mar 30 19:44:19 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Tue Mar 30 14:50:17 2021 +0200,ue67532,Pull request #27,feature/SOPRE-27305-sopreweb-thu-nummer-datenbank
+Tue Mar 30 14:44:29 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Tue Mar 30 08:54:00 2021 +0200,ue67532,Pull request #25,feature/SOPRE-27305-sopreweb-thu-nummer-datenbank
+Tue Mar 30 08:49:54 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Mon Mar 29 14:56:13 2021 +0200,ue67532,Pull request #23,feature/SOPRE-27305-sopreweb-thu-nummer-datenbank
+Mon Mar 29 14:42:15 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Thu Mar 25 07:55:07 2021 +0100,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Wed Mar 24 07:08:09 2021 +0100,ue67532,Pull request #21,feature/SOPRE-25817-sopreweb-admin-rolle-fachbus_all-falsch
+Tue Mar 23 17:45:53 2021 +0100,ue67532,SOPRE-25817,Manage new role FACHBUS_ADMIN
+Mon Mar 22 08:48:17 2021 +0100,ue67532,Pull request #19,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:36:51 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Mon Mar 15 07:16:00 2021 +0100,ue67532,Pull request #17,feature/SOPRE-24585-sopreweb-fehlender-datenbankeintrag
+Fri Mar 12 16:45:24 2021 +0100,ue67532,SOPRE-24585,Remove MandantNotFoundException because this exceptions cannot be thrown
+Thu Feb 25 15:57:37 2021 +0100,ue67532,Pull request #15,feature/SOPRE-26967-new-db-users-for-sopreweb
+Thu Feb 18 16:49:52 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code

@@ -1,0 +1,40 @@
+Mon Dec 6 14:04:31 2021 +0100,e516596,Merge pull request #202 in PZ_SOPRE/sopreweb-tourenplan from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Mon Dec 6 14:02:18 2021 +0100,e516596,DB(SOPRE-31635)   DONE,   ,updated other controllers JWT authentication
+Mon Dec 6 11:30:39 2021 +0100,e516596,Merge pull request #200 in PZ_SOPRE/sopreweb-tourenplan from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Tue Nov 30 11:28:31 2021 +0100,e516596,DB(SOPRE-31635)   DONE,   ,removed spring boots admin and it's config
+Tue Nov 23 12:58:36 2021 +0100,e516596,DB(SOPRE-31635)   DONE,   ,updated the spring-starter-parent to v2.5.6 (okt.2021 release)        -> automatically updates the spring-starter security to v2.5.6           -> includes spring security v5.5.3 (both web and config)    ,updated the Jackson and common.io libraries    ,refactored the controllers @AuthenticationPrincipal class    ,removed the unnecessary endpoint configs as they were set the default values    ,updated H2 DB JPA settings (if data.sql need to populate a schema created by Hibernate, set spring.jpa.defer-datasource-initialization to true)
+Fri Nov 5 11:22:26 2021 +0100,ue67532,Pull request #198,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Fri Nov 5 11:20:40 2021 +0100,ue67532,SOPRE-30702,Add new HolidayHelper static class because the logic inside is used by two different services,Add four new attributes on tourenplanItem model to know if datumVon and datumBis are today or/and in holiday
+Thu Nov 4 14:11:59 2021 +0100,ue67532,Pull request #196,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Thu Nov 4 14:02:59 2021 +0100,ue67532,SOPRE-30702,Modify previous anchor because new we retrieve 3months in past and not one full year -> same is in the tourenplan
+Wed Nov 3 19:40:35 2021 +0100,ue67532,Pull request #194,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Wed Nov 3 19:37:50 2021 +0100,ue67532,SOPRE-30702,Fix time calculation bug
+Thu Oct 28 08:43:55 2021 +0200,ue67532,Pull request #190,feature/SOPRE-30702 verstandigungen 10min architecture implementation and testing
+Thu Oct 28 08:20:46 2021 +0200,ue67532,SOPRE-30702,Release also on TEST and PRETEST,Comment the new intial colums -> don't exist yet everywhere
+Wed Oct 27 10:42:46 2021 +0200,ue67532,Pull request #191,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Oct 25 11:14:13 2021 +0200,ue67532,SOPRE-30702,Add BAB filter also for tourenplanItems
+Thu Oct 21 10:57:40 2021 +0200,ue67532,SOPRE-30702,Release only on DEV, BCTEST and DEV60 because TEST (DB) isn't ready yet
+Tue Oct 19 14:26:50 2021 +0200,ue67532,SOPRE-30702,Add two boolean to tell if initial start and end where on previous or next day
+Mon Oct 18 14:45:16 2021 +0200,ue67532,SOPRE-30702,Add initial tour start and end to TourView,Add initial tour start and end + lastEdit to MitarbeiterTourDTO,Add those two new attributes to converter
+Tue Oct 12 12:58:19 2021 +0200,ue67532,SOPRE-30702,Add statusdatum to wunschDTO
+Tue Sep 21 18:58:26 2021 +0200,ue67532,SOPRE-30702,Create new entity and DTO for TourenplanItem,Create new Rest interface, DTOConverter,Create new business logic to get the tourenplan in another format
+Mon Aug 30 16:23:17 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Wed May 26 13:58:20 2021 +0200,ue67532,Pull request #187,feature/SOPRE-28715-sopip-ora-mig-analysis-of-sopreweb-performance-response-time-compare
+Wed May 26 13:55:45 2021 +0200,ue67532,SOPRE-28715,Improve query
+Wed Apr 7 12:52:17 2021 +0200,ue67532,Pull request #185,feature/SOPRE-27883-sbb-vaterschaftsurlaub-2021-in-sopreweb-als-wunschart
+Wed Apr 7 12:21:14 2021 +0200,ue67532,SOPRE-27883 -Add new LeaveType UV2021
+Wed Mar 24 07:08:17 2021 +0100,ue67532,Pull request #183,feature/SOPRE-25817-sopreweb-admin-rolle-fachbus_all-falsch
+Tue Mar 23 17:42:03 2021 +0100,ue67532,SOPRE-25817,Manage new role FACHBUS_ADMIN
+Mon Mar 22 08:48:38 2021 +0100,ue67532,Pull request #181,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:39:25 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Fri Feb 26 16:44:17 2021 +0100,ue67532,Pull request #179,feature/SOPRE-25227-tzt80-20-und-tzt2021-in-sweb-als-wunsch-auswahlbar
+Fri Feb 26 16:40:17 2021 +0100,ue67532,SOPRE-25227,Fix for TZT-RG -> use leavetype 90482 instead of 90480
+Thu Feb 25 15:45:26 2021 +0100,automerge,Merge pull request #177 in PZ_SOPRE/sopreweb-tourenplan from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Fri Feb 19 10:30:44 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code
+Fri Feb 12 08:12:48 2021 +0100,ue67532,Pull request #175,feature/SOPRE-25227-tzt80-20-und-tzt2021-in-sweb-als-wunsch-auswahlbar
+Mon Feb 8 17:14:55 2021 +0100,ue67532,SOPRE-25227,Create new Abwesenheits enums, refactor existing code
+Fri Jan 29 10:41:18 2021 +0100,ue67532,Merge branches 'develop' and 'feature/SOPRE-25227-tzt80-20-und-tzt2021-in-sweb-als-wunsch-auswahlbar' of https://code.sbb.ch/scm/pz_sopre/sopreweb-tourenplan into feature/SOPRE-25227-tzt80-20-und-tzt2021-in-sweb-als-wunsch-auswahlbar
+Fri Jan 22 15:00:55 2021 +0100,ue67532,Pull request #173,feature/SOPRE-24810-sopreweb-tourenplan-monatsauswahl
+Fri Jan 22 14:59:09 2021 +0100,ue67532,SOPRE-24810,Fix current month error
+Wed Jan 20 17:26:51 2021 +0100,ue67532,Pull request #171,feature/SOPRE-24800-new-role-must-be-able-to-create-wishes-for-choosen-mandant-v2
+Tue Jan 19 09:37:46 2021 +0100,ue67532,SOPRE-24800,Move role check into controller.

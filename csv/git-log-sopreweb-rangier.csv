@@ -1,0 +1,17 @@
+Mon Dec 6 11:43:42 2021 +0100,e516596,Pull request #32,feature/SOPRE-31635-sopreweb-spring-security-update
+Tue Nov 30 15:05:02 2021 +0100,ue67532,Pull request #35,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Tue Nov 30 14:51:41 2021 +0100,ue67532,SOPRE-30702,Remove logic to check if standortLeistung is on new date from the the backend -> doesn't work with the frontend filter
+Tue Nov 30 13:15:22 2021 +0100,ue67532,Pull request #33,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Tue Nov 30 13:06:21 2021 +0100,ue67532,SOPRE-30702,Add logic to check if standortLeistung is on new date in the backend instead of the frontend
+Tue Nov 30 10:51:04 2021 +0100,e516596,DB(SOPRE-31635)  DONE,  ,removed spring boots admin and its configuration
+Tue Nov 23 09:57:25 2021 +0100,e516596,DB(SOPRE-31635)  DONE,  ,updated the spring-starter-parent to v2.5.6 (okt.2021 release)       -> automatically updates the spring-starter security to v2.5.6         -> includes spring security v5.5.3 (both web and config)   ,updated the Jackson and common.io libraries   ,refactored the controllers @AuthenticationPrincipal class   ,removed the unnecessary endpoint configs as they were set the default values
+Wed Oct 27 10:43:00 2021 +0200,ue67532,Pull request #30,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Aug 30 16:18:49 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Mon Mar 22 08:48:23 2021 +0100,ue67532,Pull request #27,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:37:37 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Fri Mar 19 14:47:58 2021 +0100,ue67532,Pull request #25,feature/SOPRE-25691-sopreweb-rolle-sopreweb_fachbus_all-anpassen
+Fri Mar 19 14:43:36 2021 +0100,ue67532,SOPRE-25691,FACHBUS_ALL must be allowed to see and search with depots
+Thu Mar 18 15:55:59 2021 +0100,ue67532,Pull request #23,feature/SOPRE-25691-sopreweb-rolle-sopreweb_fachbus_all-anpassen
+Thu Mar 18 15:51:09 2021 +0100,ue67532,SOPRE-25691,FACHBUS_ALL must be allowed to see and search with depots
+Thu Feb 25 15:57:50 2021 +0100,ue67532,Pull request #21,feature/SOPRE-26967-new-db-users-for-sopreweb
+Fri Feb 19 07:44:40 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code

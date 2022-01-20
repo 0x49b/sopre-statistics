@@ -1,0 +1,220 @@
+Thu Dec 23 15:27:37 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Thu Dec 23 15:27:16 2021 +0100,e509243,ROSYF-129 Workaround for faulty TGV REBETyp in PISA-file
+Fri Dec 17 11:12:12 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Fri Dec 17 11:11:12 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.15
+Fri Dec 17 10:57:10 2021 +0100,e509243,Fix broken test.
+Fri Dec 17 10:52:24 2021 +0100,e509243,ROSYF-149,Fixed report.
+Mon Nov 22 10:28:39 2021 +0100,e509243,Fix project name
+Mon Nov 22 10:23:09 2021 +0100,e509243,ROSYF-135,Move from rosya-int to rosy-int
+Fri Nov 19 16:39:59 2021 +0100,e509243,No proxy for lisa
+Fri Nov 19 16:23:50 2021 +0100,e509243,Remove annotation that is only for Openshift 3.11
+Fri Nov 19 12:52:17 2021 +0100,e509243,SSP cluster-independent-url
+Fri Nov 19 11:59:38 2021 +0100,e509243,Fix cluster name
+Fri Nov 19 11:58:03 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Fri Nov 19 11:57:40 2021 +0100,e509243,ROSYF-135 Backend to Lisa
+Wed Nov 17 13:23:49 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Wed Nov 17 13:22:48 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.14
+Wed Nov 17 11:43:02 2021 +0100,e509243,Query fix
+Wed Nov 17 11:11:46 2021 +0100,e509243,Show mess_zeitpunkt of matching origin only.
+Fri Nov 12 13:50:36 2021 +0100,e509243,ROSYF-56 Removed unused code
+Fri Nov 12 13:38:12 2021 +0100,e509243,ROSYF-56 Removed superfluous files
+Fri Nov 12 13:02:55 2021 +0100,e509243,Comments in SQL not allowed..
+Fri Nov 12 09:31:37 2021 +0100,e509243,Missing images report,only show vehicles that generate formations
+Fri Nov 12 09:28:15 2021 +0100,e509243,ROSYF-72 Couple correct GEMS-Registration
+Thu Nov 11 15:39:23 2021 +0100,e509243,ROSYF-132,SpringBoot upgrade
+Thu Nov 11 15:36:59 2021 +0100,e509243,ROSYF-132,SpringBoot upgrade
+Thu Nov 11 15:36:08 2021 +0100,e509243,Pull request #182,Fix for double GEMS-Registration trains 583 and 3524
+Thu Nov 11 15:35:36 2021 +0100,e509243,Fix for double GEMS-Registration trains 583 and 3524
+Wed Nov 10 16:04:08 2021 +0100,e509243,Pull request #181,Show more info
+Wed Nov 10 16:03:13 2021 +0100,e509243,Show more info
+Wed Nov 10 14:01:36 2021 +0100,e509243,Pull request #180,Trains that change direction have more than one gemsregistration:
+Wed Nov 10 13:39:10 2021 +0100,e509243,Trains that change direction have more than one gemsregistration:
+Tue Nov 9 15:28:54 2021 +0100,e509243,Pull request #179,Additionally show 1st vehicle-based- and gems-registration-based GSMR
+Tue Nov 9 15:22:09 2021 +0100,e509243,Additionally show 1st vehicle-based- and gems-registration-based GSMR
+Mon Oct 25 09:27:38 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Mon Oct 25 09:26:49 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.13
+Tue Oct 19 08:56:48 2021 +0200,e509243,ROSYF-124 Use messzeit, not eventzeit
+Mon Oct 18 11:48:01 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Mon Oct 18 11:47:17 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.12
+Mon Oct 18 11:29:48 2021 +0200,e509243,Pull request #178,ROSYF-98 no server-side filtering anymore
+Mon Sep 27 15:42:04 2021 +0200,e509243,ROSYF-98 no server-side filtering anymore ROSYF-94 offer endpoints for listing/updating configuration settings
+Thu Sep 23 16:34:41 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Thu Sep 23 16:33:59 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.11
+Wed Sep 22 17:07:42 2021 +0200,e509243,Fix failing tests
+Wed Sep 22 16:12:22 2021 +0200,e509243,ROSYF-120 Fix pgbouncer-connection problems
+Wed Sep 22 11:28:43 2021 +0200,e509243,Pull request #177,Moved prod to PGO
+Wed Sep 22 11:28:08 2021 +0200,e509243,Moved prod to PGO
+Wed Sep 15 13:52:22 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Wed Sep 15 13:51:35 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.10
+Wed Sep 15 13:44:30 2021 +0200,e509243,Pull request #176,Fix value, catch all exception
+Wed Sep 15 13:43:50 2021 +0200,e509243,Fix value, catch all exception
+Mon Sep 13 15:03:09 2021 +0200,e509243,Pull request #175,Better errors when email fails, quicker SQL, new int-db.
+Mon Sep 13 14:58:00 2021 +0200,e509243,Better errors when email fails, quicker SQL, new int-db.
+Mon Sep 6 11:19:09 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Mon Sep 6 11:12:11 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.9
+Mon Sep 6 08:45:40 2021 +0200,e509243,Pull request #174,Don't log duration for non-executing cluster nodes
+Mon Sep 6 08:44:35 2021 +0200,e509243,Don't log duration for non-executing cluster nodes
+Fri Sep 3 13:29:19 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Fri Sep 3 13:28:12 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.8
+Fri Sep 3 13:22:38 2021 +0200,e509243,Pull request #173,Feature/aver ROSYF-96 FixNullSubtype
+Fri Sep 3 13:19:39 2021 +0200,e509243,Add profile to email from import-job
+Fri Sep 3 12:05:46 2021 +0200,e509243,Each report in own Transaction, fix brokenGPSReport performance
+Thu Sep 2 13:11:02 2021 +0200,e509243,Always set lock-subtype.
+Fri Aug 27 16:20:58 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Fri Aug 27 16:20:35 2021 +0200,e509243,Fix DBName test
+Fri Aug 27 16:12:21 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Fri Aug 27 16:11:22 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.7
+Fri Aug 27 15:53:56 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Fri Aug 27 15:53:35 2021 +0200,e509243,ROSYF-108 Enable mails from batch jobs
+Fri Aug 27 15:52:31 2021 +0200,e509243,Send emails when errors happen during batch import
+Fri Aug 27 14:21:07 2021 +0200,e509243,Remove vehicles that aren't in the csv or have rebe-type='?'
+Thu Aug 26 09:10:24 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Thu Aug 26 09:09:28 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.6
+Wed Aug 25 11:26:55 2021 +0200,e509243,Move TestDB to PGO
+Mon Aug 23 11:51:55 2021 +0200,e509243,ROSYF-108,Moved FahrzeugBilder/Daten-import to UI-Backend.
+Thu Aug 19 08:19:00 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Thu Aug 19 08:18:36 2021 +0200,e509243,Postgres13-compatibility
+Wed Aug 18 15:20:34 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Wed Aug 18 15:19:37 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.5
+Wed Aug 18 14:09:05 2021 +0200,e509243,Fix postgres13-compatibility
+Tue Aug 17 14:20:17 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Tue Aug 17 14:19:57 2021 +0200,e509243,Mode dev DB
+Tue Aug 17 14:19:17 2021 +0200,e509243,Pull request #172,Test++
+Tue Aug 17 14:18:45 2021 +0200,e509243,Test++
+Mon Aug 16 14:34:06 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Mon Aug 16 14:33:21 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.4
+Mon Aug 16 11:29:54 2021 +0200,e509243,Pull request #171,ROSYF-104
+Mon Aug 16 11:29:28 2021 +0200,e509243,ROSYF-104
+Mon Aug 16 11:28:00 2021 +0200,e509243,Pull request #170,No response for GEMS-Lookups that have been inactive for more than 15m
+Mon Aug 16 11:27:14 2021 +0200,e509243,No response for GEMS-Lookups that have been inactive for more than 15m
+Wed Aug 11 10:26:29 2021 +0200,e509243,Pull request #169,Make better (faster) queries.
+Wed Aug 11 10:25:40 2021 +0200,e509243,Make better (faster) queries.
+Tue Aug 3 08:44:32 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Tue Aug 3 08:43:45 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.3
+Tue Jul 27 14:33:39 2021 +0200,e509243,Pull request #168,Don't use websocket for handling requests
+Tue Jul 27 14:24:37 2021 +0200,e509243,Don't use websocket for handling requests
+Wed Jul 21 11:57:43 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Wed Jul 21 11:56:58 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.2
+Mon Jul 19 11:52:48 2021 +0200,e509243,Pull request #167,Use only one thread in order to be sure that order stays correct
+Mon Jul 19 11:48:57 2021 +0200,e509243,Use only one thread in order to be sure that order stays correct
+Tue Jul 13 13:56:45 2021 +0200,e509243,Fixes for ROSYF-54.
+Thu Jul 1 07:47:01 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Thu Jul 1 07:45:50 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.1
+Tue Jun 29 15:32:27 2021 +0200,e509243,Pull request #166,Fix test
+Tue Jun 29 15:31:59 2021 +0200,e509243,Fix test
+Tue Jun 29 15:28:36 2021 +0200,e509243,Pull request #165,Sensible default formatting.
+Tue Jun 29 15:28:03 2021 +0200,e509243,Sensible default formatting.
+Tue Jun 29 14:47:59 2021 +0200,e509243,Pull request #164,Use standard formatting for timestamp.
+Tue Jun 29 14:47:18 2021 +0200,e509243,Use standard formatting for timestamp.
+Mon Jun 21 09:42:54 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.43.0-SNAPSHOT
+Mon Jun 21 09:41:41 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.42.0
+Fri Jun 18 13:33:35 2021 +0200,e509243,Pull request #163,Only allow frontend connections to websocket.
+Fri Jun 18 13:33:08 2021 +0200,e509243,Only allow frontend connections to websocket.
+Fri Jun 18 09:12:47 2021 +0200,e509243,Pull request #162,Check with explicit allowance for /positions
+Fri Jun 18 09:12:13 2021 +0200,e509243,Check wit explicit allowance for /positions
+Thu Jun 17 14:59:30 2021 +0200,e509243,Pull request #161,Configure queueaccess
+Thu Jun 17 14:59:04 2021 +0200,e509243,Configure queueaccess
+Thu Jun 17 14:44:13 2021 +0200,e509243,Pull request #160,Live positions
+Thu Jun 17 14:19:03 2021 +0200,e509243,Live positions
+Fri Jun 4 10:48:36 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.42.0-SNAPSHOT
+Fri Jun 4 10:47:50 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.41.7
+Thu Jun 3 07:46:23 2021 +0200,e509243,Pull request #159,Better (faster) queries
+Thu Jun 3 07:45:51 2021 +0200,e509243,Better (faster) queries
+Tue Jun 1 11:59:45 2021 +0200,e509243,Pull request #158,ROSYF-61,Adapted queries to different usage of out_zug_element_pos
+Tue Jun 1 11:59:13 2021 +0200,e509243,ROSYF-61,Adapted queries to different usage of out_zug_element_pos
+Mon May 17 08:08:34 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.42.0-SNAPSHOT
+Mon May 17 08:08:00 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.41.6
+Mon May 17 07:44:56 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Mon May 17 07:44:02 2021 +0200,e509243,ROSYF-18 Fix additional columns contents.
+Fri May 14 11:12:26 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.42.0-SNAPSHOT
+Fri May 14 11:11:23 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.41.5
+Fri May 14 11:03:49 2021 +0200,e509243,Pull request #157,Add fields for last event time and last event zone
+Fri May 14 10:59:41 2021 +0200,e509243,Add fields for last event time and last event zone
+Mon Apr 26 15:28:30 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.42.0-SNAPSHOT
+Mon Apr 26 15:27:28 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.41.4
+Mon Apr 26 12:47:47 2021 +0200,e509243,Pull request #156,Added report for broken RFID tags
+Mon Apr 26 11:54:31 2021 +0200,e509243,Added report for broken RFID tags
+Fri Apr 9 12:22:02 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.42.0-SNAPSHOT
+Fri Apr 9 12:21:16 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.41.3
+Fri Apr 9 11:50:58 2021 +0200,e509243,Better descriptions
+Fri Apr 9 11:47:45 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Fri Apr 9 11:47:18 2021 +0200,e509243,Better way of finding GPS and FZPF Train AFI-Numbers.
+Fri Apr 9 11:12:28 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.42.0-SNAPSHOT
+Fri Apr 9 11:11:06 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.41.2
+Fri Apr 9 11:00:53 2021 +0200,e509243,Fix columnname
+Fri Apr 9 10:06:08 2021 +0200,e509243,ROSYF-38 Provide sap_fahrzeug_typ too
+Fri Apr 9 08:19:46 2021 +0200,e509243,Shorter name, as the original does not fit in Excel
+Thu Apr 8 15:39:03 2021 +0200,e509243,ROSYF-16,New Broken GPS deviced report.
+Tue Mar 30 09:54:04 2021 +0200,jenkins,[pipeline-helper] Set next dev version 2.42.0-SNAPSHOT
+Tue Mar 30 09:53:09 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 2.41.1
+Tue Mar 30 09:41:47 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Tue Mar 30 09:41:21 2021 +0200,e509243,ROSYF-17,Move int and prod to asterix
+Tue Mar 23 15:33:37 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.42.0-SNAPSHOT
+Tue Mar 23 15:31:47 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.41.0
+Tue Mar 23 12:06:47 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Tue Mar 23 12:06:10 2021 +0100,e509243,Fix missing endpoint.
+Thu Mar 18 14:43:08 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.41.0-SNAPSHOT
+Thu Mar 18 14:41:56 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.40.0
+Thu Mar 18 14:24:14 2021 +0100,e509243,ROSYF-43 Hide unpublished kompositions.
+Tue Mar 16 14:42:32 2021 +0100,e509243,Pull request #155,Remove CeresReplika alltogether
+Tue Mar 16 14:36:48 2021 +0100,e509243,Remove CeresReplika alltogether
+Mon Mar 15 10:16:36 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.40.0-SNAPSHOT
+Mon Mar 15 10:15:53 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.39.1
+Mon Mar 15 10:10:25 2021 +0100,e509243,ROSYF-17 Move backend to test07
+Thu Mar 11 08:17:57 2021 +0100,e509243,Fix hostname on dev
+Tue Mar 9 14:08:06 2021 +0100,e509243,ROSYF-17 Fix Credential
+Tue Mar 9 13:52:02 2021 +0100,e509243,ROSYF-17 try out test07
+Fri Mar 5 16:07:21 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.40.0-SNAPSHOT
+Fri Mar 5 16:06:16 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.39.0
+Thu Mar 4 15:27:50 2021 +0100,e509243,Pull request #154,Restore old-URLs configs.
+Thu Mar 4 15:27:25 2021 +0100,e509243,Restore old-URLs configs.
+Thu Mar 4 15:19:15 2021 +0100,e509243,Pull request #153,Temporarily add 'old' frontend URLs, so the old URLs stay working.
+Thu Mar 4 15:18:47 2021 +0100,e509243,Temporarily add 'old' frontend URLs, so the old URLs stay working.
+Thu Mar 4 14:25:20 2021 +0100,e509243,Pull request #152,Use cluster-independent URLs
+Thu Mar 4 14:24:44 2021 +0100,e509243,Use cluster-independent URLs
+Mon Mar 1 10:12:03 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.39.0-SNAPSHOT
+Mon Mar 1 10:10:42 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.38.0
+Thu Feb 25 13:14:17 2021 +0100,e509243,ROSYF-19 Add cluster independent URL
+Wed Feb 24 14:53:30 2021 +0100,e509243,Pull request #151,Optimize formation-load-queries
+Wed Feb 24 14:50:37 2021 +0100,e509243,Fix failing tests
+Wed Feb 24 14:47:29 2021 +0100,e509243,Optimize formation-load-queries
+Wed Feb 24 13:52:25 2021 +0100,e509243,Pull request #150,Don't query Formation objects twice
+Wed Feb 24 13:48:40 2021 +0100,e509243,Fix failing test.
+Wed Feb 24 13:41:27 2021 +0100,e509243,Don't query Formation objects twice
+Mon Feb 22 09:45:11 2021 +0100,e509243,Pull request #149,Make reporting environment variable mandatory.
+Mon Feb 22 09:44:45 2021 +0100,e509243,Make reporting environment variable mandatory.
+Mon Feb 22 09:17:13 2021 +0100,e509243,Pull request #148,Fix error while generating GPS Report.
+Mon Feb 22 09:16:36 2021 +0100,e509243,Fix error while generating GPS Report.
+Wed Feb 17 11:41:32 2021 +0100,e509243,Pull request #147,Added GPSReport, added 'Quelle' column to RFID-, GPS-, CeresReports
+Wed Feb 17 11:33:40 2021 +0100,e509243,Fix test
+Wed Feb 17 11:23:31 2021 +0100,e509243,Added GPSReport, added 'Quelle' column to RFID-, GPS-, CeresReports
+Wed Jan 27 07:50:21 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.38.0-SNAPSHOT
+Wed Jan 27 07:49:26 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.37.0
+Tue Jan 26 14:29:29 2021 +0100,e509243,Merge
+Tue Jan 26 14:29:12 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend.git into develop
+Tue Jan 26 14:27:12 2021 +0100,e509243,Re-apply title fix for emails.
+Tue Jan 19 13:06:45 2021 +0100,e509243,Pull request #146,Add search for gps/fzpf/rfid combined
+Tue Jan 19 13:00:13 2021 +0100,e509243,Add search for gps/fzpf/rfid combined
+Mon Jan 18 10:52:25 2021 +0100,e509243,Pull request #145,Less joins; more speed
+Mon Jan 18 10:51:53 2021 +0100,e509243,Less joins; more speed
+Mon Jan 18 10:24:08 2021 +0100,e509243,Pull request #144,ZKE -> RFID
+Mon Jan 18 10:23:36 2021 +0100,e509243,ZKE -> RFID
+Mon Jan 18 09:11:39 2021 +0100,e509243,Pull request #143,Features/aver ROSY-1162 SourceInGUI
+Mon Jan 18 09:11:20 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend into features/aver_ROSY-1162_SourceInGUI
+Mon Jan 18 09:10:56 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/ui-backend into features/aver_ROSY-1162_SourceInGUI
+Mon Jan 18 09:06:47 2021 +0100,e509243,Show RFID instead of ZKE
+Fri Jan 15 14:29:00 2021 +0100,e509243,Remove non-existing environment
+Fri Jan 15 14:28:40 2021 +0100,e509243,Pull request #141,Serve source too
+Fri Jan 15 14:28:10 2021 +0100,e509243,fix conflict
+Fri Jan 15 14:26:37 2021 +0100,e509243,Fix conflict
+Fri Jan 15 14:25:53 2021 +0100,e509243,Fix conflict
+Fri Jan 15 14:24:51 2021 +0100,e509243,Fix conflict
+Fri Jan 15 14:21:54 2021 +0100,e509243,Serve source too
+Wed Jan 6 08:03:59 2021 +0100,jenkins,[pipeline-helper] Set next dev version 2.37.0-SNAPSHOT
+Wed Jan 6 08:03:03 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 2.36.0
+Wed Jan 6 07:53:58 2021 +0100,e509243,Pull request #140,Remove staging1 environment, repair dev
+Wed Jan 6 07:53:18 2021 +0100,e509243,Remove staging1 environment, repair dev
+Wed Jan 6 07:42:56 2021 +0100,e509243,Pull request #139,Splunk migration
+Wed Jan 6 07:42:26 2021 +0100,e509243,Splunk migration
+Wed Jan 6 07:33:16 2021 +0100,e509243,Pull request #138,Splunk migration
+Wed Jan 6 07:31:30 2021 +0100,e509243,Splunk migration

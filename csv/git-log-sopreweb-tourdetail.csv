@@ -1,0 +1,18 @@
+Mon Dec 6 11:29:45 2021 +0100,e516596,Merge pull request #133 in PZ_SOPRE/sopreweb-tourdetail from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Tue Nov 30 11:24:15 2021 +0100,e516596,DB(SOPRE-31635)  DONE,  ,removed spring boots admin and it's config
+Tue Nov 23 14:30:48 2021 +0100,e516596,DB(SOPRE-31635)  DONE,  ,updated the spring-starter-parent to v2.5.6 (okt.2021 release)       -> automatically updates the spring-starter security to v2.5.6         -> includes spring security v5.5.3 (both web and config)   ,updated the Jackson and common.io libraries   ,refactored the controllers @AuthenticationPrincipal class   ,removed the unnecessary endpoint configs as they were set the default values   ,updated H2 DB JPA settings (if data.sql need to populate a schema created by Hibernate, set spring.jpa.defer-datasource-initialization to true)   ,"Ü" char decoding caused test failing fix, (changed to "U")
+Wed Oct 27 10:42:49 2021 +0200,ue67532,Pull request #131,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Oct 25 13:25:35 2021 +0200,ue67532,Pull request #129,feature/SOPRE-31339-sopreweb-falsche-toureinteilung
+Mon Oct 25 13:14:29 2021 +0200,ue67532,SOPRE-31339,Move attribute ruheschicht from tourendetailDTO to tourdetailDTO because each tour (tour and replacedTour) has it's own start and end time,Filter BAB tours -> this ones must not be taken into consideration when calculating the ruheschicht,Modify junitTests,Modify DTOConverters,Modify logic to calculate the ruheschicht
+Mon Aug 30 16:22:14 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Wed Jul 7 10:43:54 2021 +0200,ue67532,Pull request #126,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages
+Wed Jun 30 18:56:04 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Empty commit
+Wed Jun 30 13:56:35 2021 +0200,ue67532,SOPRE-26213,Empty commit
+Wed Jun 30 12:43:19 2021 +0200,ue67532,SOPRE-26213,Create new TourendetailDTO that will directly contain replaced and actual tour,Modify all services and tests according to this new structure
+Thu May 6 08:16:29 2021 +0200,ue67532,SOPRE-26213,Use only one rest interface for all same tourdetail calls,Refactor DTO, converters and service
+Mon Mar 22 08:48:35 2021 +0100,ue67532,Pull request #124,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:39:03 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Thu Feb 25 15:45:30 2021 +0100,automerge,Merge pull request #122 in PZ_SOPRE/sopreweb-tourdetail from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Fri Feb 19 08:44:52 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code
+Wed Jan 13 10:42:32 2021 +0100,ue67532,Pull request #120,feature/SOPRE-22238-sopreweb-team-anzeige-bei-db-nur-fur-abgehenden-zug
+Wed Jan 13 10:39:57 2021 +0100,ue67532,SOPRE-22238,Fix bug,hardcode activity type durchgehende Besetzung doesn't work in french and italian

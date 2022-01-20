@@ -1,0 +1,25 @@
+Thu Jul 1 13:12:45 2021 +0200,e509243,Pull request #6,typos
+Thu Jul 1 13:12:23 2021 +0200,e509243,typos
+Thu Jul 1 13:11:57 2021 +0200,e509243,Pull request #5,No https on aws, since OTC does not know the AWS-certificates...
+Thu Jul 1 13:11:32 2021 +0200,e509243,No https on aws, since OTC does not know the AWS-certificates...
+Thu Jul 1 11:09:42 2021 +0200,e509243,Pull request #4,Fix config.
+Thu Jul 1 11:09:18 2021 +0200,e509243,Fix config.
+Thu Jul 1 10:51:20 2021 +0200,e509243,Pull request #3,ROSYF-72 Forward fzpos queue to rosy-mobile
+Thu Jul 1 10:45:24 2021 +0200,e509243,ROSYF-72 Forward fzpos queue to rosy-mobile
+Tue Jun 8 14:18:30 2021 +0200,e509243,Pull request #2,Replicate directly from PROD to all other environments.
+Tue Jun 8 14:17:58 2021 +0200,e509243,Replicate directly from PROD to all other environments.
+Tue Mar 30 11:52:12 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.3.0-SNAPSHOT
+Tue Mar 30 11:52:01 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.2.2
+Tue Mar 30 11:46:57 2021 +0200,e509243,Move int and prod to asterix
+Mon Mar 15 11:39:57 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.3.0-SNAPSHOT
+Mon Mar 15 11:39:38 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.2.1
+Mon Mar 15 11:02:29 2021 +0100,e509243,ROSYF-17 Move to test07
+Wed Mar 10 17:02:56 2021 +0100,e509243,Move dev to test07
+Thu Mar 4 08:54:34 2021 +0100,e509243,Pull request #1,Use TraceId as correlationId
+Thu Mar 4 08:52:30 2021 +0100,e509243,Use TraceId as correlationId
+Wed Feb 3 15:24:58 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-replicator.git into develop
+Wed Feb 3 15:24:34 2021 +0100,e509243,Deploy on dev too, so I ca forward to my EAP
+Tue Jan 5 16:47:29 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.3.0-SNAPSHOT
+Tue Jan 5 16:47:20 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.2.0
+Tue Jan 5 16:44:18 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-replicator.git into develop
+Tue Jan 5 16:43:57 2021 +0100,e509243,Splunk migration

@@ -1,0 +1,51 @@
+Tue Dec 7 11:45:34 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.9.0-SNAPSHOT
+Tue Dec 7 11:43:18 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.8.3
+Tue Dec 7 11:37:44 2021 +0100,e509243,Pull request #60,Fix prod troubles
+Tue Dec 7 11:37:15 2021 +0100,e509243,Fix prod troubles
+Mon Dec 6 14:38:14 2021 +0100,e509243,Pull request #59,Fix prod config.
+Mon Dec 6 14:15:56 2021 +0100,e509243,Fix prod config.
+Mon Dec 6 13:55:01 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.9.0-SNAPSHOT
+Mon Dec 6 13:54:28 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.8.2
+Mon Dec 6 13:35:38 2021 +0100,e509243,Pull request #58,Configs for test/int/prod
+Mon Dec 6 13:35:08 2021 +0100,e509243,Configs for test/int/prod
+Mon Dec 6 13:12:29 2021 +0100,e509243,Pull request #57,Only use API-Filter for /service
+Mon Dec 6 13:11:58 2021 +0100,e509243,Only use API-Filter for /service
+Mon Dec 6 13:05:58 2021 +0100,e509243,Pull request #56,Fix healthcheck
+Mon Dec 6 13:05:32 2021 +0100,e509243,Fix healthcheck
+Mon Dec 6 11:55:48 2021 +0100,e509243,Pull request #55,Add proxy
+Mon Dec 6 11:55:23 2021 +0100,e509243,Add proxy
+Mon Dec 6 11:45:28 2021 +0100,e509243,Pull request #54,Fix stage
+Mon Dec 6 11:43:47 2021 +0100,e509243,Fix stage
+Mon Dec 6 11:20:20 2021 +0100,e509243,Pull request #53,Fix route name
+Mon Dec 6 11:18:31 2021 +0100,e509243,Fix route name
+Mon Dec 6 11:14:29 2021 +0100,e509243,Pull request #52,Fix duplicate route name
+Mon Dec 6 11:14:10 2021 +0100,e509243,Fix duplicate route name
+Mon Dec 6 11:03:56 2021 +0100,e509243,Pull request #51,fix hostname
+Mon Dec 6 11:00:55 2021 +0100,e509243,fix hostname
+Mon Dec 6 10:30:29 2021 +0100,e509243,Pull request #50,Features/aver ROSYF-146 move to adapter
+Mon Dec 6 10:26:24 2021 +0100,e509243,Ignore failing test for now..
+Mon Dec 6 10:20:47 2021 +0100,e509243,ROSYF-146 Move to APIM 4.0
+Mon Nov 29 11:44:57 2021 +0100,e509243,Move to adapter
+Wed Sep 22 11:27:03 2021 +0200,e509243,Moved int+prod to PGO
+Wed Aug 25 11:15:35 2021 +0200,e509243,Moved TestDB to PGO
+Mon Aug 23 14:49:52 2021 +0200,e509243,More details in /admin/health
+Tue Aug 17 14:40:04 2021 +0200,e509243,Fix DB Config
+Tue Aug 17 14:29:27 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sncf2sbb.git into develop
+Tue Aug 17 14:29:04 2021 +0200,e509243,Move dev DB
+Tue Mar 30 13:11:32 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.9.0-SNAPSHOT
+Tue Mar 30 13:10:57 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.8.1
+Tue Mar 30 13:06:16 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sncf2sbb.git into develop
+Tue Mar 30 13:05:56 2021 +0200,e509243,ROSYF-17 Move int and prod to asterix
+Tue Mar 23 11:06:31 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.9.0-SNAPSHOT
+Tue Mar 23 11:05:46 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.8.0
+Tue Mar 23 10:34:57 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sncf2sbb.git into develop
+Tue Mar 23 10:34:38 2021 +0100,e509243,Send dev/test/int messages to nirwana, use only prod on all envs.
+Mon Mar 15 13:12:10 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.8.0-SNAPSHOT
+Mon Mar 15 13:11:25 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.7.1
+Mon Mar 15 13:02:11 2021 +0100,e509243,ROSYF-17 Move test to test07
+Wed Mar 10 16:07:07 2021 +0100,e509243,Pull request #49,ROSYF-17 Move dev to test07 + correlationId
+Wed Mar 10 16:06:22 2021 +0100,e509243,ROSYF-17 Move dev to test07 + correlationId
+Wed Jan 6 06:59:13 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.8.0-SNAPSHOT
+Wed Jan 6 06:58:34 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.7.0
+Wed Jan 6 06:46:01 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sncf2sbb.git into develop
+Wed Jan 6 06:45:39 2021 +0100,e509243,Splunk migration

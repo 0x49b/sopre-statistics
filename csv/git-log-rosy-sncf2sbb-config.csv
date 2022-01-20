@@ -1,0 +1,8 @@
+Tue Mar 30 13:04:51 2021 +0200,e509243,ROSYF-17 Move int and prod to asterix
+Tue Mar 23 08:56:36 2021 +0100,e509243,revert
+Tue Mar 23 08:41:24 2021 +0100,e509243,Remove proxy-prefix to get dev and test going
+Mon Mar 22 16:46:40 2021 +0100,e509243,Fix internal host names
+Mon Mar 15 13:00:23 2021 +0100,e509243,ROSYF-17 move test to test07
+Thu Mar 11 11:05:11 2021 +0100,e509243,Enable routing over wsg
+Thu Mar 11 10:51:05 2021 +0100,e509243,Move dev to test07
+Fri Feb 26 09:43:17 2021 +0100,e509243,ROSYF-22 Set MegaID

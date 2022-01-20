@@ -1,0 +1,12 @@
+Mon Dec 6 11:24:02 2021 +0100,e516596,Merge pull request #42 in PZ_SOPRE/sopreweb-dual-employee from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Tue Nov 30 09:19:01 2021 +0100,e516596,DB(SOPRE-31635) DONE,,removed spring boot admin configuration
+Tue Nov 30 09:17:47 2021 +0100,e516596,DB(SOPRE-31635) DONE,,removed spring boot admin and related configuration
+Thu Nov 18 16:01:37 2021 +0100,e516596,DB(SOPRE-31635) DONE,,updated the spring-starter-parent to v2.5.6 (okt.2021 release)     -> automatically updates the spring-starter security to v2.5.6        -> includes spring security v5.5.3 (both web and config) ,updated the Jackson and common.io libraries ,refactored the controllers @AuthenticationPrincipal class ,removed the unnecessary endpoint configs as they were set the default values
+Wed Oct 27 10:43:26 2021 +0200,ue67532,Pull request #40,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Aug 30 16:08:40 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Mon Mar 22 08:48:03 2021 +0100,ue67532,Pull request #37,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:33:28 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Mon Mar 15 07:15:10 2021 +0100,ue67532,Pull request #35,feature/SOPRE-24585-sopreweb-fehlender-datenbankeintrag
+Fri Mar 12 18:29:28 2021 +0100,ue67532,SOPRE-24585,Add MitarbeiterNotFoundException,Add missing error param
+Thu Feb 25 15:55:07 2021 +0100,automerge,Merge pull request #33 in PZ_SOPRE/sopreweb-dual-employee from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Wed Feb 17 18:01:37 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code

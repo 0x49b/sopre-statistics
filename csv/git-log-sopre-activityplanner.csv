@@ -1,8 +1,82 @@
+Fri Dec 31 11:26:42 2021 +0200,e513645,adjusted duration format
+Thu Dec 30 17:08:59 2021 +0200,e513645,the other way around
+Thu Dec 30 14:02:31 2021 +0200,e513645,adjusted comments a bit
+Thu Dec 30 13:49:11 2021 +0200,e513645,Added new attributes,function for the CrewDiagram attribute,transfer to History
+Wed Dec 29 14:46:50 2021 +0200,e513645,CrewActivityUnit calculation override and History transfer implementation
+Fri Dec 24 15:43:35 2021 +0200,e513645,CrewActivity (+break) added, with smaller adjustments to the other calcs
+Thu Dec 23 17:13:57 2021 +0200,e513645,Attributes on EmpDay and CrewDiagramActive created
+Wed Dec 22 17:14:06 2021 +0200,e515795,1st Master view
+Wed Dec 22 09:06:13 2021 +0100,e510372,Pull request #1267,SOPRE-31993 Unnecessary AuditTrail entries for EmployeeRequests
+Fri Dec 17 10:52:46 2021 +0200,e526230,remove comment
+Thu Dec 16 14:36:10 2021 +0200,ue86889,Add further check and guard
+Thu Dec 16 13:50:37 2021 +0200,ue86889,Refactor Find/Creata logic for MemoryStatistics
+Thu Dec 16 13:28:39 2021 +0200,e510372,imp
+Thu Dec 16 10:24:38 2021 +0200,e526230,adding comment
+Thu Dec 16 09:48:48 2021 +0200,e526230,apply check only for LE
+Thu Dec 16 00:05:53 2021 +0200,ue86889,Change logger argument types from Number to Real
+Wed Dec 15 23:24:48 2021 +0200,ue86889,Introduce Find/Create of MemoryStatistics dataset
+Wed Dec 15 23:10:08 2021 +0200,ue86889,Unload instead of Delete
+Wed Dec 15 23:05:03 2021 +0200,ue86889,logging the daemon execution
+Wed Dec 15 22:50:44 2021 +0200,ue86889,Add OnChange response to Memory Statistics daemon enable checkbox
+Wed Dec 15 17:37:48 2021 +0200,ue86889,small correction
+Wed Dec 15 17:06:51 2021 +0200,ue86889,Complete implementation of Memory Statistics daemon
+Wed Dec 15 15:47:04 2021 +0100,e510372,Pull request #1251,SOPRE-31619 Deactivation Undo/Redo button AP
+Wed Dec 15 12:53:41 2021 +0200,e526230,changing the check for plst
+Wed Dec 15 10:47:06 2021 +0100,e513785,Pull request #1245,2022.r2.t1/feature/sopre 27209 show hide ufos marked as completed petru
+Wed Dec 15 10:40:32 2021 +0100,e513785,Pull request #1244,2022.r2.t1/feature/sopre 27208 mark ufos as completed petru
+Wed Dec 15 11:11:42 2021 +0200,e510372,adj
+Tue Dec 14 10:07:12 2021 +0200,e510372,imp
+Mon Dec 13 18:08:06 2021 +0100,e513785,Pull request #1243,2022.r2.t1/feature/sopre 31700 date filter in replanning task form petru
+Mon Dec 13 16:02:19 2021 +0100,e513785,Pull request #1242,Added filter on the Replaning task List DE to extract only UFOs that are valid on the selected weekday
+Mon Dec 13 13:53:17 2021 +0200,e506794,I made the method remote again
+Mon Dec 13 13:51:31 2021 +0200,e506794,I added the comment
+Mon Dec 13 11:46:18 2021 +0200,e506794,I adjusted the method
+Fri Dec 10 14:28:25 2021 +0100,e506794,Pull request #1223,SOPRE-31705
+Fri Dec 10 14:23:16 2021 +0200,e506794,I adjusted
+Fri Dec 10 09:35:15 2021 +0200,ue86889,Basic back-end logic of Memory statistics daemon,new logger, daemon and logic
+Thu Dec 9 17:17:51 2021 +0100,e513785,Pull request #1239,Moved WeekDays filter on the DEFilters
+Thu Dec 9 18:17:32 2021 +0200,e513785,Moved WeekDays filter on the DEFilters
+Thu Dec 9 17:03:22 2021 +0100,e513785,Pull request #1238,2022.r2.t1/feature/sopre 27209 show hide ufos marked as completed petru
+Thu Dec 9 18:01:27 2021 +0200,e513785,Refactored the implementation of the CERES image (running/idle)
+Thu Dec 9 17:05:27 2021 +0200,e513785,Implemented the Button that disables/enables all filters
+Thu Dec 9 13:01:52 2021 +0200,e513785,Added new button to show/hide UFOs marked as completed
+Thu Dec 9 09:08:14 2021 +0100,e510372,Pull request #1231,SOPRE-31991
+Thu Dec 9 09:30:44 2021 +0200,e510372,imp
+Wed Dec 8 16:10:16 2021 +0100,e524070,Pull request #1227,2022.r2.t1/feature/sopre 32022 bianca sap export hotfix
+Wed Dec 8 16:10:03 2021 +0100,e513785,Pull request #1229,Implemented the Checbox button in front of each UFO entry from the list.
+Wed Dec 8 17:02:19 2021 +0200,e524070,Removed graying out of label
+Wed Dec 8 15:14:21 2021 +0200,e524070,Changed the data binding on checkboxes
+Wed Dec 8 13:56:37 2021 +0200,e524070,Added SetEnabled method
+Wed Dec 8 12:54:15 2021 +0200,e513785,Implemented the Checbox button in front of each UFO entry from the list. Implemented the Checkbox Filters and the their logic.
+Tue Dec 7 09:32:07 2021 +0100,e513785,Pull request #1222,2022.r2.t1/feature/sopre 31700 date filter in replanning task form petru
+Tue Dec 7 10:24:28 2021 +0200,e513785,Added comments and removed the call of the toggle method. Instead, flush and set the WeekDays selected everytime
+Mon Dec 6 16:18:34 2021 +0100,e526230,Pull request #1219,hotfix reverted
+Mon Dec 6 17:16:39 2021 +0200,e526230,hotfix reverted
+Mon Dec 6 14:38:52 2021 +0200,e513785,Added 2 Dropdowns to serve as date pickers in the Replanning form. Implemented the synergy between UD GC and Date Pickers from replanning Form
+Fri Dec 3 14:18:28 2021 +0100,e522885,Pull request #1197,removed DEVIL images
+Fri Dec 3 13:49:35 2021 +0100,e513785,Pull request #1214,Added filter on the Replaning task List DE to extract only UFOs that are valid on the selected weekday
+Fri Dec 3 13:48:42 2021 +0200,e506794,I added new code
+Fri Dec 3 13:28:43 2021 +0200,e513785,Added filter on the Replaning task List DE to extract only UFOs that are valid on the selected weekday
+Thu Dec 2 12:31:49 2021 +0100,e513785,Pull request #1203,SOPRE-30746 2022.r1.t1/feature/sopre 30746 touren kopieren petru
+Thu Dec 2 11:09:32 2021 +0200,e513785,TourNumber Label added. DECrewType renamed
+Mon Nov 29 14:01:53 2021 +0100,e506794,Pull request #1207,SOPRE-31689
+Mon Nov 29 14:01:03 2021 +0200,e506794,I added the fix
+Fri Nov 26 08:12:48 2021 +0100,e526230,Pull request #1202,2022.r2.t1/feature/31689 manual crew requirements relink maria
+Fri Nov 26 08:53:12 2021 +0200,e526230,adjustements
+Thu Nov 25 16:50:22 2021 +0200,e513785,Minor comment change
+Thu Nov 25 15:22:15 2021 +0200,e526230,adjustments
+Thu Nov 25 14:49:10 2021 +0200,e513785,Removed changes did to Copy To cross days Dialog. Improved comments. Implemented the Suffix change for AZUBI crew diagrams
+Thu Nov 25 13:15:34 2021 +0200,e526230,adjustments
+Wed Nov 24 18:58:25 2021 +0200,e526230,adjustments
+Wed Nov 24 17:00:02 2021 +0200,e513785,Commited meta data to version 3.7.0 to eliminate conflict with unit-test-r1
+Wed Nov 24 16:58:40 2021 +0200,e526230,adjustements
+Wed Nov 24 16:54:04 2021 +0200,e513785,Modified the CopyToTeams Dialog. Added new attribute CrewType.IsTrainee. Added new column in CrewTypes KT IsTrainee
 Wed Nov 24 15:35:50 2021 +0100,e510372,Pull request #1195,SOPRE-31512
 Wed Nov 24 12:16:37 2021 +0100,e526230,Pull request #1198,adjustment
 Wed Nov 24 13:13:31 2021 +0200,e526230,adjustment
 Tue Nov 23 14:50:51 2021 +0100,e526230,Pull request #1193,SOPRE-31691
 Tue Nov 23 13:36:13 2021 +0200,e526230,adjustments
+Mon Nov 22 19:53:06 2021 +0200,e522885,removed DEVIL images
 Mon Nov 22 13:58:57 2021 +0200,e510372,Merge branch 'develop'
 Mon Nov 22 13:39:59 2021 +0200,e510372,imp
 Fri Nov 19 11:58:06 2021 +0200,e526230,adding the fix
@@ -51,6 +125,7 @@ Mon Nov 8 13:57:57 2021 +0200,e506794,I adjusted also on Designer
 Mon Nov 8 13:54:35 2021 +0200,e506794,I added the first part of the implementation
 Mon Nov 8 11:47:38 2021 +0200,e526230,adjustment
 Mon Nov 8 08:34:21 2021 +0100,e524070,Pull request #1151,2022.r2.t1/feature/sopre 14639 incorrect sorting le bianca
+Fri Nov 5 18:52:23 2021 +0200,e513785,Added DropDown, Label and the filtering logic
 Fri Nov 5 15:42:08 2021 +0200,e526230,adjustment
 Fri Nov 5 15:32:39 2021 +0200,e510372,Merge branch 'develop'
 Fri Nov 5 14:54:12 2021 +0200,e526230,adding guard

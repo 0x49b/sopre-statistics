@@ -1,0 +1,401 @@
+{
+  "size": 5,
+  "limit": 999,
+  "isLastPage": true,
+  "values": [
+    {
+      "slug": "romahelper-algorithm",
+      "id": 50508,
+      "name": "romahelper-algorithm",
+      "description": "Pip-Package mit Algorithmus-Logik und dessen Evaluation",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PPP_GLOBOS_ROMAHELPER",
+        "id": 4294,
+        "name": "GLOBOS Rollmaterial Helper",
+        "description": "Teil der Informatikplattform GLOBOS im Bereich der Rollmaterialplanung",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/ppp_globos_romahelper/romahelper-algorithm.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/ppp_globos_romahelper/romahelper-algorithm.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER/repos/romahelper-algorithm/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "romahelper-asp",
+      "id": 54038,
+      "name": "romahelper-asp",
+      "description": "Experiments with ASP models in rolling stock planning. Intended for exchange with external partners on the topic.",
+      "hierarchyId": "2f2107eb5306749a81dc",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PPP_GLOBOS_ROMAHELPER",
+        "id": 4294,
+        "name": "GLOBOS Rollmaterial Helper",
+        "description": "Teil der Informatikplattform GLOBOS im Bereich der Rollmaterialplanung",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/ppp_globos_romahelper/romahelper-asp.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/ppp_globos_romahelper/romahelper-asp.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER/repos/romahelper-asp/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "romahelper-data",
+      "id": 50509,
+      "name": "romahelper-data",
+      "description": "Daten für Evaluation des Algorithmus",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PPP_GLOBOS_ROMAHELPER",
+        "id": 4294,
+        "name": "GLOBOS Rollmaterial Helper",
+        "description": "Teil der Informatikplattform GLOBOS im Bereich der Rollmaterialplanung",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/ppp_globos_romahelper/romahelper-data.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/ppp_globos_romahelper/romahelper-data.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER/repos/romahelper-data/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "romahelper-frontend",
+      "id": 52409,
+      "name": "romahelper-frontend",
+      "description": "UI für Benutzerinteraktion",
+      "hierarchyId": "014f9ddf5d3a3010044d",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "esta-cloud-angular",
+        "id": 25573,
+        "name": "esta-cloud-angular",
+        "description": "Angular template with pipeline config",
+        "hierarchyId": "014f9ddf5d3a3010044d",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_ESTA_BLUEPRINTS",
+          "id": 2722,
+          "name": "ESTA Blueprints",
+          "description": "Beispiel Projekt mit Templates für die Anwendung von ESTA",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_ESTA_BLUEPRINTS"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_esta_blueprints/esta-cloud-angular.git",
+              "name": "ssh"
+            },
+            {
+              "href": "https://code.sbb.ch/scm/kd_esta_blueprints/esta-cloud-angular.git",
+              "name": "http"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_ESTA_BLUEPRINTS/repos/esta-cloud-angular/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PPP_GLOBOS_ROMAHELPER",
+        "id": 4294,
+        "name": "GLOBOS Rollmaterial Helper",
+        "description": "Teil der Informatikplattform GLOBOS im Bereich der Rollmaterialplanung",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/ppp_globos_romahelper/romahelper-frontend.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/ppp_globos_romahelper/romahelper-frontend.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER/repos/romahelper-frontend/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "romahelper-service",
+      "id": 52325,
+      "name": "romahelper-service",
+      "description": "Helm-Chart mit REST-Service um Algorithmen auf Openshift auszuführen",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PPP_GLOBOS_ROMAHELPER",
+        "id": 4294,
+        "name": "GLOBOS Rollmaterial Helper",
+        "description": "Teil der Informatikplattform GLOBOS im Bereich der Rollmaterialplanung",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/ppp_globos_romahelper/romahelper-service.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/ppp_globos_romahelper/romahelper-service.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PPP_GLOBOS_ROMAHELPER/repos/romahelper-service/browse"
+          }
+        ]
+      }
+    }
+  ],
+  "start": 0
+}

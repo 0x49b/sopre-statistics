@@ -1,0 +1,37 @@
+Tue Mar 30 15:16:49 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.3.0-SNAPSHOT
+Tue Mar 30 15:16:27 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.2.3
+Tue Mar 30 15:11:56 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-flow-gems.git into develop
+Tue Mar 30 15:11:36 2021 +0200,e509243,ROSYF-17 Move int and prod to asterix
+Fri Mar 19 08:47:21 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.3.0-SNAPSHOT
+Fri Mar 19 08:46:21 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.2.2
+Fri Mar 19 08:38:07 2021 +0100,e509243,ROSYF-45 Don't process GEMS messages received on int.
+Wed Mar 17 08:53:05 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.3.0-SNAPSHOT
+Wed Mar 17 08:52:23 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.2.1
+Tue Mar 9 13:14:37 2021 +0100,e509243,Don't reuse outMarshaller
+Tue Mar 9 12:51:15 2021 +0100,e509243,Fix ParseError caused by multithreading.
+Tue Mar 9 11:49:57 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-flow-gems.git into develop
+Tue Mar 9 11:49:37 2021 +0100,e509243,Log ParseException
+Tue Mar 9 11:27:25 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.3.0-SNAPSHOT
+Tue Mar 9 11:26:49 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.2.0
+Tue Mar 9 11:18:10 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-flow-gems.git into develop
+Tue Mar 9 11:17:30 2021 +0100,e509243,Fixed tests; added case
+Fri Mar 5 08:15:20 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.2.0-SNAPSHOT
+Fri Mar 5 08:14:56 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.1.0
+Fri Mar 5 08:06:45 2021 +0100,e509243,ROSYF-19 configure correct URL
+Thu Mar 4 09:37:07 2021 +0100,e509243,Pull request #1,Set CorrelationId
+Thu Mar 4 09:36:23 2021 +0100,e509243,Set CorrelationId
+Thu Feb 25 11:26:22 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Thu Feb 25 11:25:55 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.5
+Thu Feb 25 11:21:58 2021 +0100,e509243,Fix naming concept
+Thu Feb 25 11:02:47 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Thu Feb 25 11:02:27 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.4
+Thu Feb 25 10:58:32 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-flow-gems.git into develop
+Thu Feb 25 10:58:11 2021 +0100,e509243,No SSL
+Thu Feb 25 10:56:34 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Thu Feb 25 10:56:10 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.3
+Thu Feb 25 10:48:14 2021 +0100,e509243,ROSYF-19 Added cluster-independent url.
+Mon Feb 15 11:06:04 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Mon Feb 15 11:05:26 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.2
+Mon Feb 15 11:00:26 2021 +0100,e509243,Fix naming
+Mon Feb 15 10:46:07 2021 +0100,e509243,Adapted to match real GEMS system's messages
+Wed Jan 6 08:37:04 2021 +0100,e509243,Splunk migration

@@ -1,0 +1,14 @@
+Mon Dec 20 14:13:42 2021 +0100,u225426,Pull request #10,make service compatibel with new reihungskonflikt output format
+Thu Dec 9 17:01:15 2021 +0100,u225426,Pull request #9,add gurobi solver support and fix helmtest
+Thu Nov 25 09:15:56 2021 +0100,u225426,Pull request #8,change post-request create response and make service more robust (empty file handling and oc-job deletion)
+Tue Nov 2 15:27:59 2021 +0100,u235086,Pull request #7,removed redirect from REST API to avoid cors problems
+Tue Nov 2 13:42:06 2021 +0100,u235086,Pull request #6,added after request hook to force allow cors.
+Tue Nov 2 11:09:53 2021 +0100,u235086,Pull request #5,enable CORS for accesses from browser
+Wed Oct 6 17:09:59 2021 +0200,u225426,change resources for cleanup job cpu memory
+Wed Oct 6 16:14:22 2021 +0200,u235086,Pull request #4,handle job failures and return leistungsketten of algo result
+Tue Oct 5 18:15:11 2021 +0200,u235086,Pull request #3,Feature/BPSGLO-1537 algo openshift scheduled clean up job einrichten
+Tue Sep 28 09:21:43 2021 +0200,u225426,Pull request #2,fix ssl certificate issues on openshift and add  algorithm template start functionality
+Sat Sep 25 02:10:59 2021 +0200,u225426,fix ssl certificate issues on openshift and add  algorithm template start functionality
+Fri Sep 10 18:02:14 2021 +0200,u225426,add rest input and responses of scenario data for all requests incl openshift config map creation
+Mon Sep 6 12:46:49 2021 +0200,u225426,add helm chart for scheduler and algorithm-job
+Thu Jul 15 15:36:40 2021 +0200,u225426,setup repository, add minimal docker image and rest service

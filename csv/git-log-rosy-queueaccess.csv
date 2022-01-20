@@ -1,0 +1,43 @@
+Mon Nov 22 10:44:01 2021 +0100,e509243,ROSYF-135,Move to lisa
+Thu Jul 1 13:10:24 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-queueaccess.git into develop
+Thu Jul 1 13:10:05 2021 +0200,e509243,No https on aws, since OTC does not know the AWS-certificates...
+Thu Jul 1 09:50:12 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.5.0-SNAPSHOT
+Thu Jul 1 09:49:53 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.4.4
+Thu Jul 1 09:41:37 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-queueaccess.git into develop
+Thu Jul 1 09:41:20 2021 +0200,e509243,Fix credential
+Wed Jun 30 15:21:31 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.5.0-SNAPSHOT
+Wed Jun 30 15:21:08 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.4.3
+Wed Jun 30 15:15:04 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-queueaccess.git into develop
+Wed Jun 30 15:14:42 2021 +0200,e509243,Allow FZPos messages for the mobile platform on AWS.
+Tue Mar 30 11:55:52 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.5.0-SNAPSHOT
+Tue Mar 30 11:55:32 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.4.2
+Tue Mar 30 11:50:18 2021 +0200,e509243,ROSYF-17 move int and prod to asterix
+Fri Mar 19 14:19:54 2021 +0100,e509243,Put back queue password
+Fri Mar 19 14:13:03 2021 +0100,e509243,Put back rabbitMQ-config
+Fri Mar 19 14:08:43 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-queueaccess.git into develop
+Fri Mar 19 14:08:24 2021 +0100,e509243,Version without MQ-connection
+Mon Mar 15 11:24:55 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.5.0-SNAPSHOT
+Mon Mar 15 11:24:37 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.4.1
+Mon Mar 15 11:21:14 2021 +0100,e509243,Fix credential
+Mon Mar 15 11:07:32 2021 +0100,e509243,ROSYF-17 Move to test07
+Mon Mar 15 11:05:30 2021 +0100,e509243,ROSYF-17,Move to test07
+Mon Mar 15 09:13:41 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.5.0-SNAPSHOT
+Mon Mar 15 09:13:19 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.4.0
+Mon Mar 15 09:10:31 2021 +0100,e509243,Pull request #6,Fix port for healthcheck
+Mon Mar 15 09:10:04 2021 +0100,e509243,Fix port for healthcheck
+Mon Mar 15 08:47:49 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.4.0-SNAPSHOT
+Mon Mar 15 08:47:37 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.3.0
+Mon Mar 15 08:42:43 2021 +0100,e509243,Pull request #5,Coverage++
+Mon Mar 15 08:38:20 2021 +0100,e509243,Coverage++
+Fri Mar 12 15:42:42 2021 +0100,e509243,Pull request #4,ROSYF-39 Add granular forwarding settings.
+Fri Mar 12 15:39:38 2021 +0100,e509243,ROSYF-39 Add granular forwarding settings.
+Wed Mar 10 16:54:57 2021 +0100,e509243,Pull request #3,Fix domain name @ dev
+Wed Mar 10 16:53:25 2021 +0100,e509243,Fix domain name @ dev
+Wed Mar 10 16:41:43 2021 +0100,e509243,Pull request #2,Move dev to test07
+Wed Mar 10 16:39:21 2021 +0100,e509243,Move dev to test07
+Thu Mar 4 08:08:36 2021 +0100,e509243,Pull request #1,Use TraceId as CorrelationId
+Thu Mar 4 08:06:40 2021 +0100,e509243,Use TraceId as CorrelationId
+Tue Jan 5 16:39:34 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.3.0-SNAPSHOT
+Tue Jan 5 16:39:17 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.2.0
+Tue Jan 5 16:10:15 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-queueaccess.git into develop
+Tue Jan 5 16:09:53 2021 +0100,e509243,Splunk migration

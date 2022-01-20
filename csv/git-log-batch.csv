@@ -1,0 +1,8 @@
+Wed Aug 18 13:20:55 2021 +0200,e509243,Fix postgres-13 compatibility
+Tue Aug 17 15:30:45 2021 +0200,e509243,Sonar does not like java8-projects anymore
+Tue Aug 17 14:58:00 2021 +0200,e509243,Move dev DB
+Tue Mar 9 09:50:19 2021 +0100,e509243,ROSYF-3 Accept incomplete telephone numbers and try to interpret them.
+Fri Feb 26 08:54:39 2021 +0100,e509243,Fix DEV DB-Configs
+Fri Feb 26 08:35:41 2021 +0100,e509243,Cleanup Jenkinsfile; fix DEV-template
+Thu Feb 25 16:00:50 2021 +0100,e509243,ROSYF-15 Don't mail when inputfile not found.
+Tue Jan 5 15:56:02 2021 +0100,e509243,Splunk migration

@@ -1,0 +1,332 @@
+Tue Nov 30 15:12:35 2021 +0100,ue67532,Pull request #1079,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Tue Nov 30 14:57:49 2021 +0100,ue67532,SOPRE-30702,Modify logic to check if standortLeistung is on new day,Remove anderesDatum attribute
+Tue Nov 30 13:22:26 2021 +0100,ue67532,Pull request #1077,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Tue Nov 30 13:10:39 2021 +0100,ue67532,SOPRE-30702,Remove logic to check if standortLeistung is on new date from the frontend -> done in the backend,Add new anderesDatum attribute on StandortLeistung model to tell if it's on new date or not,Remove debugger
+Mon Nov 22 16:01:56 2021 +0100,ue67532,SOPRE-30702,Allow user to zoom in the app
+Mon Nov 22 14:48:18 2021 +0100,ue67532,SOPRE-30702,Dont allow user to zoom in the app
+Mon Nov 22 14:14:46 2021 +0100,ue67532,Pull request #1075,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 22 13:55:06 2021 +0100,ue67532,SOPRE-30702,Fix maximum scale to prevent iphone input fields to be zoomed on click
+Mon Nov 22 13:07:21 2021 +0100,ue67532,SOPRE-30702,Revert preivous version
+Mon Nov 22 11:46:52 2021 +0100,ue67532,Pull request #1073,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 22 11:06:54 2021 +0100,ue67532,SOPRE-30702,Modify transitions,Add configs for all browsers
+Wed Nov 17 18:05:11 2021 +0100,ue67532,Pull request #1071,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Wed Nov 17 17:54:27 2021 +0100,ue67532,SOPRE-30702,Add margin bottom under each filter save button to ensure that the save button is showed correctly with the footer
+Wed Nov 17 17:34:15 2021 +0100,ue67532,Pull request #1069,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Wed Nov 17 17:22:18 2021 +0100,ue67532,SOPRE-30702,Always show footer on scrollTop = 0 means when the scrollbar is on top
+Wed Nov 17 16:16:14 2021 +0100,ue67532,Pull request #1067,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Wed Nov 17 15:57:41 2021 +0100,ue67532,SOPRE-30702,Move style footer transition from ts to css,Add webkit, safari, ie, opera transitions,Move not global css from sbb-sopre-color-style to child css
+Tue Nov 16 18:18:45 2021 +0100,ue67532,Pull request #1065,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Tue Nov 16 18:07:02 2021 +0100,ue67532,SOPRE-30702,Fix touren filter Text in french and italian
+Tue Nov 16 13:01:47 2021 +0100,ue67532,Pull request #1063,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Tue Nov 16 12:49:08 2021 +0100,ue67532,SOPRE-30702,Check if user SOPREinfoExpert role to define if the tourdetail button needs to be showed or not
+Mon Nov 15 18:54:33 2021 +0100,ue67532,Pull request #1061,feature/SOPRE-30702 verstandigungen 10min architecture implementation and testing
+Mon Nov 15 18:45:08 2021 +0100,ue67532,SOPRE-30702,Empty commit
+Mon Nov 15 18:33:31 2021 +0100,ue67532,SOPRE-30702,Remove Rangier enum -> not used,Reset filter when loading data in past,Shortend french and italian text for delete filter button
+Mon Nov 15 14:24:45 2021 +0100,ue67532,Pull request #1059,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 15 14:01:58 2021 +0100,ue67532,SOPRE-30702,Don't deactivate filter on default settings -> bugs on mehr touren laden and on rangier depot click in mandant mode,Titel Panel must be larger as the 2 others filter items -> othwerise french and italian text don't have enough space
+Mon Nov 15 13:07:41 2021 +0100,ue67532,Pull request #1057,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 15 12:52:54 2021 +0100,ue67532,SOPRE-30702,Fix Bug Send button on wish process isn't displayed
+Mon Nov 15 10:28:06 2021 +0100,ue67532,Pull request #1055,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 15 10:14:03 2021 +0100,ue67532,SOPRE-30702,Fix italian text
+Mon Nov 15 10:02:10 2021 +0100,ue67532,SOPRE-30702,Change text for christmas wish -> only for ZF
+Thu Nov 11 17:14:38 2021 +0100,ue67532,Pull request #1053,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Thu Nov 11 16:55:45 2021 +0100,ue67532,SOPRE-30702,Fix Rangier Meldungen
+Thu Nov 11 08:24:43 2021 +0100,ue67532,Pull request #1051,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Thu Nov 11 08:12:01 2021 +0100,ue67532,SOPRE-30702,Empty commit to trigger build again
+Wed Nov 10 16:18:24 2021 +0100,ue67532,Pull request #1049,SOPRE-30702
+Wed Nov 10 15:38:27 2021 +0100,ue67532,SOPRE-30702,Reduce size of today oval rendering in tourenplan list,Show all same status icons on the same vertical line
+Mon Nov 8 19:20:18 2021 +0100,ue67532,Pull request #1047,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 8 18:59:45 2021 +0100,ue67532,SOPRE-30702,Fix bug -> Wish mandant message came above tourenplan header on Ipad landscapte,Move position of information icon in the tourenplan list -> show it next to the whis status
+Mon Nov 8 13:43:26 2021 +0100,ue67532,Pull request #1045,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 8 13:28:53 2021 +0100,ue67532,SOPRE-30702,Show house icon also when user has FachbusAll role
+Mon Nov 8 12:26:14 2021 +0100,ue67532,Pull request #1043,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 8 12:09:12 2021 +0100,ue67532,SOPRE-30702,Fix bug -> depot selection was also possible for role Rangier,Ensure that filter footer is always visible when needed,Show chevron on tourenplan also on screen >= LG
+Fri Nov 5 20:50:56 2021 +0100,ue67532,SOPRE-30702,Fix bug -> Show footer when there is no scrollbar otherwise it's not possible to delete the filter or close it,Fix toggle issue -> the filter must always be showed when this method is called,Fix Art Filter issue -> When an Art is missing (ex tour, beschreibung etc.) it was possible to close all filters. This must not be possible. Always one filter must be open
+Fri Nov 5 11:32:35 2021 +0100,ue67532,Pull request #1041,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Fri Nov 5 11:18:55 2021 +0100,ue67532,SOPRE-30702,Reset filter selected after Default filter event,Add date format to constant,Add four new attributes on tourenplanItem model to know if datumVon and datumBis are today or/and in holiday,Add css to show today date and holiday/sunday date the same way as on the tourenplan
+Fri Nov 5 09:30:56 2021 +0100,ue67532,Pull request #1039,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Fri Nov 5 09:18:08 2021 +0100,ue67532,SOPRE-30702,Do not show Footer when scroll on bottom of the page,Add change detector when there is a message on tourenplan list -> fix bug ipad mandant message show on whish edition
+Thu Nov 4 14:23:03 2021 +0100,ue67532,Pull request #1037,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Thu Nov 4 14:10:35 2021 +0100,ue67532,SOPRE-30702,Change message when filter is activated,Modify rangier header,Modify rangier columns width,Modify tourenplanitem columns width,Modify anchor position
+Wed Nov 3 17:35:57 2021 +0100,ue67532,Pull request #1035,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Wed Nov 3 17:20:18 2021 +0100,ue67532,SOPRE-30702,Update content after scroll -> fix bug of message apperaing on top of content header,Rename dayItem-highlight to CalendarDay-highlight,Reset messages when clicking on filter icon -> otherise the wish messages remain on the filter,Increase font size of header in Rangier and TourenplanItem,Modify hover and tourenplanItem selection -> no border on the side because otherwise the size of the td is bigger that the one of the th,Add attribute reloadMessage that tells the tourenplanItem Component if it needs to reload it's data and show modification or cancellation success message,Movie the generation of wish success messages from wish component to tourenplan
+Mon Nov 1 16:48:11 2021 +0100,ue67532,Pull request #1033,feature/SOPRE-30702 verstandigungen 10min architecture implementation and testing
+Mon Nov 1 16:21:35 2021 +0100,ue67532,SOPRE-30702,Activate animations for Edge and Safari
+Mon Nov 1 16:03:00 2021 +0100,ue67532,SOPRE-30702,Modify icons size,Modify buttons size
+Mon Nov 1 12:36:05 2021 +0100,ue67532,Pull request #1031,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Mon Nov 1 12:08:06 2021 +0100,ue67532,SOPRE-30702,Increase space between icons,Modify hover button,Increase footer height,Modify order Art filter of tourenplan items,Remove bold from datatables headers except for von and Zug of rangier datatable,Make line under header more black,Fix bug between filters and wish opening,Fix bug -> filter doesn't always open correctly,Don't show the same warning message on tourenplan calendar and tourenplan list for the edition/modification of a wish
+Thu Oct 28 20:31:31 2021 +0200,ue67532,Pull request #1029,feature/SOPRE-30702-verstandigungen-10min-architecture-implementation-and-testing
+Thu Oct 28 20:22:44 2021 +0200,ue67532,SOPRE-30702,Fix bugs,remove unused imports
+Thu Oct 28 08:44:00 2021 +0200,ue67532,Pull request #1023,feature/SOPRE-30702 verstandigungen 10min architecture implementation and testing
+Thu Oct 28 08:22:00 2021 +0200,ue67532,SOPRE-30702,Release also on TEST and PRETEST
+Wed Oct 27 10:43:20 2021 +0200,ue67532,Pull request #1026,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Oct 25 13:29:15 2021 +0200,ue67532,Pull request #1024,feature/SOPRE-31339-sopreweb-falsche-toureinteilung
+Mon Oct 25 13:15:23 2021 +0200,ue67532,SOPRE-31339,Move attribute ruheschicht from tourendetailDTO to tourdetailDTO because each tour (tour and replacedTour) has it's own start and end time
+Thu Oct 21 10:57:06 2021 +0200,ue67532,SOPRE-30702,Release only on DEV, BCTEST and DEV60 because TEST (DB) isn't ready yet
+Tue Oct 19 14:29:19 2021 +0200,ue67532,SOPRE-30702,Add two boolean to tell if initial start and end where on previous or next day
+Mon Oct 18 14:39:39 2021 +0200,ue67532,SOPRE-30702,Add initial tour start and end + lastEdit to model,Add those two new attributes on GUI,Update sort function to also sort lastEdit
+Tue Oct 12 09:19:04 2021 +0200,ue67532,SOPRE-30702,Add statusdatum attribute to wunsch model,Add sorting for tourenplanItem status
+Mon Oct 11 11:43:21 2021 +0200,ue67532,SOPRE-30702,Fix bottom border to header rangier and tourenplanItem
+Sat Oct 9 13:23:35 2021 +0200,ue67532,SOPRE-30702,Create new Panel model,Create new Panel compontent,Panel component will either be for the header or the footer,Add new constants to define which filter icons should be display on which gui,Modify content component to observe when there is a change on the filters,Remove rangier leistungen component -> replaced by a datatable directly included in parent rangier compontent,Remove filters from rangier and tourenplan-item and add them into panel component,Add new texts in langage jsons,Remove title component,Remove footer compontent,Modify tourdetail border
+Thu Sep 30 19:08:55 2021 +0200,ue67532,SOPRE-30702,Create footer component,Create footer model,add footer to content for tourenplan and rangier,Modify contendService and add functions to be notified when footer is changed,Add new enums for footer,Remove content for tourdetail -> not needed,Modify rangier GUI with the use of the footer,Add new icon for 10minutes info,Modify styles
+Thu Sep 23 12:49:13 2021 +0200,ue67532,SOPRE-30702,Fix detail that was moving,Fix wrong display of warning message
+Wed Sep 22 17:16:21 2021 +0200,ue67532,SOPRE-30702,Create new component tourenplan-item and rename old tourenplan-item in tourenplan-items,tourenplan-items will contain list of tourenplan-item,Now wishes are opened under each tourenplan-item on mobile and Ipad portrait like it's the case on the tourenplan calendar,Add new icon for calendar
+Tue Sep 21 18:54:40 2021 +0200,ue67532,SOPRE-30702,Remove abwesenheitWunsch model and component,Move calendar component into tourenplan module,Create new model for TourenplanItem,Create new component inside Tourenplan for TourenplanItem component,Use new backend rest interface to get tourenplan data,Modify tourenplan -> print icon is now always on he navigation bar,Add two icons next to tourenplan title to be able to change the view between calendar and list,Remove Abwesenheiten GUI -> replaced by this new view on the tourenplan,Add new Filter to be also able to filter reservetag and tours (not finished),Add new Json texts
+Tue Aug 31 09:06:36 2021 +0200,ue67532,Pull request #1021,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Tue Aug 31 08:57:07 2021 +0200,ue67532,SOPRE-26213,Fix DualMitarbeiter Bug. With dualmitarbeiter rights it's not possible to create/update new entries
+Mon Aug 30 16:12:24 2021 +0200,ue67532,SOPRE-26967,remove db settings
+Tue Aug 17 17:54:02 2021 +0200,ue67532,Pull request #1017,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Tue Aug 17 17:43:51 2021 +0200,ue67532,SOPRE-26213,Fix duplicate tour suffix
+Mon Aug 16 09:16:28 2021 +0200,ue67532,SOPRE-26213,Empty commit
+Wed Aug 11 15:33:08 2021 +0200,ue67532,Pull request #1015,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Wed Aug 11 14:45:42 2021 +0200,ue67532,SOPRE-26213,Do not show team icon on tourdetail for the toursearch
+Mon Aug 9 10:50:58 2021 +0200,ue67532,Pull request #1013,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Mon Aug 9 10:39:01 2021 +0200,ue67532,SOPRE-26213,Modify RG into RP
+Thu Aug 5 18:57:44 2021 +0200,ue67532,Pull request #1011,SOPRE-26213
+Thu Aug 5 18:48:46 2021 +0200,ue67532,SOPRE-26213,Fix text in italian and french that are too long
+Thu Aug 5 18:00:10 2021 +0200,ue67532,Pull request #1009,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Thu Aug 5 17:54:38 2021 +0200,ue67532,SOPRE-26213,Fix text in italian and french that are too long
+Thu Aug 5 17:14:45 2021 +0200,ue67532,Pull request #1007,Feature/SOPRE-26213 sopreweb styling bottom of different pages v2f
+Thu Aug 5 17:03:32 2021 +0200,ue67532,SOPRE-26213,Modify toureninfo add other to select option because there are data with other berufsgruppe as zp, lp and rp
+Thu Aug 5 16:14:00 2021 +0200,ue67532,SOPRE-26213,Remove error message on rangier GUI
+Thu Aug 5 15:22:09 2021 +0200,ue67532,Pull request #1005,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Thu Aug 5 15:02:29 2021 +0200,ue67532,SOPRE-26213,Fix link in error message that had a margin left,Fix wunscharten when creating a wish -> need to be displayed shortened on mobile,Fix Toureninfo drop downs that where moving when message displayed or not
+Thu Aug 5 09:27:33 2021 +0200,ue67532,Pull request #980,feature/SOPRE-28728-sopreweb-touren-info-rg-in-filter-integrieren
+Thu Aug 5 09:27:26 2021 +0200,ue67532,Pull request #981,feature/SOPRE-28984-sopreweb-bug-rangierleiterubersicht-touren-filter
+Thu Aug 5 09:20:36 2021 +0200,ue67532,Pull request #1003,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Thu Aug 5 09:11:38 2021 +0200,ue67532,SOPRE-26213,Revert modify timer of statusmeldung unread search for test puroposes
+Thu Aug 5 08:58:16 2021 +0200,ue67532,SOPRE-26213,Modify timer of statusmeldung unread search for test puroposes
+Thu Aug 5 08:42:19 2021 +0200,ue67532,Pull request #1002,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Wed Aug 4 16:33:36 2021 +0200,ue67532,SOPRE-26213,Fix Meldungen on tourenplanexport that were always shown,Fix wrong message after activation of statusmessage
+Wed Aug 4 09:07:35 2021 +0200,ue67532,Pull request #1000,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Wed Aug 4 08:48:34 2021 +0200,ue67532,SOPRE-26213,Fix wrong number of haltestelle displayed on train result,Fix cancellation confirmation message not displayed in mandant mode -> mandant message was always shown
+Tue Aug 3 15:23:51 2021 +0200,ue67532,Pull request #998,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Tue Aug 3 15:15:37 2021 +0200,ue67532,SOPRE-26213,Fix message bug when changing language. Old language stayed in memory
+Tue Aug 3 10:39:54 2021 +0200,ue67532,Pull request #996,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Tue Aug 3 10:15:19 2021 +0200,ue67532,SOPRE-26213,Remove console logs,Remove window resize listener -> is giving a bug when clicking in input fields on mobile
+Tue Aug 3 09:51:17 2021 +0200,ue67532,SOPRE-26213,Console to log to find the problem for searches out
+Tue Aug 3 09:46:52 2021 +0200,ue67532,SOPRE-26213,Console to log to find the problem for searches out
+Tue Aug 3 09:43:31 2021 +0200,ue67532,SOPRE-26213,Shortend zeitkonto header to be displayed correctly on mobile,Add zurück to message,Console to log to find the problem for searches out
+Fri Jul 30 13:11:37 2021 +0200,ue67532,Pull request #993,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Fri Jul 30 13:01:11 2021 +0200,ue67532,SOPRE-26213,Fix Team bug -> team isn't opening on Ipad
+Thu Jul 29 19:03:47 2021 +0200,ue67532,Pull request #991,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Thu Jul 29 18:52:45 2021 +0200,ue67532,SOPRE-26213,Change logic to open and close menu -> use click events instead of directives
+Thu Jul 29 16:58:33 2021 +0200,ue67532,Pull request #990,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Thu Jul 29 16:28:10 2021 +0200,ue67532,SOPRE-26213,Remove Touchend event listener for Ipad -> doesn't work
+Thu Jul 29 15:53:35 2021 +0200,ue67532,Pull request #988,feature/SOPRE-26213 sopreweb styling bottom of different pages v2
+Thu Jul 29 15:44:22 2021 +0200,ue67532,SOPRE-26213,Remove ViewChild elementRef to fix ipad portrait bug -> menu not closing,Add Touchend event listener for Ipad
+Thu Jul 29 15:42:18 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Remove ViewChild elementRef to fix ipad portrait bug -> menu not closing,Add Touchend event listener for Ipad
+Thu Jul 29 15:04:29 2021 +0200,ue67532,Pull request #986,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Thu Jul 29 14:57:40 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Remove ViewChild elementRef to fix ipad portrait bug -> menu not closing,Add Touchend event listener for Ipad
+Thu Jul 29 09:32:45 2021 +0200,ue67532,Pull request #984,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Thu Jul 29 09:24:12 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Add ViewChild elementRef to fix ipad portrait bug -> menu not closing
+Thu Jul 29 08:04:48 2021 +0200,ue67532,Pull request #982,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Wed Jul 28 15:59:04 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Fix mobile menu bug -> stays open when clicked outside,Fix version bug -> correct version not displayed
+Wed Jul 28 10:49:02 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-28984,Fix Rangier bug. Wrong standortleistungen where reloaded -> the ones of the logged in user and not the ones of the depot selected
+Tue Jul 27 16:53:07 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-28728,Replace Berufsgruppe radiobuttons by dropdown,Add LG to the list
+Tue Jul 27 13:13:19 2021 +0200,ue67532,Pull request #978,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Tue Jul 27 10:41:50 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Add OnResizeWindow listener and regenerate content after all resizes,Remove loading height when calculating content detail height -> not needed and breaks tourdetail height
+Mon Jul 26 17:23:56 2021 +0200,ue67532,Pull request #976,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Mon Jul 26 16:55:29 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Fix bug -> when screen size changes from md to xs the observer doesn't notice it
+Mon Jul 26 10:37:04 2021 +0200,ue67532,Pull request #974,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Mon Jul 26 10:15:59 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Fix print bug -> tourdetail was printed instead of tourenplan once tourdetail was printed
+Mon Jul 26 09:18:44 2021 +0200,ue67532,Pull request #972,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Mon Jul 26 09:02:22 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,rename attribute
+Mon Jul 26 08:30:31 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Return on tourenplan when print icon is clicked from tourdetail page (small screen)
+Tue Jul 20 16:26:59 2021 +0200,ue67532,Pull request #970,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Tue Jul 20 16:08:21 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Fix opacity print panel for tourdetail
+Tue Jul 20 13:57:49 2021 +0200,ue67532,Pull request #968,feature/SOPRE-26213 sopreweb styling bottom of different pages v2
+Tue Jul 20 13:45:10 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,New enum for action texts SAVE and UPDATE,Refacor translate into translateService,Show save or update text depending if it's a new entry or not,Fix opacity print panel for tourdetail,Revert z-index for tourenplan print,Add line under time filter on Rangier GUI,Add point at the end of each message (warn, info, error),Always use Sie and du in texts
+Mon Jul 19 11:56:44 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,remove debugger
+Mon Jul 19 11:10:38 2021 +0200,ue67532,Pull request #966,feature/SOPRE-26213 sopreweb styling bottom of different pages v2
+Mon Jul 19 10:58:27 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Correct german text error,Add space between tourenplan and tourdetail and a line,Fix button buf on toureninfo after date change
+Fri Jul 16 16:12:43 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Remove unused css,Reset search and result when the content needs to be reloaded -> language or mandant change for example,Remove close button on tourenplan export config and add line and cross like on abesenheiten and rangier GUI,Fix title not matching with content
+Thu Jul 15 17:04:59 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Rename Anwenden button to save -> so that we have save everywhere,Remove duplicate Hover directives,Modify z-index of print panel,Readd close button on login page GUI,Remove hover on Zeitkonten and Wunscharte GUIs,Modify design of attributes displayed on zugsuche and standortsuche GUIS -> align vertically,Fix button too large -> zugsuche -> italian and french,Fix betriebspunke too large -> zugsuche,Add Mitarbeiter label on standortsuche to align all attributes,Move tourdetail header to better see the closing cross
+Mon Jul 12 17:55:24 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Remove unused code,Modify content model -> add tourenplanLinkNeeded attribute to define if the tourenplan link to be showed on the message,Modify constants (use same messages for statusmeldung and releaseNotes),Zeitkonten GUI need to be displayed as large and not small,Fix TourenplanExport messages -> Wrong messages,Revert default message when no data for statusmeldungen and releaseNotes,Show mandant in use message in orange instead of white on abwesenheiten and rangier GUI,Fix bug -> when clic on sbb icon or on tourdetail link -> menu point need to be changed on tour -> tourenplan,New navigationService to trigger when the user navigates on another URL,Readd line between content and buttons GUIs,Remove line between text area -> useless,Fix text shown in german instead of italian on rangier GUI,Readd css in toureninfo -> activities weren't show in colors anymore,Remove ngAfterViewInit -> Scroll to 0 -> not used anymore,Refactor texts json
+Wed Jul 7 10:44:00 2021 +0200,ue67532,Pull request #964,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages-v2
+Wed Jul 7 10:20:25 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Fix toudetail header height,35px instead of 45px and justify-content,flex-start
+Wed Jul 7 08:40:43 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Modify width of tourenplan and tourdetail
+Tue Jul 6 15:02:02 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,import viewRef
+Tue Jul 6 14:03:48 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Pull from develop
+Tue Jul 6 09:26:31 2021 +0200,ue67532,Pull request #962,feature/SOPRE-28637-sopreweb-db-mitarbeiter-mitarbeitermanagement-exceptions-teilweise-falsch
+Tue Jul 6 09:02:46 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-28637,Change column name also in second table
+Mon Jul 5 17:24:18 2021 +0200,ue67532,Pull request #960,feature/SOPRE-28637-sopreweb-db-mitarbeiter-mitarbeitermanagement-exceptions-teilweise-falsch
+Mon Jul 5 16:57:24 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-28637,Modify column name from Daten to Tour,Remove whitespaces from firstname and lastname,Allow other phone formats and also format number on fly
+Wed Jun 30 10:24:23 2021 +0200,ue67532,SOPRE-26213,Remove debugger
+Wed Jun 30 10:23:22 2021 +0200,ue67532,SOPRE-26213,Fix Error when personalnummer is not set,Change check to know if user is creation a new DB user or not
+Fri Jun 25 10:36:12 2021 +0200,ue67532,SOPRE-26213,Remove mandant-search-breakpoints.service.ts,Modify logic to show mandant row,Reload content after toggling mandant row,Give attributes via inputs instead of calling service in Nav and Fachbus Components,Remove unused services from constructors,Add changeDetection check before detectChanges,Remove Breakpoints XXS and SM -> we only use the 4 others
+Fri Jun 25 08:44:56 2021 +0200,ue67532,SOPRE-26213,Readd css,fix fr.json,Remove unused ScreenBreakpointObserverService,Remove unused MandantSearchBreakpointsService,Fix releaseNote title -
+Fri Jun 18 11:36:09 2021 +0200,ue67532,SOPRE-26213,Remove SBBNotification component and only use notification component,Remove error-403, general-error, no-frontend-authorization, user-db-check components and replace them with one status component,Move status, message and notification components inside on user-information package,Only release notes and Statusmeldungen will be shown as notification,All other informations, warnings and errors will be shown as message under the title,If it's a critical error like db mitarbeiter missing, no authorization, technical, backend not reachable or unkown error -> a error message will be shown and the content will be hidden,The height of the content is calculated in the way that if there is one or more notifications those ones will stay at the top and the content will be shown without moving,BE CAREFUL THAT STATUSMELDUNG AND RELASE_NOT TITLE MUST BE SHORT ENOUGH TO BE DISPLAYED ON ONE LINE ON MOBILE,Title of Release note was shorted to be displayed on one line on mobile,Neuerung SOPREweb,Version 4.1.6 -> Neuerung,V.4.1.6,All the redirections on page 403 where removed because this check is handled in the contect.component.ts,The error interceptor was modified to always notify the contentService and throw an error,New NotificationTypeEnum, remove ErrorType enum,Status model was replaced by HealtStatus,New model for Status (will contain the error message when a user can't login),Rename SbbNotification in Notification,Refactor NotificationService,one notify method to get all notifications and one reset to remove them,Remove all rout-activtor -> done in content.component.ts,Simplify model Notification because it's now only used for statusmeldung and releasenote,Only show print icon next to tourenplan title when the content is displayed -> not by critical error,Refactor texts for status messages
+Wed Jun 16 14:15:18 2021 +0200,ue67532,SOPRE-26213,Readd loading content
+Wed Jun 16 13:49:11 2021 +0200,ue67532,SOPRE-26213,Move Breakpoints enum into enum.ts file,Instead of calling a method inside contentService to define the sticky style it will be directly define on the content creation,Use Enums instead of contents to make it more type safe,Create new model Loading,Add height, top and position attribute to title, message, loading and content so that each element knows where it should be placed and stay,Fix menu bug -> opens when screen is reduced
+Tue Jun 15 10:30:47 2021 +0200,ue67532,SOPRE-26213,Refactor calculation of message height,Remove padding of 15px for messages on big screens -> always 7.5px,Modify enums in constants,Remove unusded contentdetail viewport,Refactor calculation of sticky style,Remove unused CSS,remove unused imports,Add margin top for abwesenheit and reservertag on screen smaller than LG
+Wed Jun 9 18:55:47 2021 +0200,ue67532,SOPRE-26213,Add same margin top on all buttons,Remove all margins and padding between title and content,Remove separation line between last element and buttons,Remove unused css,Remove min height for statusmeldung and releasenote read,Show separation line only when a statusmeldung/release note is set per default
+Wed Jun 9 16:02:28 2021 +0200,ue67532,SOPRE-26213,remove unused code
+Wed Jun 9 16:01:47 2021 +0200,ue67532,SOPRE-26213,use small font size also for remarks for abwesenheiten and rangier,use same design for rangier remarks as for absences remarks,new behaviorSubject that tells when a page need to be scrolled at previous position,readd small loading for standort search
+Wed Jun 9 12:01:32 2021 +0200,ue67532,SOPRE-26213,Remove unused imports,Remove MessageType where not needed
+Wed Jun 9 11:13:54 2021 +0200,ue67532,SOPRE-26213,Modify z-index of content padding bottom,Modify packages name -> user edit instead of edition or form
+Tue Jun 8 19:50:27 2021 +0200,ue67532,SOPRE-26213,Remove unused css
+Tue Jun 8 10:23:19 2021 +0200,ue67532,SOPRE-26213,Uniformize texts and placeholders,Remove unused texts
+Mon Jun 7 11:01:13 2021 +0200,ue67532,SOPRE-26213,Same design for rangier, abwesenheiten and tourdetail,Add new sticky top style for tourdtail and tourdetail header
+Thu Jun 3 21:08:23 2021 +0200,ue67532,SOPRE-26213,Remove app-one-line component,Uniformize rangier, abwesenheiten and tourdetail GUI,Remove loading inside components
+Thu Jun 3 08:51:10 2021 +0200,ue67532,SOPRE-26213,Remove translateService everywhere where it's not needed,Remove Broadcast model and event,Change position of the title set,Show Toureninfo dataset filer on 3 columns,Reset Toursuche, Zugsuche, Standortsuche the same way after language change
+Fri May 28 21:17:40 2021 +0200,ue67532,SOPRE-26213,Add loading on last GUIs,Remove ReplaySubjects everywhere because,1) Architektural ist es heute schlecht gebaut 2) Wenn Daten inzwischen aktualisert werden werden diese im GUI nicht erscheinen 3) Es spielt keine Rolle wenn wir den Backend immer rufen da es jetzt blitz schnell ist 4) Es macht kein Sinn das wir diese Memory Logik auf der hälfte von den GUIs haben und nicht die andere (Zugsuche hat sie nicht usw)
+Wed May 26 21:15:27 2021 +0200,ue67532,SOPRE-26213,Modify loading on other GUIs,RestInProgress behaviorsubject and user contentEventService.startLoading()
+Tue May 25 22:33:36 2021 +0200,ue67532,SOPRE-26213,Create loading component,Use same loading for every page,Change subscriptions pipes,Add unsubscriptions everywhere,Add complete() where needed,handle messages the same way everywhere
+Thu May 20 16:02:19 2021 +0200,ue67532,SOPRE-26213,Fix sticky top styling
+Wed May 19 12:48:46 2021 +0200,ue67532,SOPRE-26213,Unify size of the content on all pages
+Wed May 12 11:10:13 2021 +0200,ue67532,SOPRE-26213,Add new Content component that will contain all the contents,Add new Title component,Add new Message component,Add new enums, constants to automatically be able to generate a content container (size, authorizations, etc.),Remove all breakpoints, authorization and other observer from components and add it only in the content component that will the main component that handle everything depending on the url or title of the page,Move Help and Sollarbeitzeit creation on own page so that we have it as everywhere in the app,Sticky top css will be given from contentEventService,Remove all unusded imports
+Fri May 7 08:53:45 2021 +0200,ue67532,SOPRE-26213,Create new GUIs for sollarbeitszeit creation and HelpGroup creation/modification,refactor code to have same implementation on release notes, statusmeldungen, helpGroup and sollarbeitszeit,Add new attributes to Content object
+Thu May 6 07:55:04 2021 +0200,ue67532,SOPRE-26213,Show tourdetail on separate page,Use same tourdetail backend service for tourenplan, train search and standort search,Write tourdetail instead of tourdetails, tourendetails and so on
+Thu Apr 29 19:33:26 2021 +0200,ue67532,SOPRE-26213,Fix Tourdetail and Wunsch viewPort,Change definition of devices widths and when to show fachbus input on new row
+Thu Apr 29 18:02:47 2021 +0200,ue67532,SOPRE-26213,Reduce padding bottom for Tourenplan, Abwesenheit, Rangier
+Thu Apr 29 15:54:41 2021 +0200,ue67532,SOPRE-26213,Set title manually when needed (not default gui),Show Tourenplan Export Config on same url
+Thu Apr 29 10:04:15 2021 +0200,ue67532,SOPRE-26213,Always show all menu points,Show same text when page must not be shown
+Wed Apr 28 14:41:45 2021 +0200,ue67532,Pull request #957,feature/SOPRE-27191-sopreweb-anpassung-filter-rubrik-abwesenheiten
+Wed Apr 28 14:41:37 2021 +0200,ue67532,Pull request #958,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages
+Wed Apr 28 14:32:43 2021 +0200,ue67532,SOPRE-26213,Remove padding bottom for tourenplan, abwesenheiten and rangier
+Wed Apr 28 11:44:34 2021 +0200,ue67532,SOPRE-27191,Add new abwesenheiten filter
+Mon Apr 26 15:03:24 2021 +0200,ue67532,Pull request #955,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages
+Mon Apr 26 14:54:32 2021 +0200,ue67532,SOPRE-26213,Fix cross position
+Sun Apr 25 17:35:56 2021 +0200,ue67532,SOPRE-26213,Refactor Frontend,Refactor Viewports
+Thu Apr 22 09:31:53 2021 +0200,ue67532,Pull request #953,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages
+Wed Apr 21 12:23:47 2021 +0200,ue67532,SOPRE-26213,Use same margin bottom everywhere
+Tue Apr 20 09:19:58 2021 +0200,ue67532,Pull request #951,feature/SOPRE-27646-sopreweb-anpassung-datepicker
+Tue Apr 20 09:19:24 2021 +0200,ue67532,Pull request #950,feature/SOPRE-26341-sopreweb-tourenplan-stern-bei-tournummer
+Tue Apr 20 08:59:53 2021 +0200,ue67532,SOPRE-27646,Fix Datepicker validation
+Mon Apr 19 18:13:30 2021 +0200,ue67532,SOPRE-26341,Add new tourenplan legend
+Mon Apr 19 09:22:46 2021 +0200,ue67532,Pull request #948,feature/SOPRE-27779-sopreweb-meldung-touren-info-auf-mobilen-geraten
+Fri Apr 16 08:09:24 2021 +0200,ue67532,SOPRE-27779,Always show Toureninfo menu point
+Thu Apr 15 08:59:54 2021 +0200,ue67532,Pull request #946,feature/SOPRE-26977-personalnummer-in-sopreinfo-anzeigen
+Thu Apr 15 08:52:31 2021 +0200,ue67532,SOPRE-26977,Add business personalnummer
+Wed Apr 7 12:52:12 2021 +0200,ue67532,Pull request #944,feature/SOPRE-27883-sbb-vaterschaftsurlaub-2021-in-sopreweb-als-wunschart
+Wed Apr 7 12:19:29 2021 +0200,ue67532,SOPRE-27883 -Add new LeaveType UV2021
+Tue Apr 6 13:32:26 2021 +0200,ue67532,Pull request #942,feature/SOPRE-27305-sopreweb-thu-nummer-datenbank
+Tue Apr 6 13:25:00 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Tue Apr 6 09:04:05 2021 +0200,ue67532,Pull request #940,feature/SOPRE-27305-sopreweb-thu-nummer-datenbank
+Tue Apr 6 08:56:03 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Tue Mar 30 19:42:42 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Tue Mar 30 08:57:24 2021 +0200,ue67532,Pull request #938,feature/SOPRE-27305-sopreweb-thu-nummer-datenbank
+Tue Mar 30 08:48:42 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Mon Mar 29 14:56:20 2021 +0200,ue67532,Pull request #936,feature/SOPRE-27305-sopreweb-thu-nummer-datenbank
+Mon Mar 29 14:39:19 2021 +0200,ue67532,SOPRE-27305,THU and RAL employees must be updatable
+Wed Mar 24 07:07:58 2021 +0100,ue67532,Pull request #934,feature/SOPRE-25817-sopreweb-admin-rolle-fachbus_all-falsch
+Tue Mar 23 17:31:47 2021 +0100,ue67532,SOPRE-25817,Manage new role FACHBUS_ADMIN
+Fri Mar 19 15:18:36 2021 +0100,ue67532,Pull request #932,feature/SOPRE-25691-sopreweb-rolle-sopreweb_fachbus_all-anpassen
+Fri Mar 19 14:46:53 2021 +0100,ue67532,SOPRE-25691,FACHBUS_ALL must be allowed to see and search with depots
+Thu Mar 18 16:00:10 2021 +0100,ue67532,Pull request #930,feature/SOPRE-25691-sopreweb-rolle-sopreweb_fachbus_all-anpassen
+Thu Mar 18 15:53:03 2021 +0100,ue67532,SOPRE-25691,FACHBUS_ALL must be allowed to see and search with depots
+Wed Mar 17 08:45:36 2021 +0100,ue67532,Pull request #927,feature/SOPRE-24585-sopreweb-fehlender-datenbankeintrag
+Wed Mar 17 08:15:57 2021 +0100,ue67532,SOPRE-24585,Add margin bottom
+Tue Mar 16 14:00:36 2021 +0100,ue67532,Pull request #924,feature/SOPRE-24585-sopreweb-fehlender-datenbankeintrag
+Tue Mar 16 13:52:01 2021 +0100,ue67532,SOPRE-24585,Check for service unavailable error
+Tue Mar 16 09:55:44 2021 +0100,ue67532,Pull request #922,feature/SOPRE-24585-sopreweb-fehlender-datenbankeintrag
+Tue Mar 16 09:46:47 2021 +0100,ue67532,SOPRE-24585,Remove unknow error check
+Tue Mar 16 08:57:10 2021 +0100,ue67532,Pull request #920,feature/SOPRE-24585-sopreweb-fehlender-datenbankeintrag
+Tue Mar 16 08:48:42 2021 +0100,ue67532,SOPRE-24585,Check for service unavailable error
+Tue Mar 16 07:50:18 2021 +0100,ue67532,Pull request #918,feature/SOPRE-24585-sopreweb-fehlender-datenbankeintrag
+Tue Mar 16 07:43:40 2021 +0100,ue67532,SOPRE-24585,Fix text and styling issue
+Mon Mar 15 07:20:36 2021 +0100,ue67532,Pull request #916,feature/SOPRE-24585-sopreweb-fehlender-datenbankeintrag
+Mon Mar 15 07:10:36 2021 +0100,ue67532,SOPRE-24585,Refactor error handling for the frontend
+Thu Feb 25 15:46:37 2021 +0100,automerge,Merge pull request #914 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Tue Feb 23 10:49:13 2021 +0100,ue67532,Pull request #912,feature/SOPRE-26676-sopre-pb-sopre-fehlende-abfahrt-ankunftzeiten-im-fahrplan
+Tue Feb 23 10:38:42 2021 +0100,ue67532,SOPRE-26676,Check if betriebszeit is set or not
+Fri Feb 19 11:19:17 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code
+Mon Feb 1 13:57:54 2021 +0100,ue67532,Pull request #909,feature/SOPRE-18856-drucken-auf-mobil-unbrauchbar_v2
+Mon Feb 1 13:49:51 2021 +0100,ue67532,SOPRE-18856,Fix userInfo bug. UserInfo was not set
+Mon Feb 1 13:44:38 2021 +0100,ue67532,SOPRE-18856,Fix userInfo bug. UserInfo was not set
+Mon Feb 1 11:28:10 2021 +0100,ue67532,Pull request #907,feature/SOPRE-18856-drucken-auf-mobil-unbrauchbar_v2
+Mon Feb 1 11:18:42 2021 +0100,ue67532,SOPRE-18856,Fix userInfo bug. UserInfo was not set
+Wed Jan 27 09:24:57 2021 +0100,ue67532,Pull request #905,feature/SOPRE-18856-drucken-auf-mobil-unbrauchbar_v2
+Wed Jan 27 09:18:10 2021 +0100,ue67532,SOPRE-18856,Refactor styling
+Tue Jan 26 17:44:34 2021 +0100,ue67532,Pull request #903,feature/SOPRE-18856-drucken-auf-mobil-unbrauchbar_v2
+Tue Jan 26 17:34:20 2021 +0100,ue67532,SOPRE-18856,Refactor styling
+Tue Jan 26 13:57:38 2021 +0100,automerge,Merge pull request #868 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-18856-drucken-auf-mobil-unbrauchbar_v2 to develop
+Tue Jan 26 11:52:17 2021 +0100,ue67532,Pull request #900,feature/SOPRE-24810-sopreweb-tourenplan-monatsauswahl
+Tue Jan 26 11:43:00 2021 +0100,ue67532,SOPRE-24810,refactor styling
+Tue Jan 26 08:36:34 2021 +0100,ue67532,Pull request #898,feature/SOPRE-24810-sopreweb-tourenplan-monatsauswahl
+Tue Jan 26 08:27:22 2021 +0100,ue67532,SOPRE-24810,refactor styling
+Mon Jan 25 23:10:13 2021 +0100,ue67532,Pull request #895,feature/SOPRE-24810-sopreweb-tourenplan-monatsauswahl
+Mon Jan 25 23:01:44 2021 +0100,ue67532,SOPRE-24810,refactor styling
+Mon Jan 25 22:31:18 2021 +0100,ue67532,SOPRE-24810,refactor styling
+Mon Jan 25 21:04:26 2021 +0100,ue67532,Pull request #893,feature/SOPRE-24810-sopreweb-tourenplan-monatsauswahl
+Mon Jan 25 19:37:09 2021 +0100,ue67532,SOPRE-24810,refactor styling
+Mon Jan 25 19:22:05 2021 +0100,ue67532,SOPRE-24810,Fix conflicts
+Mon Jan 25 18:41:43 2021 +0100,ue67532,SOPRE-24810,refactor styling
+Mon Jan 25 18:39:19 2021 +0100,ue67532,SOPRE-24810,refactor styling
+Mon Jan 25 09:34:14 2021 +0100,ue67532,Pull request #891,feature/SOPRE-24810-sopreweb-tourenplan-monatsauswahl
+Mon Jan 25 09:07:41 2021 +0100,ue67532,SOPRE-24810,refactor styling
+Fri Jan 22 18:40:38 2021 +0100,automerge,Merge pull request #835 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-24810-sopreweb-tourenplan-monatsauswahl to develop
+Fri Jan 22 18:34:44 2021 +0100,ue67532,SOPRE-24810,Remove unused file and space
+Fri Jan 22 18:29:11 2021 +0100,ue67532,SOPRE-24810,Remove unused enum
+Fri Jan 22 18:19:32 2021 +0100,ue67532,SOPRE-24810,Refactor and fix errors
+Thu Jan 21 09:39:16 2021 +0100,ue67532,Pull request #888,feature/SOPRE-24800-new-role-must-be-able-to-create-wishes-for-choosen-mandant
+Thu Jan 21 09:31:17 2021 +0100,ue67532,SOPRE-24800,Show mandant message only if wish can be edited or created
+Wed Jan 20 17:32:39 2021 +0100,automerge,Merge pull request #816 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-24800-new-role-must-be-able-to-create-wishes-for-choosen-mandant to develop
+Wed Jan 20 17:24:26 2021 +0100,ue67532,SOPRE-24800,Add/Refactor logic to be able to create wishes for a mandant with master_wish_author role
+Tue Jan 19 20:10:03 2021 +0100,ue67532,Pull request #885,feature/SOPRE-24295-sopreweb-zugsuche-bei-mitternachtsuberschreitenden-zuglaufen
+Tue Jan 19 20:03:54 2021 +0100,ue67532,SOPRE-24295,Fix bugs
+Tue Jan 19 17:38:33 2021 +0100,ue67532,Merge branches 'develop' and 'feature/SOPRE-24800-new-role-must-be-able-to-create-wishes-for-choosen-mandant' of https://code.sbb.ch/scm/pz_sopre/sopreweb-frontend into feature/SOPRE-24800-new-role-must-be-able-to-create-wishes-for-choosen-mandant
+Tue Jan 19 17:37:29 2021 +0100,ue67532,SOPRE-24800,Modify texts,Add change language event listener in mitarbeiter wunschart gui
+Mon Jan 18 00:10:50 2021 +0100,ue67532,Pull request #883,feature/SOPRE-25129-sopreweb-touren-info-checkboxen-v2
+Sun Jan 17 23:56:39 2021 +0100,ue67532,SOPRE-25129,Empty commit
+Sun Jan 17 23:51:29 2021 +0100,ue67532,SOPRE-24800,Modify role name
+Thu Jan 14 12:34:22 2021 +0100,ue67532,Pull request #881,feature/SOPRE-25129-sopreweb-touren-info-checkboxen
+Thu Jan 14 12:24:52 2021 +0100,ue67532,SOPRE-25129,Empty commit
+Wed Jan 13 16:52:48 2021 +0100,ue67532,Pull request #879,feature/SOPRE-25129-sopreweb-touren-info-checkboxen
+Wed Jan 13 15:49:40 2021 +0100,ue67532,SOPRE-25129,Empty commit
+Wed Jan 13 15:20:34 2021 +0100,ue67532,SOPRE-25129,Fix Searching bug
+Wed Jan 13 13:44:43 2021 +0100,ue67532,SOPRE-24800,Modify role name
+Wed Jan 13 10:42:36 2021 +0100,ue67532,Pull request #877,feature/SOPRE-22238-sopreweb-team-anzeige-bei-db-nur-fur-abgehenden-zug
+Wed Jan 13 10:34:09 2021 +0100,ue67532,SOPRE-22238,Fix bug,hardcode activity type durchgehende Besetzung doesn't work in french and italian
+Tue Jan 12 16:05:42 2021 +0100,ue67532,Pull request #875,feature/SOPRE-22238-sopreweb-team-anzeige-bei-db-nur-fur-abgehenden-zug
+Tue Jan 12 15:54:39 2021 +0100,ue67532,SOPRE-22238,Resolve conflicts
+Tue Jan 12 15:39:08 2021 +0100,ue67532,SOPRE-22238,Modify styling,Fix duplicatest after each clic on team icon
+Tue Jan 12 11:05:56 2021 +0100,automerge,Merge pull request #802 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-22238-sopreweb-team-anzeige-bei-db-nur-fur-abgehenden-zug to develop
+Tue Jan 12 08:51:49 2021 +0100,ue67532,SOPRE-22238,Renaming
+Mon Jan 11 17:38:34 2021 +0100,ue67532,Pull request #871,feature/SOPRE-25129-sopreweb-touren-info-checkboxen
+Mon Jan 11 17:28:19 2021 +0100,ue67532,SOPRE-25129,Fix loading problem
+Mon Jan 11 15:28:18 2021 +0100,automerge,Merge pull request #844 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-25129-sopreweb-touren-info-checkboxen to develop
+Mon Jan 11 15:12:38 2021 +0100,ue67532,SOPRE-25129,Refactor code
+Mon Jan 11 15:10:01 2021 +0100,ue67532,SOPRE-25129,Refactor code
+Mon Jan 11 08:38:22 2021 +0200,e516596,Merge branches 'develop' and 'feature/SOPRE-18856-drucken-auf-mobil-unbrauchbar_v2' of https://code.sbb.ch/scm/pz_sopre/sopreweb-frontend into feature/SOPRE-18856-drucken-auf-mobil-unbrauchbar_v2
+Fri Jan 8 19:15:58 2021 +0100,ue67532,Pull request #819,feature/SOPRE-24295-sopreweb-zugsuche-bei-mitternachtsuberschreitenden-zuglaufen
+Fri Jan 8 19:06:24 2021 +0100,ue67532,SOPRE-24295,Remove space
+Fri Jan 8 18:57:23 2021 +0100,ue67532,SOPRE-24295,Revert naming -> it made more sense before,Use a boolean instead of a string to define if a train track starts previous day or not. Then use minBetriebzeitAb as date on the frontend,Renaming in german of business words
+Fri Jan 8 17:08:20 2021 +0100,ue67532,SOPRE-24295,Revert naming -> it made more sense before,Use a boolean instead of a string to define if a train track starts previous day or not. Then use minBetriebzeitAb as date on the frontend
+Fri Jan 8 10:42:20 2021 +0100,ue67532,Pull request #865,feature/SOPRE-25454-sopreweb-zugsuche-rangier
+Fri Jan 8 10:32:46 2021 +0100,ue67532,SOPRE-25454,Do only show a berufsgruppe radio button when there is effectiv an employee who has this planungsbereich
+Thu Jan 7 15:55:44 2021 +0100,ue67532,Pull request #863,feature/SOPRE-21242-zeilenumbruch-bei-wunschen-vereinheitlichen
+Thu Jan 7 15:49:12 2021 +0100,ue67532,SOPRE-21242,Add padding bottom
+Thu Jan 7 13:34:33 2021 +0100,ue67532,Pull request #861,feature/SOPRE-21242-zeilenumbruch-bei-wunschen-vereinheitlichen
+Thu Jan 7 11:02:33 2021 +0100,ue67532,SOPRE-21242,Break line for wish comments
+Wed Jan 6 16:03:38 2021 +0100,automerge,Merge pull request #817 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-24900-sopreweb-menu-style-is-changed-on-403-forbiden-message to develop
+Wed Jan 6 15:56:57 2021 +0100,automerge,Merge pull request #845 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-25454-sopreweb-zugsuche-rangier to develop
+Wed Jan 6 15:47:41 2021 +0100,automerge,Merge pull request #842 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-21242-zeilenumbruch-bei-wunschen-vereinheitlichen to develop
+Wed Jan 6 15:40:50 2021 +0100,automerge,Merge pull request #824 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-23325-design-uberlappende-touren to develop
+Wed Jan 6 11:19:31 2021 +0100,ue67532,Pull request #858,feature/SOPRE-25817-sopreweb-admin-rechte-sopre
+Wed Jan 6 11:02:20 2021 +0100,ue67532,SOPRE-25817,Fix bug -> only let fachbus intern + dual employee show the admin menu
+Tue Jan 5 18:02:09 2021 +0100,ue67532,Pull request #853,feature/SOPRE-24797-sopreweb-menu-mobile-open-fix
+Tue Jan 5 18:02:01 2021 +0100,ue67532,Pull request #854,feature/SOPRE-23344-sopreweb-smartphone-grosse-eingabefelder-buttons_v2
+Tue Jan 5 18:01:53 2021 +0100,ue67532,Pull request #855,feature/SOPRE-25099-sopreweb-info-meldung-zeitkonten
+Tue Jan 5 18:01:47 2021 +0100,ue67532,Pull request #856,feature/SOPRE-25696-sopreweb-rangierleiterubersicht-depot-auswahlen-mobile-page-width-stimmt-nicht
+Tue Jan 5 18:00:46 2021 +0100,ue67532,Pull request #852,feature/SOPRE-25504-sopreweb-abstand-button-footer
+Tue Jan 5 18:00:30 2021 +0100,ue67532,Pull request #851,feature/SOPRE-25130-sopreweb-abwesenheiten-zukunft
+Tue Jan 5 17:53:29 2021 +0100,ue67532,SOPRE-25696,Stay on depot selection after filter deletion if there is no data
+Tue Jan 5 16:52:24 2021 +0100,ue67532,SOPRE-23344,Only add this margin on mobile
+Tue Jan 5 16:30:00 2021 +0100,ue67532,SOPRE-25099,Hide title on mobile
+Tue Jan 5 15:53:52 2021 +0100,ue67532,SOPRE-24797,Revert code -> ipad not working
+Tue Jan 5 09:38:32 2021 +0100,ue67532,SOPRE-25504,Add margin bottom
+Tue Jan 5 09:07:13 2021 +0100,automerge,Merge pull request #850 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-23338-sopreweb-tourenplan-export-tooltip-mobile-verschoben-fix to develop
+Tue Jan 5 08:57:42 2021 +0100,ue67532,SOPRE-23338,Revert code -> console.logs must be removed, code must be fixed
+Mon Jan 4 15:54:35 2021 +0100,ue67532,SOPRE-25130,Fix wrong amount of months in future
+Mon Jan 4 13:58:40 2021 +0100,automerge,Merge pull request #837 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-25130-sopreweb-abwesenheiten-zukunft to develop
+Mon Jan 4 13:57:17 2021 +0100,automerge,Merge pull request #829 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-23344-sopreweb-smartphone-grosse-eingabefelder-buttons_v2 to develop
+Mon Jan 4 13:53:05 2021 +0100,automerge,Merge pull request #831 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-24918-sopreweb-tourenplan-abkurzung-donnerstag-in-it-falsch-sopre-24918 to develop
+Mon Jan 4 13:48:43 2021 +0100,ue67532,SOPRE-25130,Fix month
+Mon Jan 4 13:07:08 2021 +0100,automerge,Merge pull request #841 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-25696-sopreweb-rangierleiterubersicht-depot-auswahlen-mobile-page-width-stimmt-nicht to develop
+Mon Jan 4 13:06:11 2021 +0100,automerge,Merge pull request #843 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-25504-sopreweb-abstand-button-footer to develop
+Mon Jan 4 13:04:15 2021 +0100,automerge,Merge pull request #846 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-24797-sopreweb-menu-mobile-open to develop
+Mon Jan 4 12:59:51 2021 +0100,automerge,Merge pull request #847 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-23338-sopreweb-tourenplan-export-tooltip-mobile-verschoben to develop
+Mon Jan 4 12:53:54 2021 +0100,automerge,Merge pull request #848 in PZ_SOPRE/sopreweb-frontend from feature/SOPRE-25099-sopreweb-info-meldung-zeitkonten to develop
+Mon Jan 4 08:00:17 2021 +0100,u233266,feature/SOPRE-25099-sopreweb-info-meldung-zeitkonten

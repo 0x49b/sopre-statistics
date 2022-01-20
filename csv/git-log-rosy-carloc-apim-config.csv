@@ -1,0 +1,13 @@
+Mon Nov 22 16:21:28 2021 +0100,e509243,Use CNAME
+Mon Nov 22 13:30:04 2021 +0100,e509243,ROSYF-135,Move to lisa
+Wed Apr 7 14:53:02 2021 +0200,e509243,Try something else
+Wed Apr 7 14:52:45 2021 +0200,e509243,Try something else
+Wed Apr 7 14:36:59 2021 +0200,e509243,Move to asterix again
+Wed Apr 7 14:21:50 2021 +0200,e509243,Back to obelix
+Wed Apr 7 10:28:22 2021 +0200,e509243,ROSYF-17 Move Carcloc-prod-api to asterix
+Wed Mar 31 13:48:04 2021 +0200,e509243,routing_over_wsg for asterix
+Wed Mar 31 13:44:15 2021 +0200,e509243,ROSYF-17 Move carcloc API (int) to asterix
+Mon Mar 1 13:32:45 2021 +0100,e509243,Use long for sequenceId
+Fri Feb 26 09:46:35 2021 +0100,e509243,Cleanup pom
+Fri Feb 26 09:45:40 2021 +0100,e509243,Removed dev/test
+Fri Feb 26 09:42:19 2021 +0100,e509243,ROSYF-22 Set MegaID

@@ -1,0 +1,63 @@
+Thu Dec 9 13:23:38 2021 +0100,e516596,Pull request #39,feature/SOPRE-31677-clone-system-user-mit-interaktivem-login-auftrag
+Thu Dec 9 13:21:38 2021 +0100,e516596,DB (SOPRE-31677) ,updated the file credentials for bctest and dev
+Tue Nov 23 08:15:22 2021 +0100,e516596,Pull request #37,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Tue Nov 23 08:14:30 2021 +0100,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Nov 15 12:28:19 2021 +0100,e516596,Pull request #35,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Nov 15 12:25:57 2021 +0100,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Tue Oct 5 08:24:56 2021 +0200,e516596,Pull request #33,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Tue Oct 5 09:23:54 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Tue Sep 14 10:32:25 2021 +0200,e516596,Pull request #31,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Tue Sep 14 10:44:42 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Tue Sep 14 09:11:11 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Fri Sep 3 10:52:22 2021 +0200,e516596,Pull request #29,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Fri Sep 3 11:51:00 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 30 12:03:32 2021 +0200,e516596,Pull request #27,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 30 13:01:34 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 30 12:58:18 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Fri Aug 27 14:43:49 2021 +0200,e516596,Pull request #25,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Thu Aug 26 10:01:36 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Thu Aug 26 08:53:51 2021 +0200,e516596,Pull request #23,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Thu Aug 26 09:50:00 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 09:22:07 2021 +0200,e516596,Pull request #21,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 10:03:34 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 08:42:47 2021 +0200,e516596,Pull request #19,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 09:41:02 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 08:39:00 2021 +0200,e516596,Pull request #18,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 09:37:00 2021 +0300,e516596,Merge branch 'master' of https://code.sbb.ch/scm/pz_sopre/sopip-sap-filer-cleanup into feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 08:35:05 2021 +0200,e516596,Pull request #17,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 09:33:22 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 08:26:49 2021 +0200,e516596,Pull request #14,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 11 09:16:42 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Thu Aug 5 11:50:26 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 4 11:59:34 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.2.0-SNAPSHOT
+Wed Aug 4 11:59:06 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.1.4
+Wed Aug 4 11:57:28 2021 +0200,e516596,Pull request #13,deploy/20210804-2
+Wed Aug 4 11:50:40 2021 +0200,e516596,Pull request #12,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 4 12:32:46 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 4 10:43:44 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.2.0-SNAPSHOT
+Wed Aug 4 10:43:19 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.1.3
+Wed Aug 4 10:42:23 2021 +0200,e516596,Pull request #11,deploy/20210804-1
+Wed Aug 4 10:41:20 2021 +0200,e516596,Pull request #10,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 4 11:40:20 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Aug 4 09:45:45 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 11:55:46 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.2.0-SNAPSHOT
+Mon Aug 2 11:55:28 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.1.2
+Mon Aug 2 11:54:35 2021 +0200,e516596,Pull request #9,deploy/20210802-4
+Mon Aug 2 11:53:11 2021 +0200,e516596,Pull request #7,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 12:52:20 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 11:42:22 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.2.0-SNAPSHOT
+Mon Aug 2 11:42:05 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.1.1
+Mon Aug 2 11:41:24 2021 +0200,e516596,Pull request #6,deploy/20210802-3
+Mon Aug 2 11:40:39 2021 +0200,e516596,Pull request #5,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 12:39:51 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 11:37:36 2021 +0200,e516596,Pull request #4,deploy/20210802-2
+Mon Aug 2 11:36:38 2021 +0200,e516596,Pull request #3,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 12:35:49 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 12:32:51 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 11:19:11 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.2.0-SNAPSHOT
+Mon Aug 2 11:18:57 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.1.0
+Mon Aug 2 11:10:56 2021 +0200,e516596,Pull request #2,deploy/20210802-1
+Mon Aug 2 11:09:56 2021 +0200,e516596,Pull request #1,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Mon Aug 2 11:46:21 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Jun 2 09:54:29 2021 +0300,e516596,feature/SOPRE-29008-implementation-modul-sopip-intmon-sopip-sap-cleanup
+Wed Jun 2 09:08:58 2021 +0300,e516596,Initial Commit

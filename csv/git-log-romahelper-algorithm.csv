@@ -1,0 +1,96 @@
+Tue Dec 21 11:40:04 2021 +0100,u235086,Pull request #76,let Z3 minimize number of conflicts using soft-constraints.
+Mon Dec 20 17:10:26 2021 +0100,jenkins,[pipeline-helper] Set new tag in VersionFile
+Mon Dec 20 13:29:19 2021 +0100,u235086,Pull request #73,Feature/BPSGLO-1890 dev extraktion der problematischen schwachung aus dem unsat core
+Mon Dec 20 10:51:27 2021 +0100,u225426,Pull request #75,fix gurobi license issues and run on all scenarios
+Thu Dec 16 17:29:23 2021 +0100,u225426,Pull request #74,Feature/dev container setup
+Fri Dec 10 16:45:56 2021 +0100,jenkins,[pipeline-helper] Set new tag in VersionFile
+Fri Dec 10 08:58:52 2021 +0100,u225426,fix doc-build dependency and remove multi-stage dockerbuild due to jenkins
+Thu Dec 9 17:01:33 2021 +0100,u225426,Pull request #71,make gurobi as default except for unittests and add gurobi packages to dockerimage
+Wed Dec 8 08:57:35 2021 +0100,u235086,Pull request #69,Feature/BPSGLO-1887 dev konvertieren der losungs leistungsketten in smt input format
+Tue Dec 7 13:03:47 2021 +0100,u229160,Pull request #70,Feature/BPSGLO-2008 dev beschleunigung min cost flow
+Fri Dec 3 10:11:01 2021 +0100,u225426,Pull request #67,proper handling joint verknuepfungen when bedarf is different
+Wed Dec 1 08:09:16 2021 +0100,u235086,Pull request #68,Feature/BPSGLO-840 dev softconstraint bei wartungsfenster in milp erweitern
+Fri Nov 26 09:57:50 2021 +0100,u225426,Pull request #65,Feature/BPSGLO-1848 dev metrics erganzen
+Thu Nov 25 10:08:30 2021 +0100,jenkins,[pipeline-helper] Set new tag in VersionFile
+Wed Nov 17 15:54:30 2021 +0100,u235086,Pull request #64,Bugfix/BPSGLO-1926 mcf swaps gehen auch bei hohen cost per violated reference leistungsverknuepfung
+Mon Nov 15 16:01:36 2021 +0100,e539619,Pull request #63,checked startpunkt test as correct and corrected endpunkt test fuer mincostflow
+Mon Nov 8 11:00:32 2021 +0100,u235086,Pull request #62,BPSGLO-1946 joint und separate verknuepfungen funktionieren noch nicht konsistent zusammen mit
+Mon Nov 8 08:40:42 2021 +0100,u229160,Pull request #58,Feature/BPSGLO-1874 dev bug mincostflow solver failed die tests fur mehrfachtraktionen
+Fri Nov 5 15:36:55 2021 +0100,e539619,Pull request #61,Issue/handling empty files wartungsgenster sperren endpunkte 3
+Fri Nov 5 13:33:42 2021 +0100,e539619,Pull request #56,Issue/handling empty file endpunkte
+Tue Nov 2 08:47:29 2021 +0100,u235086,Pull request #55,Feature/BPSGLO-1640 dev wartungsleistungen startpunkte und endpunkte aus referenzlosung beachten
+Mon Nov 1 09:39:04 2021 +0100,e539619,Pull request #54,Feature/BPSGLO-1615 dev testcases implementieren
+Thu Oct 28 10:10:06 2021 +0200,u235086,Pull request #53,Feature/BPSGLO-834 dev wartungsfenster milp integriert implementieren
+Wed Oct 20 11:40:55 2021 +0200,u229160,Pull request #52,Feature/BPSGLO-1575 dev anpassen der min cost flow formulierung
+Mon Oct 18 09:37:02 2021 +0200,u235086,Pull request #51,Feature/BPSGLO-817 dev wartungslogik im modell ein und ausschalten fur postprocessing
+Wed Oct 13 14:06:36 2021 +0200,u235086,Pull request #50,Feature/BPSGLO-841 dev aufbau teilleistungskettengraph wartungsfensterplanung postprocessing
+Thu Oct 7 17:23:37 2021 +0200,jenkins,[pipeline-helper] Set new tag in VersionFile
+Thu Oct 7 17:01:51 2021 +0200,u229160,Pull request #48,Feature/BPSGLO-1532 dev randpunkte in blockdiagramm visualisieren
+Fri Oct 1 14:29:20 2021 +0200,u225426,Pull request #47,BPSGLO-1619 re factor gegenwartigen milp und min cost flow code
+Fri Oct 1 09:39:28 2021 +0200,u225426,Pull request #49,add threads as milp config param and add openshift client to dockerimage
+Mon Sep 27 09:05:09 2021 +0200,e539619,Pull request #45,bug fix sperren nicht beachtet
+Fri Sep 24 17:03:51 2021 +0200,e539619,reto commentar und test fix
+Wed Sep 22 10:22:13 2021 +0200,e539619,bug fix sperren nicht beachtet
+Mon Sep 20 15:24:12 2021 +0200,u235086,Pull request #44,added cast to deal with new ISO time format
+Fri Sep 17 16:09:11 2021 +0200,u225426,bugfix jenkins file pip package push
+Fri Sep 17 16:06:40 2021 +0200,u225426,refactor pr comments list append
+Fri Sep 17 15:58:40 2021 +0200,e539619,hopefully final commit ^^
+Fri Sep 17 14:22:03 2021 +0200,e539619,adapted tests
+Thu Sep 16 17:13:17 2021 +0200,e539619,updated betriebsfahrten anzeige
+Wed Sep 15 15:18:08 2021 +0200,e539619,minor cleanup
+Wed Sep 15 12:30:06 2021 +0200,e539619,minor documentation
+Wed Sep 15 12:24:21 2021 +0200,e539619,minor documentation
+Wed Sep 15 09:51:01 2021 +0200,u235086,Pull request #43,BPSGLO-1528,rewrote spitzkehre test to use DVC versioned data
+Wed Sep 15 08:55:38 2021 +0200,e539619,minor improvements 2
+Mon Sep 13 17:25:07 2021 +0200,e539619,refactored milp set edges function and minor bug fixes
+Mon Sep 13 16:37:10 2021 +0200,u235086,Pull request #41,fix issue 1310,added MILP constraint to consistently assign v_i variables
+Fri Sep 10 15:56:18 2021 +0200,e539619,smoke test update
+Fri Sep 10 14:53:01 2021 +0200,e539619,updated tests
+Thu Sep 9 13:35:25 2021 +0200,e539619,min cost flow solver hat jetzt end randpunkte, with nan handling
+Wed Sep 8 14:35:42 2021 +0200,e539619,min cost flow solver hat jetzt start randpunkte, kein nan handling im moment
+Mon Sep 6 16:10:22 2021 +0200,e539619, randpunkte für end milp, können noch keine nan handeln
+Mon Aug 30 15:29:49 2021 +0200,e539619, refactored get min distance abstract method without kopplung, added edges von start to lunden abfahrt
+Mon Aug 30 10:32:05 2021 +0200,e539619,refactored _Nodes, divided name into n_name
+Fri Aug 27 15:17:46 2021 +0200,e539619,Added data loading func. and attr. for endpunkte, BUG pylint unsubscriptable-object # pylint/issues/3139
+Thu Sep 9 11:24:29 2021 +0200,u225426,add docker image containing the algorithms
+Thu Aug 19 11:08:08 2021 +0200,u225426,integrate leistungsverknuepfungen into both algorithms
+Tue Aug 17 15:14:51 2021 +0200,u225426,add kupplungszeit between kundenfahrten; make connections possible when given as verknuepfung
+Fri Aug 13 11:23:37 2021 +0200,u225426,integrate bedarf column for mehrfachtraktionen in algorithms
+Sun Aug 8 11:26:22 2021 +0200,u225426,change node variable of visited-vehicle from binary to integer
+Fri Aug 6 10:00:49 2021 +0200,u225426,mincostflow bugfix when no valid solution is found
+Tue Aug 3 20:01:51 2021 +0200,u225426,leistungskette and relationen are optional input files; config-file as optional input in scenario-folder
+Mon Jul 26 10:45:24 2021 +0200,u225426,update evaluation with new data
+Fri Jul 23 21:21:08 2021 +0200,u225426,adapt all code to new data format
+Fri Jul 9 14:07:33 2021 +0200,u234798,change MILP config to optimize by default
+Fri Jun 18 10:16:36 2021 +0200,u225426,update evaluation with new scenarios
+Thu Jun 17 15:02:51 2021 +0200,u229160,Changed min-cost-flow logic that cycles don't have to start and end at same station. Instead of having sinks and sources for each station, there is only one global source and one global sink. Removed the additional connection from the spitzkehre pytest.
+Tue Jun 15 12:38:29 2021 +0200,u225426,change data format to new ceres export
+Fri Jun 11 11:48:48 2021 +0200,u229160,Changed min-cost-flow to return empty list when no solution is found and Resolved bug when chosing the stations. Added additional conection to test_algorithm_spitzkehre that pytest doesn't fail
+Tue Jun 8 16:18:10 2021 +0200,u225426,include spitzkehre turning time in algorithms
+Tue Jun 8 16:29:19 2021 +0200,u229160,Implemented a visualization of the parking situation over time at every station. Maximum time at a station before being considered as a parking can be adjusted and is set to 0 for the moment
+Thu Jun 3 17:29:36 2021 +0200,u229160,added information about kilometers since last maintenance per vehicle to visualzations and added some other additional information to the block visualization
+Thu Jun 3 14:21:23 2021 +0200,u229160,resolved bug in extract_paths
+Wed Jun 2 00:43:42 2021 +0200,u225426,refactor planner input-data and add rc-code, add leermaterialfahrten from file
+Thu Jun 3 10:15:22 2021 +0200,u229160,Moved all Leistungen from same vehicle on one line, added Rangeslider and Rangeselector buttons, changed x-Axis Format
+Thu Jun 3 08:19:10 2021 +0200,u229160,Moved all Leistungen from same vehicle on one line, added Rangeslider and Rangeselector buttons, changed x-Axis Format
+Tue Jun 1 09:34:21 2021 +0200,u225426,add mincostflow to automatic evaluation
+Wed May 26 18:06:08 2021 +0200,u229160,some small changes based on the comments for the pull request
+Tue May 25 15:03:30 2021 +0200,u229160,Implementation of min_cost_flow algorithm with first set of basic rules
+Thu May 20 10:53:56 2021 +0200,u210393,Uses config vehicle_cost.
+Wed May 19 10:51:40 2021 +0200,u210393,MIP model adaptations to minimize the number of vehicles.
+Tue May 18 14:12:16 2021 +0200,u225426,add config files for parameter management
+Mon May 17 15:13:33 2021 +0200,u225426,enhance pytest with smoke-tests, add smoke- and dvc-status-tests to ci
+Wed May 5 16:12:16 2021 +0200,u225426,separate planner and algorithm output, replace temporary format  with new ceres fahrten.csv format
+Fri Apr 30 18:40:01 2021 +0200,u225426,more general algorithm interface, add algorithm-config, add python documentation
+Mon Apr 12 10:23:59 2021 +0200,u229160,Implemented first version of block visualization, including functions get_plot_time, get_vehicle_line, prepare_block_df, get_color and visualize_block
+Tue Apr 6 10:06:45 2021 +0200,u229160,Add usecases folder in download data script
+Mon Mar 29 15:08:05 2021 +0200,u225426,make pip package release pep440 conform
+Mon Mar 29 11:17:08 2021 +0200,u225426,change pip package upload and add first metrics to evaluation for demo
+Mon Mar 22 13:28:29 2021 +0100,u225426,add first version of the evaluation pipeline
+Tue Mar 16 17:55:28 2021 +0100,u225426,refactor to support multiple algorithms
+Mon Mar 8 18:22:06 2021 +0100,u225426,change dataformat from fpl-csv to custom kundenfahrt-csv with blocked connections
+Tue Mar 2 09:58:21 2021 +0100,u225426,integrate first visualzation version
+Mon Mar 1 15:45:10 2021 +0100,u226003,first version of viz
+Mon Feb 22 10:22:44 2021 +0100,u225426,first simplified version as mip/solver
+Wed Feb 17 19:17:06 2021 +0100,u225426,fix documentation html site and add data loading functions
+Fri Feb 5 18:32:27 2021 +0100,u225426,initial code structure

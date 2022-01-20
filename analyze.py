@@ -45,16 +45,18 @@ names_of_c = [
 
 def read_contributors(filename):
     with open(filename, mode='r') as file:
-        csv_file = csv.reader(file)
-        for lines in csv_file:
-            contributors.append(lines[1].replace(":", ""))
-        file.close()
+        if os.stat(filename).st_size > 0:
+            csv_file = csv.reader(file)
+            for lines in csv_file:
+                contributors.append(lines[1].replace(":", ""))
+            file.close()
 
 
 def make_unique_contributors():
     for i in contributors:
         if i not in unique_contributors:
             unique_contributors.append(i)
+    print(unique_contributors)
 
 
 def commits_for_contributor():
@@ -144,7 +146,7 @@ def hang_on():
     ax.set_title('Commits in 2021 AP & EP',
                  loc='center', )
     plt.savefig('commits_ap_and_ep.png')
-    #plt.show()
+    # plt.show()
 
 
 def words_will_not_stop_me():
@@ -172,12 +174,15 @@ def words_will_not_stop_me():
 
 
 if __name__ == "__main__":
-    read_contributors("git-log-ap.csv")
-    read_contributors("git-log-ep.csv")
+
+    csvfiles = os.listdir(os.path.join(os.getcwd(), "csv"))
+
+    for cf in csvfiles:
+        read_contributors(os.path.join(os.getcwd(), "csv", cf))
+
     make_unique_contributors()
     commits_for_contributor()
     consolidate()
     write_csv()
     hang_on()
     words_will_not_stop_me()
-

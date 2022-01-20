@@ -1,0 +1,19 @@
+Mon Nov 22 16:37:25 2021 +0100,u234798,Pull request #14,geänderte Szenariodefinitionen
+Fri Nov 19 08:53:04 2021 +0100,u235086,Pull request #13,Bugfix/BPSGLO-2079 bug mergen von betriebsfahrten berucksichtigt wartungsfenster noch nicht
+Thu Nov 18 11:09:57 2021 +0100,u235086,Pull request #12,Bugfix/BPSGLO-1926 mcf swaps gehen auch bei hohen cost per violated reference leistungsverknuepfung
+Mon Nov 15 08:45:12 2021 +0100,u235086,Pull request #11,BPSGLO-1924 komischer startpunkt wenn schnitt wahrend wartungsleistung
+Tue Nov 2 15:50:30 2021 +0100,u235086,Pull request #10,Feature/BPSGLO-1640 dev wartungsleistungen startpunkte und endpunkte aus referenzlosung beachten
+Thu Oct 7 08:04:44 2021 +0200,e539619,Pull request #9,Feature/BPSGLO-1474 dev ceres adapter anpassen damit wartungsfenster ausgelesen werden
+Fri Sep 17 16:17:33 2021 +0200,Manuel Bröchin,represent datetime and timedelta in ISO format, consistently in csv and json. represent date as date string consistently in csv and json
+Thu Sep 2 10:32:48 2021 +0200,u225426,add new seetal export/scenarios for 2021-09 and 2021-10
+Sat Aug 21 12:57:49 2021 +0200,u225426,add endpunkte to scenario format
+Thu Aug 19 14:49:54 2021 +0200,u225426,check geographical consistency of scenario and fix export-data for scenario tage-7
+Tue Aug 17 11:27:01 2021 +0200,u225426,add leistungsverknuepfungen csv
+Fri Aug 6 16:18:42 2021 +0200,u225426,add warning when not all leistungen can be joined and combine betriebsfahrten when no other leistung is in between
+Wed Aug 4 22:52:18 2021 +0200,u225426,add unittests for generating fahrtleistungen of ceres export
+Tue Aug 3 16:34:56 2021 +0200,u225426,possibility to break leistungen within a day, save scenario as jsonfile, adding splitting functionality of leistungen for correct bedarf-values
+Fri Jul 23 18:21:40 2021 +0200,u225426,add first version of the adapter script to generate scenarios
+Tue Jun 15 12:32:14 2021 +0200,u225426,add seetal export and change format
+Tue May 4 12:09:02 2021 +0200,u225426,replaced dummy files with new data structure (fahrten.csv)
+Fri Mar 19 09:08:24 2021 +0100,u225426,add sample data to usecases folder structure for testing
+Mon Feb 15 11:53:15 2021 +0100,u225426,initial commit

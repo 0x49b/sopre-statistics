@@ -1,0 +1,2205 @@
+{
+  "size": 45,
+  "limit": 999,
+  "isLastPage": true,
+  "values": [
+    {
+      "slug": "sopip-dam",
+      "id": 50826,
+      "name": "sopip-dam",
+      "hierarchyId": "492266f0b851b73f955c",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-dam.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-dam.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-dam/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-ect-adapter",
+      "id": 19948,
+      "name": "sopip-ect-adapter",
+      "hierarchyId": "ded81206a51bf79d1536",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-ect-adapter.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-ect-adapter.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-ect-adapter/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-fp-zip-generator",
+      "id": 47296,
+      "name": "sopip-fp-zip-generator",
+      "hierarchyId": "bb8c98a0d4ce4831da50",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-fp-zip-generator.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-fp-zip-generator.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-fp-zip-generator/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-fpinitial",
+      "id": 48723,
+      "name": "sopip-fpinitial",
+      "hierarchyId": "299fd3a9f64b0dc512e6",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-fpinitial.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-fpinitial.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-fpinitial/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-fpprod-import",
+      "id": 47517,
+      "name": "sopip-fpprod-import",
+      "hierarchyId": "28cf9ade2348db80f860",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-fpprod-import.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-fpprod-import.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-fpprod-import/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-fpprog-import",
+      "id": 48750,
+      "name": "sopip-fpprog-import",
+      "hierarchyId": "12051a1d695e3358141f",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-fpprog-import.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-fpprog-import.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-fpprog-import/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-fprepl",
+      "id": 47516,
+      "name": "sopip-fprepl",
+      "hierarchyId": "da48b5c68fc6ea42356a",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-fprepl.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-fprepl.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-fprepl/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-info",
+      "id": 32838,
+      "name": "sopip-info",
+      "hierarchyId": "a482fd5542581e1add2a",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-info.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-info.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-info/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-sap-copy-job",
+      "id": 54278,
+      "name": "sopip-sap-copy-job",
+      "description": "Copies all necessary files to the relevant environments",
+      "hierarchyId": "f924f5b52c382f00d109",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-sap-copy-job.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-sap-copy-job.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-sap-copy-job/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-sap-export",
+      "id": 7794,
+      "name": "sopip-sap-export",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-sap-export.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-sap-export.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-sap-export/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-sap-filer-cleanup",
+      "id": 52034,
+      "name": "sopip-sap-filer-cleanup",
+      "hierarchyId": "c30a50d30e16a96bcbd5",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-sap-filer-cleanup.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-sap-filer-cleanup.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-sap-filer-cleanup/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-sap-ftp-export",
+      "id": 11767,
+      "name": "sopip-sap-ftp-export",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-sap-ftp-export.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-sap-ftp-export.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-sap-ftp-export/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-sap-ftp-import",
+      "id": 11766,
+      "name": "sopip-sap-ftp-import",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-sap-ftp-import.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-sap-ftp-import.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-sap-ftp-import/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-sap-import",
+      "id": 7387,
+      "name": "sopip-sap-import",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-sap-import.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-sap-import.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-sap-import/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip-tour-adapter",
+      "id": 8936,
+      "name": "sopip-tour-adapter",
+      "hierarchyId": "923e4c550c0b18d927e9",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "touri-sopre",
+        "id": 3025,
+        "name": "touri-sopre",
+        "hierarchyId": "923e4c550c0b18d927e9",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "PZ_TOURI",
+          "id": 1090,
+          "name": "TIP2",
+          "description": "TIP 2",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/PZ_TOURI"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/pz_touri/touri-sopre.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/pz_touri/touri-sopre.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_TOURI/repos/touri-sopre/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip-tour-adapter.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip-tour-adapter.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip-tour-adapter/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip_sap_lstar_import",
+      "id": 52127,
+      "name": "sopip_sap_lstar_import",
+      "description": "Zuordnungsregeln Import",
+      "hierarchyId": "ee019d0244e4e93b7ef6",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip_sap_lstar_import.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip_sap_lstar_import.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip_sap_lstar_import/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopip_sap_lver_export",
+      "id": 52679,
+      "name": "sopip_sap_lver_export",
+      "description": "Export der Leistungsverrechung",
+      "hierarchyId": "b76232d3c50dfb9fa7c3",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopip_sap_lver_export.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopip_sap_lver_export.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopip_sap_lver_export/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopre-cloud-config",
+      "id": 11272,
+      "name": "sopre-cloud-config",
+      "hierarchyId": "dc82b59b654c86c00d13",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "gitflow-template",
+        "id": 302,
+        "name": "gitflow-template",
+        "hierarchyId": "dc82b59b654c86c00d13",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_WZU",
+          "id": 61,
+          "name": "Werkzeugunterstützung",
+          "description": "http://wzu.sbb.ch",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_WZU"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_wzu/gitflow-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_wzu/gitflow-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_WZU/repos/gitflow-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopre-cloud-config.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopre-cloud-config.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopre-cloud-config/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopre-pharao",
+      "id": 39176,
+      "name": "sopre-pharao",
+      "description": "This is a template for create an instance of esta-pharao for your own monitoring project. Here will be the deployment config and as well and as well an example how to configure Pharao.",
+      "hierarchyId": "ad6859e5136aa5d1f659",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "origin": {
+        "slug": "esta-pharao-template",
+        "id": 29254,
+        "name": "esta-pharao-template",
+        "description": "This is a template for create an instance of esta-pharao for your own monitoring project. Here will be the deployment config and as well and as well an example how to configure Pharao.",
+        "hierarchyId": "ad6859e5136aa5d1f659",
+        "scmId": "git",
+        "state": "AVAILABLE",
+        "statusMessage": "Available",
+        "forkable": true,
+        "project": {
+          "key": "KD_ESTA",
+          "id": 71,
+          "name": "Entwicklungsstacks",
+          "description": "Entwicklungsstacks",
+          "public": false,
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://code.sbb.ch/projects/KD_ESTA"
+              }
+            ]
+          }
+        },
+        "public": false,
+        "links": {
+          "clone": [
+            {
+              "href": "https://code.sbb.ch/scm/kd_esta/esta-pharao-template.git",
+              "name": "http"
+            },
+            {
+              "href": "ssh://git@codessh.sbb.ch:7999/kd_esta/esta-pharao-template.git",
+              "name": "ssh"
+            }
+          ],
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/KD_ESTA/repos/esta-pharao-template/browse"
+            }
+          ]
+        }
+      },
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopre-pharao.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopre-pharao.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopre-pharao/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopre-reporting-batch",
+      "id": 40747,
+      "name": "sopre-reporting-batch",
+      "hierarchyId": "c62a85ca504eeece0a88",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopre-reporting-batch.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopre-reporting-batch.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopre-reporting-batch/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreinfo-standort",
+      "id": 12893,
+      "name": "sopreinfo-standort",
+      "hierarchyId": "f28b80a667e89aa35005",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreinfo-standort.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreinfo-standort.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreinfo-standort/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreinfo-toureninfo",
+      "id": 12901,
+      "name": "sopreinfo-toureninfo",
+      "hierarchyId": "82156a98998a7a2d0f04",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreinfo-toureninfo.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreinfo-toureninfo.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreinfo-toureninfo/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreinfo-zug",
+      "id": 12882,
+      "name": "sopreinfo-zug",
+      "hierarchyId": "adf03a8389ebd4b0c980",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreinfo-zug.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreinfo-zug.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreinfo-zug/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-cloud-platform",
+      "id": 41980,
+      "name": "sopreweb-cloud-platform",
+      "hierarchyId": "8a9efb183d6906733382",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-cloud-platform.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-cloud-platform.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-cloud-platform/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-commons",
+      "id": 14106,
+      "name": "sopreweb-commons",
+      "hierarchyId": "bbd220163581e7bb85e0",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-commons.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-commons.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-commons/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-commons-model",
+      "id": 14922,
+      "name": "sopreweb-commons-model",
+      "hierarchyId": "0f860d645235d8d5ecbe",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-commons-model.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-commons-model.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-commons-model/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-dual-employee",
+      "id": 35319,
+      "name": "sopreweb-dual-employee",
+      "hierarchyId": "1c851e13fba191ae8548",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-dual-employee.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-dual-employee.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-dual-employee/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-fachbus",
+      "id": 12864,
+      "name": "sopreweb-fachbus",
+      "hierarchyId": "4fa5ca1ad75734b09c60",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-fachbus.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-fachbus.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-fachbus/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-frontend",
+      "id": 12791,
+      "name": "sopreweb-frontend",
+      "hierarchyId": "9e110c9634f30024c831",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-frontend.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-frontend.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-frontend/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-frontend-status",
+      "id": 13174,
+      "name": "sopreweb-frontend-status",
+      "hierarchyId": "66ce221ced640d5d9d55",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-frontend-status.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-frontend-status.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-frontend-status/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-hilfe",
+      "id": 12869,
+      "name": "sopreweb-hilfe",
+      "hierarchyId": "26d7df230ff75c8d27c0",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-hilfe.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-hilfe.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-hilfe/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-kalender",
+      "id": 22484,
+      "name": "sopreweb-kalender",
+      "hierarchyId": "152907f005c8b6aa8a8f",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-kalender.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-kalender.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-kalender/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-login-page",
+      "id": 38784,
+      "name": "sopreweb-login-page",
+      "hierarchyId": "bf712f41b7514b989747",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-login-page.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-login-page.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-login-page/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-mitarbeiter-management",
+      "id": 42956,
+      "name": "sopreweb-mitarbeiter-management",
+      "hierarchyId": "0405b71d1cfccf8f8b63",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-mitarbeiter-management.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-mitarbeiter-management.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-mitarbeiter-management/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-psn",
+      "id": 12860,
+      "name": "sopreweb-psn",
+      "hierarchyId": "d366029974f646281062",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-psn.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-psn.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-psn/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-rangier",
+      "id": 45665,
+      "name": "sopreweb-rangier",
+      "hierarchyId": "c8fe235b53fd3ba46470",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-rangier.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-rangier.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-rangier/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-release-note",
+      "id": 35501,
+      "name": "sopreweb-release-note",
+      "hierarchyId": "2880ff39994943e41e9e",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-release-note.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-release-note.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-release-note/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-statusmeldung",
+      "id": 12866,
+      "name": "sopreweb-statusmeldung",
+      "hierarchyId": "96fb5d01dd02e001965f",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-statusmeldung.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-statusmeldung.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-statusmeldung/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-team",
+      "id": 34628,
+      "name": "sopreweb-team",
+      "hierarchyId": "a2c03ce2ab7ef23d0b94",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-team.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-team.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-team/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-tools",
+      "id": 41849,
+      "name": "sopreweb-tools",
+      "description": "Ablage für geschriebene Hilfe-Programme.",
+      "hierarchyId": "07fb072583d5dec0c060",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-tools.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-tools.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-tools/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-tourdetail",
+      "id": 12858,
+      "name": "sopreweb-tourdetail",
+      "hierarchyId": "90c6c6d172631e9a359e",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-tourdetail.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-tourdetail.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-tourdetail/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-tourenplan",
+      "id": 12792,
+      "name": "sopreweb-tourenplan",
+      "hierarchyId": "442eb65acc3575d02562",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-tourenplan.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-tourenplan.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-tourenplan/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-websphere",
+      "id": 43768,
+      "name": "sopreweb-websphere",
+      "hierarchyId": "2b96aead6c7227988178",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-websphere.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-websphere.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-websphere/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-wuensche",
+      "id": 12859,
+      "name": "sopreweb-wuensche",
+      "hierarchyId": "a1c9b2af76fe936043a3",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-wuensche.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-wuensche.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-wuensche/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopreweb-zeitkonten",
+      "id": 12762,
+      "name": "sopreweb-zeitkonten",
+      "hierarchyId": "32d3d5e909cf12a199a4",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_SOPRE",
+        "id": 2131,
+        "name": "Sopre",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_SOPRE"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_sopre/sopreweb-zeitkonten.git",
+            "name": "ssh"
+          },
+          {
+            "href": "https://code.sbb.ch/scm/pz_sopre/sopreweb-zeitkonten.git",
+            "name": "http"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_SOPRE/repos/sopreweb-zeitkonten/browse"
+          }
+        ]
+      }
+    }
+  ],
+  "start": 0
+}

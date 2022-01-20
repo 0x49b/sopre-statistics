@@ -1,0 +1,92 @@
+{
+  "size": 2,
+  "limit": 999,
+  "isLastPage": true,
+  "values": [
+    {
+      "slug": "sopre-activityplanner",
+      "id": 50357,
+      "name": "SOPRE-ActivityPlanner",
+      "hierarchyId": "3ce12b2d69cfd1347f77",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_QUINTIQ",
+        "id": 2859,
+        "name": "Quintiq",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_QUINTIQ"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_quintiq/sopre-activityplanner.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_quintiq/sopre-activityplanner.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_QUINTIQ/repos/sopre-activityplanner/browse"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "sopre-employeeplanner",
+      "id": 50358,
+      "name": "SOPRE-EmployeePlanner",
+      "hierarchyId": "95cea03caa83b160b709",
+      "scmId": "git",
+      "state": "AVAILABLE",
+      "statusMessage": "Available",
+      "forkable": true,
+      "project": {
+        "key": "PZ_QUINTIQ",
+        "id": 2859,
+        "name": "Quintiq",
+        "public": false,
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://code.sbb.ch/projects/PZ_QUINTIQ"
+            }
+          ]
+        }
+      },
+      "public": false,
+      "links": {
+        "clone": [
+          {
+            "href": "https://code.sbb.ch/scm/pz_quintiq/sopre-employeeplanner.git",
+            "name": "http"
+          },
+          {
+            "href": "ssh://git@codessh.sbb.ch:7999/pz_quintiq/sopre-employeeplanner.git",
+            "name": "ssh"
+          }
+        ],
+        "self": [
+          {
+            "href": "https://code.sbb.ch/projects/PZ_QUINTIQ/repos/sopre-employeeplanner/browse"
+          }
+        ]
+      }
+    }
+  ],
+  "start": 0
+}

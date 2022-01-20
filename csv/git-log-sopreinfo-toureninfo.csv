@@ -1,0 +1,25 @@
+Mon Dec 6 11:21:41 2021 +0100,e516596,Merge pull request #93 in PZ_SOPRE/sopreinfo-toureninfo from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Tue Nov 30 09:00:20 2021 +0100,e516596,DB(SOPRE-31635) DONE,,removed spring boot admin and related configurations
+Thu Nov 18 15:14:20 2021 +0100,e516596,DB(SOPRE-31635) DONE,,updated the spring-starter-parent to >2.5.6< (okt.2021 release)     -> automatically updates the spring-starter security to >2.5.6<        ->includes spring security >2.5.3< ,updated the Jackson and common.io libraries ,refactored the controllers @AuthenticationPrincipal class ,removed the unnessesary endpoints configs as they were the default
+Wed Nov 17 16:05:05 2021 +0100,e516596,DB(SOPRE-31635) DONE,,updated the spring-starter-parent to >2.5.6< (okt.2021 release)     -> automatically updates the spring-starter security to >2.5.6<        ->includes spring security >2.5.3< ,resolved dependency conflict
+Wed Oct 27 10:43:32 2021 +0200,ue67532,Pull request #91,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Aug 30 16:06:00 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Mon Aug 9 10:42:57 2021 +0200,ue67532,Pull request #88,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages
+Mon Aug 9 10:37:18 2021 +0200,ue67532,SOPRE-26213,Add RP to berufsgruppe
+Wed Apr 7 12:52:08 2021 +0200,ue67532,Pull request #86,feature/SOPRE-27883-sbb-vaterschaftsurlaub-2021-in-sopreweb-als-wunschart
+Wed Apr 7 12:17:55 2021 +0200,ue67532,SOPRE-27883 -Add new LeaveType UV2021
+Mon Mar 22 08:47:57 2021 +0100,ue67532,Pull request #84,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:32:40 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Wed Mar 17 14:19:00 2021 +0100,ue67532,Pull request #82,feature/SOPRE-26303-sopreweb-mit-rg-berechtigung-kann-nur-auf-zf-zugegriffen-werden
+Wed Mar 17 14:12:55 2021 +0100,ue67532,SOPRE-26303,Retrieve also RG data with Role SOPREINFO_EXPERT_ZF
+Fri Feb 26 16:44:11 2021 +0100,ue67532,Pull request #80,feature/SOPRE-25227-tzt80-20-und-tzt2021-in-sweb-als-wunsch-auswahlbar
+Fri Feb 26 16:39:17 2021 +0100,ue67532,SOPRE-25227,Fix for TZT-RG -> use leavetype 90482 instead of 90480
+Thu Feb 25 15:47:04 2021 +0100,automerge,Merge pull request #78 in PZ_SOPRE/sopreinfo-toureninfo from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Wed Feb 17 17:48:15 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code
+Fri Feb 12 08:12:54 2021 +0100,ue67532,Pull request #76,feature/SOPRE-25227-tzt80-20-und-tzt2021-in-sweb-als-wunsch-auswahlbar
+Mon Feb 8 17:13:06 2021 +0100,ue67532,SOPRE-25227,Create new Abwesenheits enums, refactor existing code
+Mon Feb 8 17:10:24 2021 +0100,ue67532,SOPRE-25227,Create new Abwesenheits enums, refactor existing code
+Mon Feb 8 17:09:08 2021 +0100,ue67532,SOPRE-25227,Create new Abwesenheits enums, refactor existing code
+Mon Jan 11 15:28:52 2021 +0100,automerge,Merge pull request #74 in PZ_SOPRE/sopreinfo-toureninfo from feature/SOPRE-25129-sopreweb-touren-info-checkboxen to develop
+Mon Jan 11 15:17:17 2021 +0100,ue67532,SOPRE-25129,Remove unused url
+Mon Jan 11 15:08:57 2021 +0100,ue67532,SOPRE-25129,Refactor code

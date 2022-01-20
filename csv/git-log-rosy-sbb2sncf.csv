@@ -1,0 +1,56 @@
+Mon Nov 22 10:51:32 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Mon Nov 22 10:51:12 2021 +0100,e509243,ROSYF-135,Move to lisa
+Wed Nov 17 13:47:24 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Wed Nov 17 13:46:43 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.10
+Thu Nov 11 15:42:44 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Thu Nov 11 15:42:25 2021 +0100,e509243,ROSYF-132,SpringBoot Upgrade
+Mon Oct 18 10:57:18 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Mon Oct 18 10:56:19 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.9
+Mon Oct 18 10:27:16 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Mon Oct 18 10:26:55 2021 +0200,e509243,New URL received from SNCF for production
+Fri Oct 1 08:45:23 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Fri Oct 1 08:44:56 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.8
+Fri Oct 1 08:39:53 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Fri Oct 1 08:39:31 2021 +0200,e509243,Removed unresponsive URL from config; post synchronously again
+Wed Sep 29 14:00:14 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Wed Sep 29 13:59:49 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.7
+Wed Sep 29 13:54:13 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Wed Sep 29 13:53:37 2021 +0200,e509243,More logging
+Wed Sep 29 10:57:57 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Wed Sep 29 10:57:36 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.6
+Wed Sep 29 10:52:39 2021 +0200,e509243,ROSYF-122 Request new token when expired.
+Wed Sep 29 10:36:17 2021 +0200,e509243,Log when obtaining token
+Wed Sep 22 11:25:49 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Wed Sep 22 11:25:28 2021 +0200,e509243,new URL from SNCF
+Tue Sep 14 10:17:06 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Tue Sep 14 10:16:38 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.5
+Mon Sep 13 16:10:18 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Mon Sep 13 16:09:57 2021 +0200,e509243,New url+header received from SCNF
+Fri Sep 10 11:08:13 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Fri Sep 10 11:07:30 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.4
+Fri Sep 10 11:00:53 2021 +0200,e509243,Better errormessage
+Fri Sep 3 08:07:43 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Fri Sep 3 08:07:23 2021 +0200,e509243,New URL for DEV received from SNCF
+Thu Sep 2 17:13:50 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Thu Sep 2 17:13:00 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.3
+Thu Sep 2 17:07:17 2021 +0200,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Thu Sep 2 17:06:50 2021 +0200,e509243,log incoming message on info level
+Tue Mar 30 11:41:34 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Tue Mar 30 11:40:51 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.2
+Tue Mar 30 11:35:59 2021 +0200,e509243,ROSYF-17 Move int and prod to asterix
+Mon Mar 15 12:00:39 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Mon Mar 15 12:00:11 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.1
+Mon Mar 15 11:53:59 2021 +0100,e509243,ROSYF-17 Move to test07
+Wed Mar 10 16:28:26 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Wed Mar 10 16:28:01 2021 +0100,e509243,Move dev to test07
+Wed Mar 3 16:34:39 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.6.0-SNAPSHOT
+Wed Mar 3 16:32:14 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.5.0
+Wed Mar 3 16:25:33 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Wed Mar 3 16:25:14 2021 +0100,e509243,Re-add "Posting to"-log
+Wed Mar 3 16:21:56 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.5.0-SNAPSHOT
+Wed Mar 3 16:21:11 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.4.0
+Wed Mar 3 16:13:27 2021 +0100,e509243,Merge branch 'develop' of https://code.sbb.ch/scm/pz_rosy/rosy-sbb2sncf.git into develop
+Wed Mar 3 16:13:04 2021 +0100,e509243,Post to SNCF asynchronically to prevent influence on rabbit-transaction
+Tue Jan 5 17:03:04 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.4.0-SNAPSHOT
+Tue Jan 5 17:02:19 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.3.0
+Tue Jan 5 16:55:13 2021 +0100,e509243,Splunk migration

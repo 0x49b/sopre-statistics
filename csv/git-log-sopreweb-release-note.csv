@@ -1,0 +1,13 @@
+Mon Dec 6 11:29:17 2021 +0100,e516596,Merge pull request #32 in PZ_SOPRE/sopreweb-release-note from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Tue Nov 30 11:12:21 2021 +0100,e516596,DB(SOPRE-31635)  DONE, ,removed local config
+Tue Nov 30 11:11:49 2021 +0100,e516596,DB(SOPRE-31635)  DONE, ,removed local config
+Tue Nov 30 11:10:25 2021 +0100,e516596,DB(SOPRE-31635)  DONE, ,removed spring boots admin and its configuration
+Tue Nov 23 11:52:05 2021 +0100,e516596,DB(SOPRE-31635)  DONE, ,updated the spring-starter-parent to v2.5.6 (okt.2021 release)      -> automatically updates the spring-starter security to v2.5.6         -> includes spring security v5.5.3 (both web and config)  ,updated the Jackson and common.io libraries  ,refactored the controllers @AuthenticationPrincipal class  ,removed the unnecessary endpoint configs as they were set the default values
+Wed Oct 27 10:42:57 2021 +0200,ue67532,Pull request #30,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Aug 30 16:19:36 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Wed Mar 24 07:08:12 2021 +0100,ue67532,Pull request #27,feature/SOPRE-25817-sopreweb-admin-rolle-fachbus_all-falsch
+Tue Mar 23 17:44:43 2021 +0100,ue67532,SOPRE-25817,Manage new role FACHBUS_ADMIN
+Mon Mar 22 08:48:26 2021 +0100,ue67532,Pull request #25,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:37:59 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Thu Feb 25 15:55:26 2021 +0100,automerge,Merge pull request #23 in PZ_SOPRE/sopreweb-release-note from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Fri Feb 19 07:54:38 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code

@@ -1,0 +1,8 @@
+Mon Nov 22 11:38:34 2021 +0100,e509243,Move to aws
+Mon Nov 22 11:32:51 2021 +0100,e509243,Version++
+Mon Nov 22 11:31:28 2021 +0100,e509243,ROSYF-135,Move API to Lisa
+Mon Mar 29 15:48:10 2021 +0200,e509243,ROSYF-17 move int and prod to asterix
+Mon Mar 15 13:35:44 2021 +0100,e509243,ROSYF-17 Move test to test07
+Fri Mar 12 11:05:18 2021 +0100,e509243,ROSYF-19 Add cluster-independent url
+Thu Mar 11 11:50:40 2021 +0100,e509243,ROSYF-19 Cluster independent URL; ROSYF-17 move dev to test07
+Fri Feb 26 09:42:51 2021 +0100,e509243,ROSYF-22 Set MegaID

@@ -1,0 +1,12 @@
+Wed Dec 8 16:21:39 2021 +0100,e516596,Pull request #46,feature/SOPRE-31635-sopreweb-spring-security-update
+Wed Dec 8 16:16:57 2021 +0100,e516596,DB(SOPRE-31635) DONE,,updated hikari pool size into the configs
+Wed Dec 8 15:43:03 2021 +0100,e516596,Merge pull request #44 in PZ_SOPRE/sopip-ect-adapter from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Wed Dec 8 15:28:19 2021 +0100,e516596,DB(SOPRE-31635) DONE,,updated pom ,updated spring security ,removed the keycloak implementation with oath2 (required for Spring Boot 2) ,updated the configuration files for the new oauth resource server
+Wed Oct 27 17:41:26 2021 +0200,ue67532,Pull request #42,feature/SOPRE-26967-new-db-users-for-sopreweb
+Wed Oct 27 17:39:58 2021 +0200,ue67532,SOPRE-26967,Add Schema on ect query
+Wed Oct 27 13:29:59 2021 +0200,ue67532,Pull request #40,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Aug 30 16:00:29 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Mon Mar 22 08:47:50 2021 +0100,ue67532,Pull request #37,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:31:40 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Thu Feb 25 15:47:14 2021 +0100,automerge,Merge pull request #35 in PZ_SOPRE/sopip-ect-adapter from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Wed Feb 17 17:13:25 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code

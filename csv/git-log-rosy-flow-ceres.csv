@@ -1,0 +1,70 @@
+Fri Dec 17 15:38:03 2021 +0100,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Fri Dec 17 15:37:40 2021 +0100,e509243,ROSYF-159,Explicitly sort Vehicles before processing
+Wed Dec 15 10:48:27 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Wed Dec 15 10:47:48 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.12
+Wed Dec 15 10:42:12 2021 +0100,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Wed Dec 15 10:41:55 2021 +0100,e509243,ROSYF-157 Don't send foreign trains to CeresDB anymore; only to Kafka
+Mon Dec 13 08:16:50 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Mon Dec 13 08:16:12 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.11
+Mon Dec 13 08:12:03 2021 +0100,e509243,Fix failing tests
+Mon Dec 13 08:06:44 2021 +0100,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Mon Dec 13 08:05:53 2021 +0100,e509243,Mitigate log4j-core security vulnerability
+Fri Nov 26 10:39:56 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Fri Nov 26 10:39:30 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.10
+Wed Nov 24 09:17:10 2021 +0100,e509243,ROSYF-132 Fix healthcheck regression
+Mon Nov 22 11:06:21 2021 +0100,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Mon Nov 22 11:02:28 2021 +0100,e509243,ROSYF-135,Move to lisa
+Wed Nov 17 13:17:50 2021 +0100,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Wed Nov 17 13:16:37 2021 +0100,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.9
+Wed Nov 17 13:12:42 2021 +0100,e509243,Prepare for release
+Wed Nov 17 10:07:02 2021 +0100,e509243,Lookup BPs for GEMS-origin too
+Wed Nov 17 08:49:25 2021 +0100,e509243,Fix test
+Wed Nov 17 08:46:58 2021 +0100,e509243,Fix didok
+Wed Nov 17 08:21:19 2021 +0100,e509243,Use simpler JSON
+Tue Nov 16 10:16:42 2021 +0100,e509243,Use latest ifolov-persistence
+Thu Nov 11 15:45:18 2021 +0100,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Thu Nov 11 15:45:00 2021 +0100,e509243,ROSYF-132,SpringBoot Upgrade
+Wed Oct 27 09:05:09 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Wed Oct 27 09:04:48 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.8
+Tue Oct 26 13:10:43 2021 +0200,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Tue Oct 26 13:10:24 2021 +0200,e509243,ROSYF-100 Send foreign trains to the ceres-DB too
+Thu Sep 23 10:40:16 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Thu Sep 23 10:39:48 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.7
+Thu Sep 23 10:35:09 2021 +0200,e509243,Fix test dbname
+Thu Sep 23 10:21:52 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Thu Sep 23 10:20:57 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.6
+Thu Sep 23 10:16:33 2021 +0200,e509243,Write foreign formations to internal DB anyway
+Wed Sep 22 11:29:42 2021 +0200,e509243,Moved prod to PGO
+Mon Sep 20 14:39:54 2021 +0200,e509243,Configure idle timeout for PGO environment.
+Mon Sep 20 14:37:50 2021 +0200,e509243,Don't use synchronized()
+Fri Sep 10 10:56:23 2021 +0200,e509243,ROSYF-85,w.i.p. FZFamily config
+Wed Sep 8 14:32:48 2021 +0200,e509243,ROSYF-85 w.i.p. Forward certain trains to Ceres over Kafka
+Wed Aug 25 11:26:00 2021 +0200,e509243,Moved TestDB to PGO
+Tue Aug 17 14:58:57 2021 +0200,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Tue Aug 17 14:58:41 2021 +0200,e509243,Move dev DB
+Tue Jul 13 11:05:40 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Tue Jul 13 11:05:09 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.5
+Tue Jul 13 10:50:04 2021 +0200,e509243,ROSYF-83,Don't rethrow, so we don't continuously retry.
+Mon Jul 5 14:41:13 2021 +0200,e509243,Fixed failing tests
+Mon Jul 5 14:22:26 2021 +0200,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Mon Jul 5 14:22:09 2021 +0200,e509243,Use correct UNO-queries in rosy2ceres too.
+Mon Jun 7 11:08:28 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Mon Jun 7 11:08:01 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.3
+Wed Jun 2 17:14:25 2021 +0200,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Wed Jun 2 17:14:07 2021 +0200,e509243,ROSYF-67 Exclude unoDB from healthcheck
+Fri May 14 11:43:49 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Fri May 14 11:43:26 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.2
+Fri May 14 11:37:36 2021 +0200,e509243,Fix dependencies.
+Fri May 14 11:26:02 2021 +0200,e509243,Compilation fixes
+Fri May 14 11:21:53 2021 +0200,e509243,Merge branch 'develop' of https://e509243@code.sbb.ch/scm/pz_rosy/rosy-flow-ceres.git into develop
+Fri May 14 11:21:08 2021 +0200,e509243,ROSYF-11 Changes due to cleaning up rosy-core.
+Tue Apr 6 14:58:24 2021 +0200,jenkins,[pipeline-helper] Set next dev version 0.1.0-SNAPSHOT
+Tue Apr 6 14:58:00 2021 +0200,jenkins,[pipeline-helper] Committing and releasing stable version 0.0.1
+Tue Apr 6 14:52:12 2021 +0200,e509243,Depend on a release instead of a snapshot
+Tue Apr 6 14:29:55 2021 +0200,e509243,Fix healthcheck
+Tue Apr 6 14:18:38 2021 +0200,e509243,Fix formatting
+Tue Apr 6 14:10:54 2021 +0200,e509243,Fix queuehost config
+Tue Apr 6 13:59:30 2021 +0200,e509243,Fix spelling
+Tue Apr 6 13:54:24 2021 +0200,e509243,Fix missing config
+Tue Apr 6 13:13:47 2021 +0200,e509243,Pull request #1,Application to shovel data from queue to Ceres
+Tue Apr 6 13:11:09 2021 +0200,e509243,Application to shovel data from queue to Ceres

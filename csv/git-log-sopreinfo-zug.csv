@@ -1,0 +1,25 @@
+Mon Dec 6 11:22:54 2021 +0100,e516596,Merge pull request #103 in PZ_SOPRE/sopreinfo-zug from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Tue Nov 30 12:36:35 2021 +0100,e516596,DB(SOPRE-31635) DONE,,updated spring cloud version
+Tue Nov 30 09:20:36 2021 +0100,e516596,DB(SOPRE-31635) DONE,,removed the spring boot admin related configurations
+Tue Nov 30 09:10:29 2021 +0100,e516596,DB(SOPRE-31635) DONE,,removed the spring boot admin and related configurations
+Thu Nov 18 15:34:46 2021 +0100,e516596,DB(SOPRE-31635) DONE,,updated the spring-starter-parent to >2.5.6< (okt.2021 release)     -> automatically updates the spring-starter security to >2.5.6<        ->includes spring security >2.5.3< ,updated the Jackson and common.io libraries ,refactored the controllers @AuthenticationPrincipal class ,removed the unnecessary endpoints configs as they were the default
+Wed Oct 27 10:43:29 2021 +0200,ue67532,Pull request #100,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Aug 30 16:07:27 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Thu Apr 15 09:00:11 2021 +0200,ue67532,Pull request #97,feature/SOPRE-26977-personalnummer-in-sopreinfo-anzeigen
+Thu Apr 15 08:54:40 2021 +0200,ue67532,SOPRE-26977,Add business personalnummer
+Mon Mar 22 08:48:00 2021 +0100,ue67532,Pull request #95,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:32:59 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Wed Mar 17 14:19:02 2021 +0100,ue67532,Pull request #93,feature/SOPRE-26303-sopreweb-mit-rg-berechtigung-kann-nur-auf-zf-zugegriffen-werden
+Wed Mar 17 14:13:58 2021 +0100,ue67532,SOPRE-26303,Retrieve also RG data with Role SOPREINFO_EXPERT_ZF
+Thu Feb 25 15:46:59 2021 +0100,automerge,Merge pull request #91 in PZ_SOPRE/sopreinfo-zug from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Tue Feb 23 10:48:19 2021 +0100,ue67532,Pull request #89,feature/SOPRE-26676-sopre-pb-sopre-fehlende-abfahrt-ankunftzeiten-im-fahrplan
+Tue Feb 23 10:37:02 2021 +0100,ue67532,SOPRE-26676,Check if betriebszeit is set or not
+Wed Feb 17 17:55:14 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code
+Wed Feb 3 14:32:52 2021 +0100,ue67532,Pull request #87,feature/SOPRE-26676-sopre-pb-sopre
+Wed Feb 3 14:27:17 2021 +0100,ue67532,SOPRE-26676,Fix NullPointerException on betriebszeit
+Fri Jan 8 19:10:50 2021 +0100,automerge,Merge pull request #83 in PZ_SOPRE/sopreinfo-zug from feature/SOPRE-24295-sopreweb-zugsuche-bei-mitternachtsuberschreitenden-zuglaufen to develop
+Fri Jan 8 19:08:36 2021 +0100,ue67532,SOPRE-24295,Renaming from DTOS to DTOs
+Fri Jan 8 19:05:10 2021 +0100,ue67532,SOPRE-24295,Modify attribute type. Use Object type
+Fri Jan 8 18:59:47 2021 +0100,ue67532,SOPRE-24295,Renaming
+Fri Jan 8 17:03:11 2021 +0100,ue67532,SOPRE-24295,Revert naming -> it made more sense before,Use a boolean instead of a string to define if a train track starts previous day or not. Then use minBetriebzeitAb as date on the frontend
+Wed Jan 6 15:56:50 2021 +0100,automerge,Merge pull request #84 in PZ_SOPRE/sopreinfo-zug from feature/SOPRE-25454-sopreweb-zugsuche-rangier to develop

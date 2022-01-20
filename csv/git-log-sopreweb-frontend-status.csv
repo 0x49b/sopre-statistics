@@ -1,0 +1,7 @@
+Mon Dec 6 11:25:16 2021 +0100,e516596,Merge pull request #49 in PZ_SOPRE/sopreweb-frontend-status from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Tue Nov 30 09:58:23 2021 +0100,e516596,DB(SOPRE-31635)  DONE, ,removed spring boots admin and its configurations
+Mon Nov 22 10:05:53 2021 +0100,e516596,DB(SOPRE-31635)  DONE, ,updated the spring-starter-parent to v2.5.6 (okt.2021 release)     -> automatically updates the spring-starter security to v2.5.6        -> includes spring security v5.5.3 (both web and config)  ,updated the Jackson and common.io libraries  ,refactored the controllers @AuthenticationPrincipal class  ,removed the unnecessary endpoint configs as they were set the default values
+Wed Oct 27 10:43:17 2021 +0200,ue67532,Pull request #47,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Aug 30 16:11:20 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Thu Feb 25 15:46:34 2021 +0100,automerge,Merge pull request #44 in PZ_SOPRE/sopreweb-frontend-status from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Wed Feb 17 18:31:26 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code

@@ -1,0 +1,27 @@
+Mon Dec 6 11:30:45 2021 +0100,e516596,Merge pull request #132 in PZ_SOPRE/sopreweb-wuensche from feature/SOPRE-31635-sopreweb-spring-security-update to develop
+Tue Nov 30 11:32:55 2021 +0100,e516596,DB(SOPRE-31635)  DONE,  ,removed spring boots admin and it's config
+Tue Nov 23 15:03:52 2021 +0100,e516596,DB(SOPRE-31635)  DONE,  ,updated the spring-starter-parent to v2.5.6 (okt.2021 release)      -> automatically updates the spring-starter security to v2.5.6        -> includes spring security v5.5.3 (both web and config)   ,updated the Jackson and common.io libraries   ,refactored the controllers @AuthenticationPrincipal class   ,removed the unnecessary endpoint configs as they were set the default values
+Thu Oct 28 08:43:49 2021 +0200,ue67532,Pull request #128,feature/SOPRE-30702 verstandigungen 10min architecture implementation and testing
+Thu Oct 28 08:16:52 2021 +0200,ue67532,SOPRE-30702,Release also on TEST and PRETEST
+Wed Oct 27 10:10:27 2021 +0200,ue67532,Pull request #129,feature/SOPRE-26967-new-db-users-for-sopreweb
+Thu Oct 21 10:57:22 2021 +0200,ue67532,SOPRE-30702,Release only on DEV, BCTEST and DEV60 because TEST (DB) isn't ready yet
+Tue Oct 12 12:54:22 2021 +0200,ue67532,SOPRE-30702,Remove AbwesenheitWunsch rest interface, service and dto,Modify dataset validation -> include wish start date
+Mon Aug 30 16:25:14 2021 +0200,ue67532,SOPRE-26967,Modify db user
+Thu Aug 5 17:27:29 2021 +0200,ue67532,Pull request #125,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages
+Thu Aug 5 17:25:11 2021 +0200,ue67532,SOPRE-26213,Revert all exceptions inserted for test purposes
+Mon Jul 19 08:31:38 2021 +0200,ue67532,Pull request #123,feature/SOPRE-26213-sopreweb-styling-bottom-of-different-pages
+Mon Jul 12 18:03:19 2021 +0200,daniel.vogt2@sbb.ch,SOPRE-26213,Temp change to be able to successfully test the wish errors and warnings
+Wed Apr 7 12:52:20 2021 +0200,ue67532,Pull request #121,feature/SOPRE-27883-sbb-vaterschaftsurlaub-2021-in-sopreweb-als-wunschart
+Wed Apr 7 12:20:03 2021 +0200,ue67532,SOPRE-27883 -Add new LeaveType UV2021
+Wed Mar 24 07:08:22 2021 +0100,ue67532,Pull request #119,feature/SOPRE-25817-sopreweb-admin-rolle-fachbus_all-falsch
+Tue Mar 23 17:37:35 2021 +0100,ue67532,SOPRE-25817,Manage new role FACHBUS_ADMIN
+Mon Mar 22 08:48:41 2021 +0100,ue67532,Pull request #117,feature/SOPRE-26967-new-db-users-for-sopreweb
+Mon Mar 22 08:39:45 2021 +0100,ue67532,SOPRE-26967,Change SPLUNK index
+Fri Feb 26 16:44:20 2021 +0100,ue67532,Pull request #115,feature/SOPRE-25227-tzt80-20-und-tzt2021-in-sweb-als-wunsch-auswahlbar
+Fri Feb 26 16:41:19 2021 +0100,ue67532,SOPRE-25227,Fix for TZT-RG -> use leavetype 90482 instead of 90480
+Thu Feb 25 15:45:22 2021 +0100,automerge,Merge pull request #113 in PZ_SOPRE/sopreweb-wuensche from feature/SOPRE-26967-new-db-users-for-sopreweb to develop
+Fri Feb 19 11:03:13 2021 +0100,ue67532,SOPRE-26967,Remove POC openshift congigs,Remove unused code
+Fri Feb 12 08:12:34 2021 +0100,ue67532,Pull request #111,feature/SOPRE-25227-tzt80-20-und-tzt2021-in-sweb-als-wunsch-auswahlbar
+Mon Feb 8 17:07:15 2021 +0100,ue67532,SOPRE-25227,Create new Abwesenheits enums, refactor existing code
+Wed Jan 20 17:27:37 2021 +0100,ue67532,Pull request #109,feature/SOPRE-24800-new-role-must-be-able-to-create-wishes-for-choosen-mandant
+Wed Jan 20 17:22:48 2021 +0100,ue67532,SOPRE-24800,Add/Refactor logic to be able to create wishes for a mandant with master_wish_author role

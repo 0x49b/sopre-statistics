@@ -1,3 +1,112 @@
+Wed Dec 22 11:43:29 2021 +0100,e501566,remove old form
+Wed Dec 22 09:32:05 2021 +0100,e513645,Pull request #766,SOPRE-31648 Export more employes to SOPRE Web,Stefan
+Wed Dec 22 07:59:26 2021 +0100,e501566,new list from scratch
+Tue Dec 21 21:18:01 2021 +0100,e501566,new created form
+Tue Dec 21 16:58:20 2021 +0200,e513645,adjusted the default  planning group ID at export
+Tue Dec 21 12:06:43 2021 +0100,e515795,Pull request #764,2022.r2.t1/feature/sopre 30595 translations helen masterview test
+Tue Dec 21 12:58:57 2021 +0200,e515795,Translation correction
+Tue Dec 21 09:43:45 2021 +0200,e515795,Added translations for master view SOPRE-30539
+Tue Dec 21 08:31:40 2021 +0100,e524070,Pull request #722,Changes
+Mon Dec 20 20:41:43 2021 +0100,e501566,debug
+Mon Dec 20 20:07:15 2021 +0100,e501566,dataholder change
+Mon Dec 20 14:50:14 2021 +0100,e510372,Pull request #756,SOPRE-31889 Refinements for the SAP Import Improvements
+Mon Dec 20 15:29:10 2021 +0200,e524070,Added a missing line
+Mon Dec 20 14:37:33 2021 +0200,e524070,Added new response for AnnualLeaveSlotRequest
+Mon Dec 20 14:19:09 2021 +0200,e510372,Merge branch 'develop'
+Mon Dec 20 14:12:55 2021 +0200,e510372,adjustment
+Mon Dec 20 13:58:56 2021 +0200,e524070,Changed text
+Mon Dec 20 10:30:09 2021 +0100,e501566,change dataholder for capacity overview GC
+Mon Dec 20 10:21:39 2021 +0200,e513645,Others may update
+Fri Dec 17 15:22:56 2021 +0200,e524070,Removed commented precondition
+Fri Dec 17 14:59:38 2021 +0200,e524070,Merge branch 'develop'
+Fri Dec 17 14:22:09 2021 +0200,e524070,Removing the dialogs
+Fri Dec 17 13:06:33 2021 +0100,e524070,Pull request #739,SOPRE-31630 bianca leavegroups automation
+Fri Dec 17 09:48:02 2021 +0100,e501566,clean and debug
+Thu Dec 16 18:14:44 2021 +0100,e501566,debug
+Thu Dec 16 16:57:06 2021 +0100,e501566,debug
+Thu Dec 16 15:46:27 2021 +0100,e501566,remove handling changes to propagate to capacity overview
+Thu Dec 16 15:28:49 2021 +0100,e525732,Pull request #737,SOPRE-31734
+Thu Dec 16 14:40:58 2021 +0100,e525732,Pull request #717,SOPRE-31714
+Thu Dec 16 14:57:19 2021 +0200,e513645,reverted MTG Group ID because of SOPIP limitations
+Thu Dec 16 13:56:39 2021 +0100,e525732,refactor
+Thu Dec 16 13:50:26 2021 +0100,e525732,adjustment
+Thu Dec 16 14:40:56 2021 +0200,e513645,added comment
+Thu Dec 16 14:36:26 2021 +0200,ue86889,Add further check and guard
+Thu Dec 16 13:07:37 2021 +0100,e525732,adjustement
+Thu Dec 16 13:37:31 2021 +0200,ue86889,Refactor the Find/Create logic of MemoryStatistics
+Thu Dec 16 12:14:25 2021 +0200,e513645,Adjusted
+Thu Dec 16 11:50:25 2021 +0200,ue86889,Refactor MemoryStatistics dataset find/create logic
+Thu Dec 16 11:05:27 2021 +0200,e524070,Changes
+Thu Dec 16 10:10:59 2021 +0200,ue86889,test remove logger arguments to fix  error
+Thu Dec 16 07:16:37 2021 +0100,e525732,.
+Thu Dec 16 07:15:54 2021 +0100,e525732,remove info statements
+Thu Dec 16 07:12:43 2021 +0100,e525732,for review
+Wed Dec 15 23:46:39 2021 +0200,ue86889,Change logger argumets from Number to Real
+Wed Dec 15 23:33:37 2021 +0200,ue86889,Introduce Find/Create of MemoryStatistics dataset
+Wed Dec 15 23:17:39 2021 +0200,ue86889,Unload instead of Delete
+Wed Dec 15 23:04:21 2021 +0200,ue86889,logging the daemon execution
+Wed Dec 15 22:11:11 2021 +0200,ue86889,Memory statistics daemon implementation
+Wed Dec 15 17:51:10 2021 +0200,ue86889,Back end part of memory statistics logging daemon
+Wed Dec 15 15:46:17 2021 +0100,e510372,Pull request #724,SOPRE-31618 Deactivation Undo/Redo button EP
+Wed Dec 15 14:47:47 2021 +0100,e501566,fix exception
+Wed Dec 15 14:43:48 2021 +0100,e501566,rendering data in capacity overview GC
+Wed Dec 15 15:30:08 2021 +0200,e524070,Changes
+Wed Dec 15 14:30:02 2021 +0100,e501566,dataholder correction
+Wed Dec 15 14:04:42 2021 +0200,e524070,Changes
+Wed Dec 15 12:32:28 2021 +0100,e501566,event handlers in designer
+Wed Dec 15 12:29:22 2021 +0100,e525732,adjustments
+Wed Dec 15 11:50:35 2021 +0100,e525732,for test on DEV
+Wed Dec 15 11:17:25 2021 +0200,e510372,Merge branch 'develop'
+Tue Dec 14 16:18:19 2021 +0100,e501566,new crew depot form for capacity overview GC
+Tue Dec 14 10:48:41 2021 +0200,e524070,Merge branch 'develop'
+Tue Dec 14 09:05:51 2021 +0100,e510372,Pull request #720,SOPRE-31889 Refinements for SAP Import
+Mon Dec 13 16:54:50 2021 +0200,e510372,imp
+Mon Dec 13 14:31:46 2021 +0200,e510372,adjustment
+Mon Dec 13 13:57:31 2021 +0200,e524070,Merge branch 'develop'
+Mon Dec 13 13:37:49 2021 +0200,e524070,Changes
+Mon Dec 13 10:42:20 2021 +0200,e510372,Merge branch 'develop'
+Mon Dec 13 08:30:10 2021 +0100,e524070,Pull request #697,SOPRE-31630 bianca leavegroups automation
+Fri Dec 10 16:25:32 2021 +0100,e525732,ready for review
+Fri Dec 10 13:34:11 2021 +0100,e525732,just for test
+Fri Dec 10 14:24:10 2021 +0200,e510372,imp p3
+Fri Dec 10 12:56:46 2021 +0200,e510372,imp p2
+Fri Dec 10 11:39:43 2021 +0200,e524070,Changes
+Fri Dec 10 11:07:32 2021 +0200,e524070,Change
+Fri Dec 10 10:47:51 2021 +0200,e524070,Change
+Fri Dec 10 09:52:56 2021 +0200,e524070,Added the new overloaded method
+Fri Dec 10 09:39:38 2021 +0200,e524070,Changes after review
+Thu Dec 9 17:49:55 2021 +0200,e510372,imp
+Thu Dec 9 15:26:53 2021 +0200,e522885,adjustment UI
+Wed Dec 8 18:20:24 2021 +0200,e522885,Designer changes
+Wed Dec 8 16:41:16 2021 +0100,e525732,for test
+Wed Dec 8 17:25:23 2021 +0200,e522885,Merge branch 'develop'
+Wed Dec 8 12:40:42 2021 +0100,e525732,reset after the transfer
+Wed Dec 8 08:31:17 2021 +0200,e524070,Merge branch 'develop'
+Tue Dec 7 15:04:07 2021 +0200,e524070,Removed the data bindings in designer
+Tue Dec 7 13:58:56 2021 +0100,e525732,preparation
+Mon Dec 6 16:16:13 2021 +0100,e510372,Pull request #703,SOPRE-31792
+Mon Dec 6 17:05:59 2021 +0200,e510372,adj
+Mon Dec 6 16:40:15 2021 +0200,e510372,adjustment
+Mon Dec 6 08:54:36 2021 +0100,e510372,Pull request #701,2022.r1.t2/feature/sopre 31792 dan
+Fri Dec 3 16:43:02 2021 +0200,e510372,adj
+Fri Dec 3 15:59:47 2021 +0200,e510372,adjustment error description
+Fri Dec 3 15:43:01 2021 +0200,e510372,adj
+Fri Dec 3 12:27:49 2021 +0100,e510372,Pull request #699,2022.r1.t2/feature/sopre 31792 dan
+Fri Dec 3 12:50:33 2021 +0200,e510372,Merge branch 'develop'
+Fri Dec 3 12:44:49 2021 +0200,e510372,adjustment
+Fri Dec 3 12:43:46 2021 +0200,e510372,adjustment
+Thu Dec 2 09:30:48 2021 +0100,e510372,Pull request #692,SOPRE-31792
+Thu Dec 2 08:58:37 2021 +0200,e524070,Merge branch 'develop'
+Mon Nov 29 11:47:32 2021 +0100,e522885,Pull request #690,SOPRE-31861 Hotfix AZG missing relation Roxana
+Fri Nov 26 14:26:05 2021 +0200,e524070,Adding the global parameters to the Parameters form
+Fri Nov 26 12:17:54 2021 +0100,e515795,Pull request #694,SOPRE-30711 warning fix
+Fri Nov 26 08:45:32 2021 +0200,e515795,Deleted reference to the removed KB
+Thu Nov 25 11:45:49 2021 +0200,e510372,Merge branch 'develop'
+Thu Nov 25 11:35:55 2021 +0200,e510372,imp
+Thu Nov 25 10:51:33 2021 +0200,e524070,Adding global parameter for maximum number of slots
+Wed Nov 24 20:09:35 2021 +0200,e522885,added guards
+Wed Nov 24 19:27:59 2021 +0200,e524070,Automatically create AnnualLeaveTypes when creating LeaveGroups
+Wed Nov 24 15:38:42 2021 +0200,e524070,Adding the new global parameters & removing Vacation group checkbox
 Wed Nov 24 13:30:29 2021 +0100,e524070,Pull request #689,SOPRE-31617 bianca employee transfer update data
 Tue Nov 23 12:19:41 2021 +0200,e524070,Changes
 Thu Nov 18 13:33:58 2021 +0200,e524070,Adjustment
@@ -8,6 +117,7 @@ Thu Nov 18 11:30:41 2021 +0100,e532879,Pull request #682,Changing model version 
 Thu Nov 18 11:24:00 2021 +0100,e532879,Changing model version to 3.7.100  for t2
 Thu Nov 18 09:28:22 2021 +0200,e524070,Changes
 Wed Nov 17 20:03:52 2021 +0200,e524070,First changes
+Wed Nov 17 17:32:15 2021 +0200,e510372,imp
 Wed Nov 17 08:58:32 2021 +0100,e515795,Pull request #676,2022.r2.t1/feature/sopre 26423 helen cyclic roster ep cleanup
 Wed Nov 17 09:53:46 2021 +0200,e515795,Deleted one more attribute from ShiftCyclePlanEmployee
 Tue Nov 16 14:55:24 2021 +0100,e515795,Pull request #677,Added T2 translations
